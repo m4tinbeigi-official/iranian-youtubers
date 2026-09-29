@@ -1,0 +1,1579 @@
+[
+  {
+    "id": 1,
+    "name": "آریا کئوکسر",
+    "handle": "AriaKeoxer",
+    "channel_url": "https://www.youtube.com/@AriaKeoxer",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 820000,
+    "subscribers_display": "۸۲۰K",
+    "bio": "پیشگام یوتوب فارسی، تولید محتوای سرگرمی، بازی و ریکشن.",
+    "avatar": "avatars/ariakeoxer.svg",
+    "tags": [
+      "گیم",
+      "ریکت",
+      "طنز"
+    ],
+    "accent_color": "#ef4444",
+    "verified": true
+  },
+  {
+    "id": 2,
+    "name": "پوریا پوتک",
+    "handle": "BravePutak",
+    "channel_url": "https://www.youtube.com/@BravePutak",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 850000,
+    "subscribers_display": "۸۵۰K",
+    "bio": "رپر و یوتیوبر پرطرفدار، ویدیوهای چالش، ری‌اکت و کمدی.",
+    "avatar": "avatars/braveputak.svg",
+    "tags": [
+      "رپ",
+      "چالش",
+      "سرگرمی"
+    ],
+    "accent_color": "#f97316",
+    "verified": true
+  },
+  {
+    "id": 3,
+    "name": "فرشاد سایلنت",
+    "handle": "FarshadSilent",
+    "channel_url": "https://www.youtube.com/@FarshadSilent",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 810000,
+    "subscribers_display": "۸۱۰K",
+    "bio": "تولید ویدیوهای طنز، چالش‌های گروهی و استریم‌های خنده‌دار.",
+    "avatar": "avatars/farshadsilent.svg",
+    "tags": [
+      "طنز",
+      "چالش",
+      "ولاگ"
+    ],
+    "accent_color": "#eab308",
+    "verified": true
+  },
+  {
+    "id": 4,
+    "name": "میا پلیز",
+    "handle": "MiaPlays",
+    "channel_url": "https://www.youtube.com/@MiaPlays",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 680000,
+    "subscribers_display": "۶۸۰K",
+    "bio": "اولین یوتیوبر زن پیشرو در ایران، محتوای خانوادگی، بازی و ولاگ سفر.",
+    "avatar": "avatars/miaplays.svg",
+    "tags": [
+      "ولاگ",
+      "سرگرمی",
+      "طنز"
+    ],
+    "accent_color": "#ec4899",
+    "verified": true
+  },
+  {
+    "id": 5,
+    "name": "کوروش توپیا",
+    "handle": "KouroshTopia",
+    "channel_url": "https://www.youtube.com/@KouroshTopia",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 660000,
+    "subscribers_display": "۶۶۰K",
+    "bio": "خالق کوروش‌توپیا، پادشاهی طنز و استریم‌های دونفره با میا.",
+    "avatar": "avatars/kouroshtopia.svg",
+    "tags": [
+      "کمدی",
+      "طنز",
+      "کومان"
+    ],
+    "accent_color": "#8b5cf6",
+    "verified": true
+  },
+  {
+    "id": 6,
+    "name": "مدگل",
+    "handle": "MadGal",
+    "channel_url": "https://www.youtube.com/@MadGal",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 690000,
+    "subscribers_display": "۶۹۰K",
+    "bio": "موزیسین، داستان‌های رمزآلود، پرونده‌های جنایی و تئوری‌های توطئه.",
+    "avatar": "avatars/madgal.svg",
+    "tags": [
+      "مرموز",
+      "جنایی",
+      "موسیقی"
+    ],
+    "accent_color": "#6366f1",
+    "verified": true
+  },
+  {
+    "id": 7,
+    "name": "سوگنگ",
+    "handle": "SoGang",
+    "channel_url": "https://www.youtube.com/@SoGang",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 620000,
+    "subscribers_display": "۶۲۰K",
+    "bio": "ویدیوهای ترند، ولاگ‌های روزمره، دورهمی‌ها و ریکشن‌های پرانرژی.",
+    "avatar": "avatars/sogang.svg",
+    "tags": [
+      "ریکت",
+      "ولاگ",
+      "ترند"
+    ],
+    "accent_color": "#3b82f6",
+    "verified": true
+  },
+  {
+    "id": 8,
+    "name": "حامی کی‌ام",
+    "handle": "HamiKM",
+    "channel_url": "https://www.youtube.com/@HamiKM",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 540000,
+    "subscribers_display": "۵۴۰K",
+    "bio": "چالش‌های خیابانی، مسابقات جایزه‌دار و شوخی با مردم.",
+    "avatar": "avatars/hamikm.svg",
+    "tags": [
+      "مسابقه",
+      "چالش",
+      "خیابانی"
+    ],
+    "accent_color": "#10b981",
+    "verified": true
+  },
+  {
+    "id": 9,
+    "name": "متلی",
+    "handle": "Metly",
+    "channel_url": "https://www.youtube.com/@Metly",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 510000,
+    "subscribers_display": "۵۱۰K",
+    "bio": "چالش‌های ۲۴ ساعته، تفریحی و ویدیوهای تعاملی با مخاطبان.",
+    "avatar": "avatars/metly.svg",
+    "tags": [
+      "۲۴ساعته",
+      "چالش",
+      "تفریح"
+    ],
+    "accent_color": "#14b8a6",
+    "verified": true
+  },
+  {
+    "id": 10,
+    "name": "ختن",
+    "handle": "Khatan",
+    "channel_url": "https://www.youtube.com/@Khatan",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 480000,
+    "subscribers_display": "۴۸۰K",
+    "bio": "تست وسایل عجیب، چالش‌های غذایی و سرگرمی روزمره با علی.",
+    "avatar": "avatars/khatan.svg",
+    "tags": [
+      "تست",
+      "چالش",
+      "آنباکس"
+    ],
+    "accent_color": "#f43f5e",
+    "verified": true
+  },
+  {
+    "id": 11,
+    "name": "علی بروکس",
+    "handle": "AliBrooks",
+    "channel_url": "https://www.youtube.com/@AliBrooks",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 420000,
+    "subscribers_display": "۴۲۰K",
+    "bio": "دوربین مخفی، ولاگ و ویدیوهای طنز اجتماعی در یوتوب فارسی.",
+    "avatar": "avatars/alibrooks.svg",
+    "tags": [
+      "دوربین‌مخفی",
+      "طنز",
+      "ولاگ"
+    ],
+    "accent_color": "#a855f7",
+    "verified": true
+  },
+  {
+    "id": 12,
+    "name": "علی گریزی",
+    "handle": "AliGrezy",
+    "channel_url": "https://www.youtube.com/@AliGrezy",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 390000,
+    "subscribers_display": "۳۹۰K",
+    "bio": "چالش‌های هیجان‌انگیز، تست اسباب‌بازی‌ها و طنز تعاملی.",
+    "avatar": "avatars/aligrezy.svg",
+    "tags": [
+      "هیجان",
+      "چالش",
+      "طنز"
+    ],
+    "accent_color": "#06b6d4",
+    "verified": true
+  },
+  {
+    "id": 13,
+    "name": "کومان",
+    "handle": "KoumanOfficial",
+    "channel_url": "https://www.youtube.com/@KoumanOfficial",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 380000,
+    "subscribers_display": "۳۸۰K",
+    "bio": "پروژه مشترک کوروش و ایمان؛ تست خوراکی‌ها، طعم‌های جدید و آزمایش‌های عجیب.",
+    "avatar": "avatars/koumanofficial.svg",
+    "tags": [
+      "تست‌غذا",
+      "کمدی",
+      "کوروش"
+    ],
+    "accent_color": "#e11d48",
+    "verified": true
+  },
+  {
+    "id": 14,
+    "name": "پویان ان‌آر",
+    "handle": "PouyanNR",
+    "channel_url": "https://www.youtube.com/@PouyanNR",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 350000,
+    "subscribers_display": "۳۵۰K",
+    "bio": "دوربین مخفی‌های خلاقانه و تولید محتوای فان خیابانی.",
+    "avatar": "avatars/pouyannr.svg",
+    "tags": [
+      "پرنک",
+      "خیابانی",
+      "کمدی"
+    ],
+    "accent_color": "#fb923c",
+    "verified": true
+  },
+  {
+    "id": 15,
+    "name": "دلسان",
+    "handle": "Delsan",
+    "channel_url": "https://www.youtube.com/@Delsan",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 310000,
+    "subscribers_display": "۳۱۰K",
+    "bio": "ولاگ‌های خانوادگی و ویدیوهای شوخی و سبک زندگی.",
+    "avatar": "avatars/delsan.svg",
+    "tags": [
+      "خانوادگی",
+      "ولاگ",
+      "طنز"
+    ],
+    "accent_color": "#f472b6",
+    "verified": true
+  },
+  {
+    "id": 16,
+    "name": "سپهر خلسه",
+    "handle": "Khalse",
+    "channel_url": "https://www.youtube.com/@Khalse",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 290000,
+    "subscribers_display": "۲۹۰K",
+    "bio": "رپر ایرانی، استریم، مصاحبه و ریکت به میم‌های فارسی.",
+    "avatar": "avatars/khalse.svg",
+    "tags": [
+      "رپ",
+      "میم",
+      "استریم"
+    ],
+    "accent_color": "#9333ea",
+    "verified": true
+  },
+  {
+    "id": 17,
+    "name": "ایمان دست‌پاک",
+    "handle": "ImanDastpak",
+    "channel_url": "https://www.youtube.com/@ImanDastpak",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 260000,
+    "subscribers_display": "۲۶۰K",
+    "bio": "عضو تیم کومان، ویدیوهای طنز، تست محصولات و ولاگ.",
+    "avatar": "avatars/imandastpak.svg",
+    "tags": [
+      "کمدی",
+      "تست",
+      "ولاگ"
+    ],
+    "accent_color": "#0284c7",
+    "verified": true
+  },
+  {
+    "id": 18,
+    "name": "فرشاد کلوت",
+    "handle": "FarshadKllot",
+    "channel_url": "https://www.youtube.com/@FarshadKllot",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 220000,
+    "subscribers_display": "۲۲۰K",
+    "bio": "ولاگ و ویدیوهای تفریحی و چالش با دوستان یوتیوبر.",
+    "avatar": "avatars/farshadkllot.svg",
+    "tags": [
+      "ولاگ",
+      "تفریح",
+      "چلنج"
+    ],
+    "accent_color": "#059669",
+    "verified": true
+  },
+  {
+    "id": 19,
+    "name": "آرتا",
+    "handle": "ArtaOfficial",
+    "channel_url": "https://www.youtube.com/@ArtaOfficial",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 205000,
+    "subscribers_display": "۲۰۵K",
+    "bio": "ویدیوهای موسیقی، پشت صحنه و گفتگوهای رپی.",
+    "avatar": "avatars/artaofficial.svg",
+    "tags": [
+      "موسیقی",
+      "رپ",
+      "ولاگ"
+    ],
+    "accent_color": "#7c3aed",
+    "verified": true
+  },
+  {
+    "id": 20,
+    "name": "جادی میرمیرانی",
+    "handle": "JadiMirmirani",
+    "channel_url": "https://www.youtube.com/@JadiMirmirani",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 185000,
+    "subscribers_display": "۱۸۵K",
+    "bio": "آموزش پایتون، لینوکس، فرهنگ نرم‌افزار آزاد و پادکست رادیو گیک.",
+    "avatar": "avatars/jadimirmirani.svg",
+    "tags": [
+      "لینوکس",
+      "پایتون",
+      "اوپن‌سورس"
+    ],
+    "accent_color": "#10b981",
+    "verified": true
+  },
+  {
+    "id": 21,
+    "name": "مهدی شجاری (موبونیوز)",
+    "handle": "MoboNews",
+    "channel_url": "https://www.youtube.com/@MoboNews",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 410000,
+    "subscribers_display": "۴۱۰K",
+    "bio": "بررسی تخصصی گوشی‌های موبایل، مقایسه پرچمداران و راهنمای خرید.",
+    "avatar": "avatars/mobonews.svg",
+    "tags": [
+      "موبایل",
+      "بررسی",
+      "راهنمای‌خرید"
+    ],
+    "accent_color": "#0284c7",
+    "verified": true
+  },
+  {
+    "id": 22,
+    "name": "اهورا نیازی",
+    "handle": "AhooraNiazi",
+    "channel_url": "https://www.youtube.com/@AhooraNiazi",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 260000,
+    "subscribers_display": "۲۶۰K",
+    "bio": "بررسی گجت‌های هوشمند، دوربین‌های عکاسی و تکنولوژی‌های نوظهور.",
+    "avatar": "avatars/ahooraniazi.svg",
+    "tags": [
+      "گجت",
+      "بررسی",
+      "تکنولوژی"
+    ],
+    "accent_color": "#f59e0b",
+    "verified": true
+  },
+  {
+    "id": 23,
+    "name": "محمد شکوری",
+    "handle": "ShakouriM",
+    "channel_url": "https://www.youtube.com/@ShakouriM",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 210000,
+    "subscribers_display": "۲۱۰K",
+    "bio": "بررسی عمیق سخت‌افزار، ترفندهای موبایل و اخبار دنیای فناوری.",
+    "avatar": "avatars/shakourim.svg",
+    "tags": [
+      "سخت‌افزار",
+      "ترفند",
+      "بررسی"
+    ],
+    "accent_color": "#6366f1",
+    "verified": true
+  },
+  {
+    "id": 24,
+    "name": "میلاد نوری",
+    "handle": "MiladNouri",
+    "channel_url": "https://www.youtube.com/@MiladNouri",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 95000,
+    "subscribers_display": "۹۵K",
+    "bio": "برنامه‌نویسی، امنیت، بررسی اپلیکیشن‌های ایرانی و فرهنگ استارتاپی.",
+    "avatar": "avatars/miladnouri.svg",
+    "tags": [
+      "امنیت",
+      "توسعه‌وب",
+      "استارتاپ"
+    ],
+    "accent_color": "#8b5cf6",
+    "verified": true
+  },
+  {
+    "id": 25,
+    "name": "زومیت",
+    "handle": "ZoomitOfficial",
+    "channel_url": "https://www.youtube.com/@ZoomitOfficial",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 160000,
+    "subscribers_display": "۱۶۰K",
+    "bio": "رسانه پیشرو تکنولوژی ایران، بررسی گجت‌ها، اخبار IT و پوشش رویدادها.",
+    "avatar": "avatars/zoomitofficial.svg",
+    "tags": [
+      "اخبارIT",
+      "گجت",
+      "بررسی"
+    ],
+    "accent_color": "#ef4444",
+    "verified": true
+  },
+  {
+    "id": 26,
+    "name": "دیجیاتو",
+    "handle": "Digiato",
+    "channel_url": "https://www.youtube.com/@Digiato",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 145000,
+    "subscribers_display": "۱۴۵K",
+    "bio": "اخبار دنیای علم و فناوری، تحلیل هوش مصنوعی و بررسی بازار خودرو و موبایل.",
+    "avatar": "avatars/digiato.svg",
+    "tags": [
+      "فناوری",
+      "هوش‌مصنوعی",
+      "علم"
+    ],
+    "accent_color": "#3b82f6",
+    "verified": true
+  },
+  {
+    "id": 27,
+    "name": "امیر عظیمی",
+    "handle": "AmirAzimiCode",
+    "channel_url": "https://www.youtube.com/@AmirAzimiCode",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 85000,
+    "subscribers_display": "۸۵K",
+    "bio": "آموزش فرانت‌اند، جاوااسکریپت، ری‌اکت و مباحث معماری نرم‌افزار.",
+    "avatar": "avatars/amirazimicode.svg",
+    "tags": [
+      "فرانت‌اند",
+      "ری‌اکت",
+      "جاوااسکریپت"
+    ],
+    "accent_color": "#ec4899",
+    "verified": true
+  },
+  {
+    "id": 28,
+    "name": "سبحان کلهر",
+    "handle": "SobhanKalhor",
+    "channel_url": "https://www.youtube.com/@SobhanKalhor",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 72000,
+    "subscribers_display": "۷۲K",
+    "bio": "برنامه‌نویسی، هوش مصنوعی، ترفندهای پایتون و توسعه فردی توسعه‌دهندگان.",
+    "avatar": "avatars/sobhankalhor.svg",
+    "tags": [
+      "پایتون",
+      "هوش‌مصنوعی",
+      "کدنویسی"
+    ],
+    "accent_color": "#14b8a6",
+    "verified": true
+  },
+  {
+    "id": 29,
+    "name": "مهدی زارع‌زاده",
+    "handle": "ZareTech",
+    "channel_url": "https://www.youtube.com/@ZareTech",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 88000,
+    "subscribers_display": "۸۸K",
+    "bio": "بررسی لپ‌تاپ، ستاپ‌های استریم و راهنمای ارتقای کامپیوتر شخصی.",
+    "avatar": "avatars/zaretech.svg",
+    "tags": [
+      "لپ‌تاپ",
+      "ستاپ",
+      "PC"
+    ],
+    "accent_color": "#d97706",
+    "verified": true
+  },
+  {
+    "id": 30,
+    "name": "معین علیپور (کدرز)",
+    "handle": "CodersHub",
+    "channel_url": "https://www.youtube.com/@CodersHub",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 64000,
+    "subscribers_display": "۶۴K",
+    "bio": "آموزش‌های کاربردی وب، نقشه راه برنامه‌نویسی و نکات ورود به بازار کار.",
+    "avatar": "avatars/codershub.svg",
+    "tags": [
+      "آموزش‌وب",
+      "کارآموزی",
+      "مهندسی"
+    ],
+    "accent_color": "#2563eb",
+    "verified": true
+  },
+  {
+    "id": 31,
+    "name": "سالار کبیری",
+    "handle": "SalarKabiri",
+    "channel_url": "https://www.youtube.com/@SalarKabiri",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 58000,
+    "subscribers_display": "۵۸K",
+    "bio": "توسعه بک‌اند، سیستم دیزاین، فریم‌ورک جنگو و میکروسرویس‌ها.",
+    "avatar": "avatars/salarkabiri.svg",
+    "tags": [
+      "بک‌اند",
+      "جنگو",
+      "سیستم‌دیزاین"
+    ],
+    "accent_color": "#059669",
+    "verified": true
+  },
+  {
+    "id": 32,
+    "name": "دانیال بهزادی",
+    "handle": "DanialBehzadi",
+    "channel_url": "https://www.youtube.com/@DanialBehzadi",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 42000,
+    "subscribers_display": "۴۲K",
+    "bio": "ترویج گنو/لینوکس، حریم خصوصی دیجیتال و فلسفه آزادی نرم‌افزار.",
+    "avatar": "avatars/danialbehzadi.svg",
+    "tags": [
+      "گنو/لینوکس",
+      "حریم‌خصوصی",
+      "آزادی"
+    ],
+    "accent_color": "#7c3aed",
+    "verified": true
+  },
+  {
+    "id": 33,
+    "name": "سجاد باقرزاده",
+    "handle": "SajjadBaqerzadeh",
+    "channel_url": "https://www.youtube.com/@SajjadBaqerzadeh",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 51000,
+    "subscribers_display": "۵۱K",
+    "bio": "توسعه وب، تست نرم‌افزار و تجربیات زیسته برنامه‌نویسی ریموت.",
+    "avatar": "avatars/sajjadbaqerzadeh.svg",
+    "tags": [
+      "توسعه‌وب",
+      "ریموت",
+      "تست"
+    ],
+    "accent_color": "#db2777",
+    "verified": true
+  },
+  {
+    "id": 34,
+    "name": "علیرضا اخوان‌پور",
+    "handle": "AlirezaAkhavanPour",
+    "channel_url": "https://www.youtube.com/@AlirezaAkhavanPour",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 49000,
+    "subscribers_display": "۴۹K",
+    "bio": "آموزش یادگیری ماشین، یادگیری عمیق، پایتون و پردازش تصویر در هوش مصنوعی.",
+    "avatar": "avatars/alirezaakhavanpour.svg",
+    "tags": [
+      "یادگیری‌ماشین",
+      "پردازش‌تصویر",
+      "دیپ‌لرنینگ"
+    ],
+    "accent_color": "#4f46e5",
+    "verified": true
+  },
+  {
+    "id": 35,
+    "name": "علی کامیکس",
+    "handle": "AliComix",
+    "channel_url": "https://www.youtube.com/@AliComix",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 480000,
+    "subscribers_display": "۴۸۰K",
+    "bio": "استریمر پرطرفدار، گیم‌پلی بازی‌های شبیه‌ساز، رول‌پلی GTA و بازی‌های داستانی.",
+    "avatar": "avatars/alicomix.svg",
+    "tags": [
+      "GTA",
+      "شبیه‌ساز",
+      "استریم"
+    ],
+    "accent_color": "#0ea5e9",
+    "verified": true
+  },
+  {
+    "id": 36,
+    "name": "مهدی بیزیکسر",
+    "handle": "MehdiBizixer",
+    "channel_url": "https://www.youtube.com/@MehdiBizixer",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 530000,
+    "subscribers_display": "۵۳۰K",
+    "bio": "ماینکرفت، سری‌های سروایول، چالش‌های گروهی و ویدیوهای سرگرم‌کننده ماینکرفتی.",
+    "avatar": "avatars/mehdibizixer.svg",
+    "tags": [
+      "ماینکرفت",
+      "سروایول",
+      "گیم"
+    ],
+    "accent_color": "#10b981",
+    "verified": true
+  },
+  {
+    "id": 37,
+    "name": "تاکسیک گرل (کوثر)",
+    "handle": "ToxicGirrl",
+    "channel_url": "https://www.youtube.com/@ToxicGirrl",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 310000,
+    "subscribers_display": "۳۱۰K",
+    "bio": "اولین دختر استریمر محبوب ایران، لتس‌پلی بازی‌های ترند و چالش‌های ولاگی.",
+    "avatar": "avatars/toxicgirrl.svg",
+    "tags": [
+      "استریم",
+      "بازی",
+      "دخترانه"
+    ],
+    "accent_color": "#f43f5e",
+    "verified": true
+  },
+  {
+    "id": 38,
+    "name": "نوید شایان",
+    "handle": "NavidShayan",
+    "channel_url": "https://www.youtube.com/@NavidShayan",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 290000,
+    "subscribers_display": "۲۹۰K",
+    "bio": "گیم‌پلی بازی‌های مسابقه‌ای، فوتبال، چالش‌های کالاف دیوتی و سرگرمی.",
+    "avatar": "avatars/navidshayan.svg",
+    "tags": [
+      "کالاف",
+      "فوتبال",
+      "گیمینگ"
+    ],
+    "accent_color": "#8b5cf6",
+    "verified": true
+  },
+  {
+    "id": 39,
+    "name": "ابوالفضل ایکس مستر",
+    "handle": "AbolfazlXMaster",
+    "channel_url": "https://www.youtube.com/@AbolfazlXMaster",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 440000,
+    "subscribers_display": "۴۴۰K",
+    "bio": "ویدیوهای داستانی ماینکرفت، مدهای جدید و رقابت‌های هیجانی بازی‌ها.",
+    "avatar": "avatars/abolfazlxmaster.svg",
+    "tags": [
+      "ماینکرفت",
+      "مد",
+      "گیمینگ"
+    ],
+    "accent_color": "#f59e0b",
+    "verified": true
+  },
+  {
+    "id": 40,
+    "name": "احسان میرزاد",
+    "handle": "EhsanMirzad",
+    "channel_url": "https://www.youtube.com/@EhsanMirzad",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 240000,
+    "subscribers_display": "۲۴۰K",
+    "bio": "گیم‌پلی فان، مسابقات بازی‌های بتل رویال و استریم‌های مشترک.",
+    "avatar": "avatars/ehsanmirzad.svg",
+    "tags": [
+      "بتل‌رویال",
+      "استریم",
+      "فان"
+    ],
+    "accent_color": "#06b6d4",
+    "verified": true
+  },
+  {
+    "id": 41,
+    "name": "عمو بیگ",
+    "handle": "AmooBig",
+    "channel_url": "https://www.youtube.com/@AmooBig",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 260000,
+    "subscribers_display": "۲۶۰K",
+    "bio": "انتقام‌جویان ماینکرفتی، مدهای قهرمانی و داستان‌سرایی فانتزی در بازی.",
+    "avatar": "avatars/amoobig.svg",
+    "tags": [
+      "ماینکرفت",
+      "انتقام‌جویان",
+      "داستانی"
+    ],
+    "accent_color": "#e11d48",
+    "verified": true
+  },
+  {
+    "id": 42,
+    "name": "تندر",
+    "handle": "TondarGaming",
+    "channel_url": "https://www.youtube.com/@TondarGaming",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 220000,
+    "subscribers_display": "۲۲۰K",
+    "bio": "حرفه‌ای‌ترین بازیکن فیری‌فایر و بازی‌های شوتر موبایل در ایران.",
+    "avatar": "avatars/tondargaming.svg",
+    "tags": [
+      "فری‌فایر",
+      "موبایل‌گیم",
+      "شوتر"
+    ],
+    "accent_color": "#ea580c",
+    "verified": true
+  },
+  {
+    "id": 43,
+    "name": "حسام ال‌دی",
+    "handle": "HesamLD",
+    "channel_url": "https://www.youtube.com/@HesamLD",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 230000,
+    "subscribers_display": "۲۳۰K",
+    "bio": "ماینکرفت هاردکور، زندگی روستایی در بازی و چالش‌های بقا.",
+    "avatar": "avatars/hesamld.svg",
+    "tags": [
+      "هاردکور",
+      "ماینکرفت",
+      "سروایول"
+    ],
+    "accent_color": "#16a34a",
+    "verified": true
+  },
+  {
+    "id": 44,
+    "name": "میلاد وان‌پیس",
+    "handle": "Milad1Piece",
+    "channel_url": "https://www.youtube.com/@Milad1Piece",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 195000,
+    "subscribers_display": "۱۹۵K",
+    "bio": "گیم‌پلی بازی‌های انیمه‌ای، ماینکرفت انیمه و استریم‌های طولانی.",
+    "avatar": "avatars/milad1piece.svg",
+    "tags": [
+      "انیمه",
+      "گیم",
+      "وان‌پیس"
+    ],
+    "accent_color": "#9333ea",
+    "verified": true
+  },
+  {
+    "id": 45,
+    "name": "امیر رادون",
+    "handle": "AmirRadon",
+    "channel_url": "https://www.youtube.com/@AmirRadon",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 180000,
+    "subscribers_display": "۱۸۰K",
+    "bio": "بازی‌های شبیه‌ساز، لانگ درایو، بررسی ماشین‌ها در گیم و ولاگ.",
+    "avatar": "avatars/amirradon.svg",
+    "tags": [
+      "شبیه‌ساز",
+      "لانگ‌درایو",
+      "استریم"
+    ],
+    "accent_color": "#2563eb",
+    "verified": true
+  },
+  {
+    "id": 46,
+    "name": "گیمین",
+    "handle": "GaminOfficial",
+    "channel_url": "https://www.youtube.com/@GaminOfficial",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 150000,
+    "subscribers_display": "۱۵۰K",
+    "bio": "پوشش اخبار دنیای بازی‌های ویدیویی، واک‌ترو و نقد و بررسی عناوین جدید کنسولی.",
+    "avatar": "avatars/gaminofficial.svg",
+    "tags": [
+      "اخبارگیم",
+      "واک‌ترو",
+      "کنسول"
+    ],
+    "accent_color": "#d97706",
+    "verified": true
+  },
+  {
+    "id": 47,
+    "name": "دانیال پایدار",
+    "handle": "DanialPaydar",
+    "channel_url": "https://www.youtube.com/@DanialPaydar",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 170000,
+    "subscribers_display": "۱۷۰K",
+    "bio": "استریم‌های رقابتی، بازی‌های چندنفره و مسابقات آنلاین.",
+    "avatar": "avatars/danialpaydar.svg",
+    "tags": [
+      "آنلاین",
+      "استریم",
+      "رقابت"
+    ],
+    "accent_color": "#0d9488",
+    "verified": true
+  },
+  {
+    "id": 48,
+    "name": "علی بندری (چنل بی و بی‌پلاس)",
+    "handle": "AliBandari",
+    "channel_url": "https://www.youtube.com/@AliBandari",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 340000,
+    "subscribers_display": "۳۴۰K",
+    "bio": "روایت مستند پرونده‌های واقعی در چنل‌بی و معرفی کتاب‌های غیرداستانی در بی‌پلاس.",
+    "avatar": "avatars/alibandari.svg",
+    "tags": [
+      "چنل‌بی",
+      "بی‌پلاس",
+      "روایت"
+    ],
+    "accent_color": "#3b82f6",
+    "verified": true
+  },
+  {
+    "id": 49,
+    "name": "مجله طبقه ۱۶ (سهیل علوی)",
+    "handle": "Tabaghe16",
+    "channel_url": "https://www.youtube.com/@Tabaghe16",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 190000,
+    "subscribers_display": "۱۹۰K",
+    "bio": "گفتگوهای عمیق با کارآفرینان، مدیران، نخبگان و چهره‌های تأثیرگذار جامعه.",
+    "avatar": "avatars/tabaghe16.svg",
+    "tags": [
+      "کارآفرینی",
+      "گفتگو",
+      "کسب‌وکار"
+    ],
+    "accent_color": "#64748b",
+    "verified": true
+  },
+  {
+    "id": 50,
+    "name": "فوتبال ۳۶۰ (عادل فردوسی‌پور)",
+    "handle": "Football360Iran",
+    "channel_url": "https://www.youtube.com/@Football360Iran",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 460000,
+    "subscribers_display": "۴۶۰K",
+    "bio": "برنامه تحلیلی فوتبال با اجرای عادل فردوسی‌پور، مصاحبه‌های اختصاصی و حواشی ورزشی.",
+    "avatar": "avatars/football360iran.svg",
+    "tags": [
+      "فوتبال",
+      "عادل",
+      "ورزش"
+    ],
+    "accent_color": "#16a34a",
+    "verified": true
+  },
+  {
+    "id": 51,
+    "name": "پادکست راوی",
+    "handle": "RaviPodcast",
+    "channel_url": "https://www.youtube.com/@RaviPodcast",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 140000,
+    "subscribers_display": "۱۴۰K",
+    "bio": "داستان زندگی آدم‌های معمولی با اتفاقات غیرمعمول و تصمیم‌های سرنوشت‌ساز.",
+    "avatar": "avatars/ravipodcast.svg",
+    "tags": [
+      "داستان‌واقعی",
+      "روایت",
+      "انسان"
+    ],
+    "accent_color": "#d97706",
+    "verified": true
+  },
+  {
+    "id": 52,
+    "name": "پادکست رخ",
+    "handle": "RokhPodcast",
+    "channel_url": "https://www.youtube.com/@RokhPodcast",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 175000,
+    "subscribers_display": "۱۷۵K",
+    "bio": "روایت داستان زندگی کسانی که در تاریخ و سرنوشت انسان‌ها اثرگذار بوده‌اند.",
+    "avatar": "avatars/rokhpodcast.svg",
+    "tags": [
+      "تاریخ",
+      "زندگینامه",
+      "رخ"
+    ],
+    "accent_color": "#b91c1c",
+    "verified": true
+  },
+  {
+    "id": 53,
+    "name": "رادیو راه (مجتبی شکوری)",
+    "handle": "RadioRahOfficial",
+    "channel_url": "https://www.youtube.com/@RadioRahOfficial",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 210000,
+    "subscribers_display": "۲۱۰K",
+    "bio": "مسیر شناخت خود، معنای زندگی، رنج‌ها و التیام دردهای درونی انسان.",
+    "avatar": "avatars/radiorahofficial.svg",
+    "tags": [
+      "روانشناسی",
+      "فلسفه‌زندگی",
+      "خودشناسی"
+    ],
+    "accent_color": "#0284c7",
+    "verified": true
+  },
+  {
+    "id": 54,
+    "name": "پادکست دایجست",
+    "handle": "DigestPodcast",
+    "channel_url": "https://www.youtube.com/@DigestPodcast",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 130000,
+    "subscribers_display": "۱۳۰K",
+    "bio": "توضیح مسائل پیچیده دنیای پیرامون به زبان خیلی ساده و روان.",
+    "avatar": "avatars/digestpodcast.svg",
+    "tags": [
+      "توضیح‌ساده",
+      "جامعه",
+      "دانش"
+    ],
+    "accent_color": "#059669",
+    "verified": true
+  },
+  {
+    "id": 55,
+    "name": "پادکست ناوکست",
+    "handle": "NavcastOfficial",
+    "channel_url": "https://www.youtube.com/@NavcastOfficial",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 115000,
+    "subscribers_display": "۱۱۵K",
+    "bio": "خوانش و بررسی کتاب معروف انسان خردمند و تاریخ پیدایش تمدن‌های بشری.",
+    "avatar": "avatars/navcastofficial.svg",
+    "tags": [
+      "انسان‌خردمند",
+      "تاریخ‌بشر",
+      "علم"
+    ],
+    "accent_color": "#7c3aed",
+    "verified": true
+  },
+  {
+    "id": 56,
+    "name": "استرینگ‌کست",
+    "handle": "StringCast",
+    "channel_url": "https://www.youtube.com/@StringCast",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 98000,
+    "subscribers_display": "۹۸K",
+    "bio": "پادکست شگفتی‌های علمی کیهان، مغز، فرگشت و مرزهای بی‌پایان دانش.",
+    "avatar": "avatars/stringcast.svg",
+    "tags": [
+      "کیهان",
+      "فرگشت",
+      "علمی"
+    ],
+    "accent_color": "#9333ea",
+    "verified": true
+  },
+  {
+    "id": 57,
+    "name": "پادکست تاریکخانه تاریخ",
+    "handle": "TarikkhanehTarikh",
+    "channel_url": "https://www.youtube.com/@TarikkhanehTarikh",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 88000,
+    "subscribers_display": "۸۸K",
+    "bio": "واکاوی اسناد و زوایای پنهان تاریخ معاصر ایران و رویدادهای پشت پرده.",
+    "avatar": "avatars/tarikkhanehtarikh.svg",
+    "tags": [
+      "تاریخ‌معاصر",
+      "اسناد",
+      "ایران"
+    ],
+    "accent_color": "#475569",
+    "verified": true
+  },
+  {
+    "id": 58,
+    "name": "پادکست پاراگراف",
+    "handle": "ParagraphPodcast",
+    "channel_url": "https://www.youtube.com/@ParagraphPodcast",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 92000,
+    "subscribers_display": "۹۲K",
+    "bio": "روایت شنیدنی تاریخ تمدن‌های باستان، امپراتوری‌ها و تحولات جهان.",
+    "avatar": "avatars/paragraphpodcast.svg",
+    "tags": [
+      "تمدن‌باستان",
+      "تاریخ",
+      "جهان"
+    ],
+    "accent_color": "#c2410c",
+    "verified": true
+  },
+  {
+    "id": 59,
+    "name": "دیپ پادکست",
+    "handle": "DeepPodcast",
+    "channel_url": "https://www.youtube.com/@DeepPodcast",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 380000,
+    "subscribers_display": "۳۸۰K",
+    "bio": "مستندهای تحلیلی پیرامون تاریخ ایران، سیاست بین‌الملل و پشت پرده جنگ‌ها.",
+    "avatar": "avatars/deeppodcast.svg",
+    "tags": [
+      "تاریخ‌سیاسی",
+      "مستند",
+      "تحلیل"
+    ],
+    "accent_color": "#dc2626",
+    "verified": true
+  },
+  {
+    "id": 60,
+    "name": "فکت فایندر",
+    "handle": "FactFinderFa",
+    "channel_url": "https://www.youtube.com/@FactFinderFa",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 220000,
+    "subscribers_display": "۲۲۰K",
+    "bio": "کاوش در شگفتی‌های ناشناخته، اسرار اهرام، سیارات و معماهای تاریخی.",
+    "avatar": "avatars/factfinderfa.svg",
+    "tags": [
+      "شگفتی",
+      "معما",
+      "اسرار"
+    ],
+    "accent_color": "#2563eb",
+    "verified": true
+  },
+  {
+    "id": 61,
+    "name": "کیومرث",
+    "handle": "QumarsOfficial",
+    "channel_url": "https://www.youtube.com/@QumarsOfficial",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 195000,
+    "subscribers_display": "۱۹۵K",
+    "bio": "انیمیشن‌های مفهومی، فلسفه ذهن، نقد جامعه‌شناختی و طنز تلخ تفکرانگیز.",
+    "avatar": "avatars/qumarsofficial.svg",
+    "tags": [
+      "انیمیشن",
+      "فلسفه",
+      "جامعه"
+    ],
+    "accent_color": "#7c3aed",
+    "verified": true
+  },
+  {
+    "id": 62,
+    "name": "پارادوکس (هومن)",
+    "handle": "ParadoxShow",
+    "channel_url": "https://www.youtube.com/@ParadoxShow",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 165000,
+    "subscribers_display": "۱۶۵K",
+    "bio": "بررسی نظریه‌های علمی، فیزیک کوانتوم، پارادوکس‌های فضا زمان و هوش فرازمینی.",
+    "avatar": "avatars/paradoxshow.svg",
+    "tags": [
+      "فیزیک",
+      "کوانتوم",
+      "کیهان"
+    ],
+    "accent_color": "#0891b2",
+    "verified": true
+  },
+  {
+    "id": 63,
+    "name": "پرهام ساینس",
+    "handle": "ParhamScience",
+    "channel_url": "https://www.youtube.com/@ParhamScience",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 140000,
+    "subscribers_display": "۱۴۰K",
+    "bio": "آزمایش‌های دیوانه‌وار علمی، فیزیک تجربی و شبیه‌سازی پدیده‌های باورنکردنی.",
+    "avatar": "avatars/parhamscience.svg",
+    "tags": [
+      "آزمایش‌علمی",
+      "فیزیک",
+      "شبیه‌سازی"
+    ],
+    "accent_color": "#16a34a",
+    "verified": true
+  },
+  {
+    "id": 64,
+    "name": "مغز بادام",
+    "handle": "MaghzeBadam",
+    "channel_url": "https://www.youtube.com/@MaghzeBadam",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 125000,
+    "subscribers_display": "۱۲۵K",
+    "bio": "روانشناسی تکاملی، کارکرد مغز انسان، تصمیم‌گیری و رفتارهای ناخودآگاه.",
+    "avatar": "avatars/maghzebadam.svg",
+    "tags": [
+      "روانشناسی",
+      "مغز",
+      "فرگشت"
+    ],
+    "accent_color": "#d97706",
+    "verified": true
+  },
+  {
+    "id": 65,
+    "name": "خط سفید",
+    "handle": "KhateSefid",
+    "channel_url": "https://www.youtube.com/@KhateSefid",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 110000,
+    "subscribers_display": "۱۱۰K",
+    "bio": "مستندهای تصویری تاریخ مدرن، سرنوشت دیکتاتورها و بحران‌های جهانی.",
+    "avatar": "avatars/khatesefid.svg",
+    "tags": [
+      "مستندتاریخی",
+      "بحران",
+      "جهان"
+    ],
+    "accent_color": "#4b5563",
+    "verified": true
+  },
+  {
+    "id": 66,
+    "name": "مهرداد فکت",
+    "handle": "MehrdadFact",
+    "channel_url": "https://www.youtube.com/@MehrdadFact",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 130000,
+    "subscribers_display": "۱۳۰K",
+    "bio": "حقایق باورنکردنی درباره موجودات زنده، شگفتی‌های ژنتیک و طبیعت دست‌نخورده.",
+    "avatar": "avatars/mehrdadfact.svg",
+    "tags": [
+      "طبیعت",
+      "فکت",
+      "جانوران"
+    ],
+    "accent_color": "#059669",
+    "verified": true
+  },
+  {
+    "id": 67,
+    "name": "کنجکاو",
+    "handle": "KonjkavShow",
+    "channel_url": "https://www.youtube.com/@KonjkavShow",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 95000,
+    "subscribers_display": "۹۵K",
+    "bio": "پاسخ به سوالات علمی روزمره، چگونگی کارکرد وسایل و جهان میکروسکوپی.",
+    "avatar": "avatars/konjkavshow.svg",
+    "tags": [
+      "چگونگی",
+      "علمی",
+      "کنجکاوی"
+    ],
+    "accent_color": "#ea580c",
+    "verified": true
+  },
+  {
+    "id": 68,
+    "name": "هومن مقراضی",
+    "handle": "HoomanMoghrazi",
+    "channel_url": "https://www.youtube.com/@HoomanMoghrazi",
+    "category": "finance",
+    "category_title": "اقتصاد، کریپتو و مالی",
+    "subscribers": 210000,
+    "subscribers_display": "۲۱۰K",
+    "bio": "آموزش بورس بین‌الملل، فارکس، تحلیل بنیادی و مدیریت سرمایه در بازارهای مالی.",
+    "avatar": "avatars/hoomanmoghrazi.svg",
+    "tags": [
+      "فارکس",
+      "بورس",
+      "سرمایه‌گذاری"
+    ],
+    "accent_color": "#0284c7",
+    "verified": true
+  },
+  {
+    "id": 69,
+    "name": "محمد هلاکویی",
+    "handle": "MohammadHalakoei",
+    "channel_url": "https://www.youtube.com/@MohammadHalakoei",
+    "category": "finance",
+    "category_title": "اقتصاد، کریپتو و مالی",
+    "subscribers": 185000,
+    "subscribers_display": "۱۸۵K",
+    "bio": "تحلیل بازار کریپتوکارنسی، بیت‌کوین، آلت‌کوین‌ها و فرصت‌های وب۳.",
+    "avatar": "avatars/mohammadhalakoei.svg",
+    "tags": [
+      "بیت‌کوین",
+      "کریپتو",
+      "وب۳"
+    ],
+    "accent_color": "#f59e0b",
+    "verified": true
+  },
+  {
+    "id": 70,
+    "name": "آرش کهربایی",
+    "handle": "ArashKahrobaei",
+    "channel_url": "https://www.youtube.com/@ArashKahrobaei",
+    "category": "finance",
+    "category_title": "اقتصاد، کریپتو و مالی",
+    "subscribers": 145000,
+    "subscribers_display": "۱۴۵K",
+    "bio": "استراتژی‌های ورود به بازارهای جهانی، اقتصاد کلان و استقلال مالی.",
+    "avatar": "avatars/arashkahrobaei.svg",
+    "tags": [
+      "اقتصادکلان",
+      "سرمایه",
+      "معامله‌گری"
+    ],
+    "accent_color": "#10b981",
+    "verified": true
+  },
+  {
+    "id": 71,
+    "name": "امید فدوی",
+    "handle": "OmidFadavi",
+    "channel_url": "https://www.youtube.com/@OmidFadavi",
+    "category": "finance",
+    "category_title": "اقتصاد، کریپتو و مالی",
+    "subscribers": 130000,
+    "subscribers_display": "۱۳۰K",
+    "bio": "آموزش صرافی‌های ارز دیجیتال، ایردراپ‌ها و مدیریت پورتفولیو دارایی دیجیتال.",
+    "avatar": "avatars/omidfadavi.svg",
+    "tags": [
+      "ارزدیجیتال",
+      "ایردراپ",
+      "صرافی"
+    ],
+    "accent_color": "#8b5cf6",
+    "verified": true
+  },
+  {
+    "id": 72,
+    "name": "پویا کلاهدوزان",
+    "handle": "PouyaKolahdouzan",
+    "channel_url": "https://www.youtube.com/@PouyaKolahdouzan",
+    "category": "finance",
+    "category_title": "اقتصاد، کریپتو و مالی",
+    "subscribers": 110000,
+    "subscribers_display": "۱۱۰K",
+    "bio": "تحلیل تکنیکال بازارهای سرمایه، پرایس اکشن و روانشناسی معامله‌گری.",
+    "avatar": "avatars/pouyakolahdouzan.svg",
+    "tags": [
+      "پرایس‌اکشن",
+      "تکنیکال",
+      "معامله"
+    ],
+    "accent_color": "#0d9488",
+    "verified": true
+  },
+  {
+    "id": 73,
+    "name": "مهدی دادفر",
+    "handle": "MehdiDadfar",
+    "channel_url": "https://www.youtube.com/@MehdiDadfar",
+    "category": "finance",
+    "category_title": "اقتصاد، کریپتو و مالی",
+    "subscribers": 98000,
+    "subscribers_display": "۹۸K",
+    "bio": "تحلیل رویدادهای اقتصادی، طلا، مسکن و راه‌های حفظ ارزش پول در تورم.",
+    "avatar": "avatars/mehdidadfar.svg",
+    "tags": [
+      "تورم",
+      "طلا",
+      "اقتصادایران"
+    ],
+    "accent_color": "#b91c1c",
+    "verified": true
+  },
+  {
+    "id": 74,
+    "name": "نواب ابراهیمی",
+    "handle": "NavabEbrahimi",
+    "channel_url": "https://www.youtube.com/@NavabEbrahimi",
+    "category": "lifestyle",
+    "category_title": "لایف‌استایل، ولاگ و آشپزی",
+    "subscribers": 320000,
+    "subscribers_display": "۳۲۰K",
+    "bio": "آموزش آشپزی مدرن و اصیل ایرانی، رسپی‌های سریع و نکات سرآشپزی.",
+    "avatar": "avatars/navabebrahimi.svg",
+    "tags": [
+      "آشپزی",
+      "غذای‌ایرانی",
+      "رسپی"
+    ],
+    "accent_color": "#ea580c",
+    "verified": true
+  },
+  {
+    "id": 75,
+    "name": "صدف بیوتی",
+    "handle": "SadafBeauty",
+    "channel_url": "https://www.youtube.com/@SadafBeauty",
+    "category": "lifestyle",
+    "category_title": "لایف‌استایل، ولاگ و آشپزی",
+    "subscribers": 390000,
+    "subscribers_display": "۳۹۰K",
+    "bio": "آموزش میکاپ، معرفی محصولات آرایشی و بهداشتی و ولاگ‌های زندگی در آمریکا.",
+    "avatar": "avatars/sadafbeauty.svg",
+    "tags": [
+      "میکاپ",
+      "آرایش",
+      "بیوتی"
+    ],
+    "accent_color": "#ec4899",
+    "verified": true
+  },
+  {
+    "id": 76,
+    "name": "معراج فود",
+    "handle": "MerajFood",
+    "channel_url": "https://www.youtube.com/@MerajFood",
+    "category": "lifestyle",
+    "category_title": "لایف‌استایل، ولاگ و آشپزی",
+    "subscribers": 240000,
+    "subscribers_display": "۲۴۰K",
+    "bio": "تست غذاهای خیابانی، تیست رستوران‌های سنتی و فست‌فود در ایران و جهان.",
+    "avatar": "avatars/merajfood.svg",
+    "tags": [
+      "تیستر",
+      "غذای‌خیابانی",
+      "رستوران"
+    ],
+    "accent_color": "#d97706",
+    "verified": true
+  },
+  {
+    "id": 77,
+    "name": "جواد جوادی",
+    "handle": "ChefJavadJavadi",
+    "channel_url": "https://www.youtube.com/@ChefJavadJavadi",
+    "category": "lifestyle",
+    "category_title": "لایف‌استایل، ولاگ و آشپزی",
+    "subscribers": 280000,
+    "subscribers_display": "۲۸۰K",
+    "bio": "آموزش فنون قنادی، پخت کباب‌های اصیل و فوت و فن‌های رستورانی در ملبورن.",
+    "avatar": "avatars/chefjavadjavadi.svg",
+    "tags": [
+      "قنادی",
+      "کباب",
+      "شف"
+    ],
+    "accent_color": "#b45309",
+    "verified": true
+  },
+  {
+    "id": 78,
+    "name": "صبا و مانی",
+    "handle": "SabaAndMani",
+    "channel_url": "https://www.youtube.com/@SabaAndMani",
+    "category": "lifestyle",
+    "category_title": "لایف‌استایل، ولاگ و آشپزی",
+    "subscribers": 190000,
+    "subscribers_display": "۱۹۰K",
+    "bio": "ولاگ‌های روزمره زوج جوان، تجربه‌های سفر، چالش‌ها و آشپزی در خانه.",
+    "avatar": "avatars/sabaandmani.svg",
+    "tags": [
+      "ولاگ‌زوج",
+      "سفر",
+      "لایف‌استایل"
+    ],
+    "accent_color": "#f43f5e",
+    "verified": true
+  },
+  {
+    "id": 79,
+    "name": "علیرضا کاتوزیان",
+    "handle": "AlirezaKatouzian",
+    "channel_url": "https://www.youtube.com/@AlirezaKatouzian",
+    "category": "lifestyle",
+    "category_title": "لایف‌استایل، ولاگ و آشپزی",
+    "subscribers": 175000,
+    "subscribers_display": "۱۷۵K",
+    "bio": "ولاگ‌های باکیفیت شهری، ماجراجویی، معرفی کافه‌ها و زندگی در تهران و سفر.",
+    "avatar": "avatars/alirezakatouzian.svg",
+    "tags": [
+      "سفر",
+      "شهری",
+      "ماجراجویی"
+    ],
+    "accent_color": "#0ea5e9",
+    "verified": true
+  },
+  {
+    "id": 80,
+    "name": "سینا ولی‌الله",
+    "handle": "SinaValiollah",
+    "channel_url": "https://www.youtube.com/@SinaValiollah",
+    "category": "lifestyle",
+    "category_title": "لایف‌استایل، ولاگ و آشپزی",
+    "subscribers": 490000,
+    "subscribers_display": "۴۹۰K",
+    "bio": "برنامه چندشنبه با سینا، کمدی شبانه، گفتگو با سلبریتی‌ها و شوخی با مسائل روز.",
+    "avatar": "avatars/sinavaliollah.svg",
+    "tags": [
+      "تاک‌شو",
+      "طنزسیاسی",
+      "سینا"
+    ],
+    "accent_color": "#6366f1",
+    "verified": true
+  },
+  {
+    "id": 81,
+    "name": "فیلمزی",
+    "handle": "FilmziOfficial",
+    "channel_url": "https://www.youtube.com/@FilmziOfficial",
+    "category": "cinema",
+    "category_title": "سینما، نقد و انیمیشن",
+    "subscribers": 185000,
+    "subscribers_display": "۱۸۵K",
+    "bio": "بررسی فیلم‌ها و سریال‌های روز هالیوود، نکات مخفی و تحلیل موشکافانه سینما.",
+    "avatar": "avatars/filmziofficial.svg",
+    "tags": [
+      "نقدفیلم",
+      "سریال",
+      "ایستراگ"
+    ],
+    "accent_color": "#8b5cf6",
+    "verified": true
+  },
+  {
+    "id": 82,
+    "name": "آرین ابراهیمی",
+    "handle": "ArianEbrahimi",
+    "channel_url": "https://www.youtube.com/@ArianEbrahimi",
+    "category": "cinema",
+    "category_title": "سینما، نقد و انیمیشن",
+    "subscribers": 140000,
+    "subscribers_display": "۱۴۰K",
+    "bio": "نقد تخصصی کارگردانی، بررسی سینمای جهان و تئوری‌های داستان‌نویسی.",
+    "avatar": "avatars/arianebrahimi.svg",
+    "tags": [
+      "نقدسینما",
+      "کارگردانی",
+      "اسکار"
+    ],
+    "accent_color": "#e11d48",
+    "verified": true
+  },
+  {
+    "id": 83,
+    "name": "سینما تیکت (کافه مدیا)",
+    "handle": "CafeMediaCinema",
+    "channel_url": "https://www.youtube.com/@CafeMediaCinema",
+    "category": "cinema",
+    "category_title": "سینما، نقد و انیمیشن",
+    "subscribers": 120000,
+    "subscribers_display": "۱۲۰K",
+    "bio": "پشت صحنه فیلم‌های ایرانی، مصاحبه با بازیگران و گزارش جشنواره‌های فیلم.",
+    "avatar": "avatars/cafemediacinema.svg",
+    "tags": [
+      "سینمای‌ایران",
+      "بازیگران",
+      "مصاحبه"
+    ],
+    "accent_color": "#d97706",
+    "verified": true
+  }
+]
