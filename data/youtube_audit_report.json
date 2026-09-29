@@ -1,0 +1,6053 @@
+{
+  "summary": {
+    "creators_analyzed": 83,
+    "total_videos_sampled": 782,
+    "total_views_recorded": 184481938,
+    "avg_views_across_platform": 235910
+  },
+  "category_performance": {
+    "entertainment": {
+      "count": 19,
+      "total_views": 174819100,
+      "total_vids": 437,
+      "creators": [
+        "کومان",
+        "کوروش توپیا",
+        "میا پلیز",
+        "آریا کئوکسر",
+        "مدگل",
+        "آرتا",
+        "علی گریزی",
+        "ایمان دست‌پاک",
+        "فرشاد سایلنت",
+        "فرشاد کلوت",
+        "حامی کی‌ام",
+        "پوریا پوتک",
+        "علی بروکس",
+        "دلسان",
+        "پویان ان‌آر",
+        "ختن",
+        "متلی",
+        "سوگنگ",
+        "سپهر خلسه"
+      ],
+      "avg_views_per_video": 400043
+    },
+    "gaming": {
+      "count": 13,
+      "total_views": 2791234,
+      "total_vids": 92,
+      "creators": [
+        "احسان میرزاد",
+        "مهدی بیزیکسر",
+        "عمو بیگ",
+        "گیمین",
+        "علی کامیکس",
+        "تاکسیک گرل (کوثر)",
+        "ابوالفضل ایکس مستر",
+        "نوید شایان",
+        "حسام ال‌دی",
+        "میلاد وان‌پیس",
+        "امیر رادون",
+        "تندر",
+        "دانیال پایدار"
+      ],
+      "avg_views_per_video": 30339
+    },
+    "tech": {
+      "count": 15,
+      "total_views": 5404704,
+      "total_vids": 223,
+      "creators": [
+        "سالار کبیری",
+        "اهورا نیازی",
+        "جادی میرمیرانی",
+        "زومیت",
+        "محمد شکوری",
+        "معین علیپور (کدرز)",
+        "علیرضا اخوان‌پور",
+        "دانیال بهزادی",
+        "مهدی زارع‌زاده",
+        "سجاد باقرزاده",
+        "مهدی شجاری (موبونیوز)",
+        "میلاد نوری",
+        "دیجیاتو",
+        "امیر عظیمی",
+        "سبحان کلهر"
+      ],
+      "avg_views_per_video": 24236
+    },
+    "lifestyle": {
+      "count": 7,
+      "total_views": 1466900,
+      "total_vids": 30,
+      "creators": [
+        "جواد جوادی",
+        "سینا ولی‌الله",
+        "صبا و مانی",
+        "علیرضا کاتوزیان",
+        "نواب ابراهیمی",
+        "صدف بیوتی",
+        "معراج فود"
+      ],
+      "avg_views_per_video": 48896
+    },
+    "podcast": {
+      "count": 11,
+      "total_views": 0,
+      "total_vids": 0,
+      "creators": [
+        "علی بندری (چنل بی و بی‌پلاس)",
+        "رادیو راه (مجتبی شکوری)",
+        "پادکست دایجست",
+        "پادکست راوی",
+        "پادکست ناوکست",
+        "فوتبال ۳۶۰ (عادل فردوسی‌پور)",
+        "مجله طبقه ۱۶ (سهیل علوی)",
+        "استرینگ‌کست",
+        "پادکست رخ",
+        "پادکست تاریکخانه تاریخ",
+        "پادکست پاراگراف"
+      ],
+      "avg_views_per_video": 0
+    },
+    "science": {
+      "count": 9,
+      "total_views": 0,
+      "total_vids": 0,
+      "creators": [
+        "دیپ پادکست",
+        "فکت فایندر",
+        "کیومرث",
+        "پارادوکس (هومن)",
+        "پرهام ساینس",
+        "مغز بادام",
+        "خط سفید",
+        "مهرداد فکت",
+        "کنجکاو"
+      ],
+      "avg_views_per_video": 0
+    },
+    "finance": {
+      "count": 6,
+      "total_views": 0,
+      "total_vids": 0,
+      "creators": [
+        "هومن مقراضی",
+        "مهدی دادفر",
+        "امید فدوی",
+        "پویا کلاهدوزان",
+        "آرش کهربایی",
+        "محمد هلاکویی"
+      ],
+      "avg_views_per_video": 0
+    },
+    "cinema": {
+      "count": 3,
+      "total_views": 0,
+      "total_vids": 0,
+      "creators": [
+        "فیلمزی",
+        "آرین ابراهیمی",
+        "سینما تیکت (کافه مدیا)"
+      ],
+      "avg_views_per_video": 0
+    }
+  },
+  "top_creators_by_avg_views": [
+    {
+      "rank": 1,
+      "name": "کومان",
+      "handle": "KoumanOfficial",
+      "category": "entertainment",
+      "avg_views": 1390033,
+      "subscribers": 380000
+    },
+    {
+      "rank": 2,
+      "name": "کوروش توپیا",
+      "handle": "KouroshTopia",
+      "category": "entertainment",
+      "avg_views": 1039433,
+      "subscribers": 660000
+    },
+    {
+      "rank": 3,
+      "name": "میا پلیز",
+      "handle": "MiaPlays",
+      "category": "entertainment",
+      "avg_views": 1039433,
+      "subscribers": 680000
+    },
+    {
+      "rank": 4,
+      "name": "آریا کئوکسر",
+      "handle": "AriaKeoxer",
+      "category": "entertainment",
+      "avg_views": 363366,
+      "subscribers": 820000
+    },
+    {
+      "rank": 5,
+      "name": "مدگل",
+      "handle": "MadGal",
+      "category": "entertainment",
+      "avg_views": 362033,
+      "subscribers": 690000
+    },
+    {
+      "rank": 6,
+      "name": "آرتا",
+      "handle": "ArtaOfficial",
+      "category": "entertainment",
+      "avg_views": 293333,
+      "subscribers": 205000
+    },
+    {
+      "rank": 7,
+      "name": "علی گریزی",
+      "handle": "AliGrezy",
+      "category": "entertainment",
+      "avg_views": 210033,
+      "subscribers": 390000
+    },
+    {
+      "rank": 8,
+      "name": "ایمان دست‌پاک",
+      "handle": "ImanDastpak",
+      "category": "entertainment",
+      "avg_views": 202700,
+      "subscribers": 260000
+    },
+    {
+      "rank": 9,
+      "name": "فرشاد سایلنت",
+      "handle": "FarshadSilent",
+      "category": "entertainment",
+      "avg_views": 175100,
+      "subscribers": 810000
+    },
+    {
+      "rank": 10,
+      "name": "فرشاد کلوت",
+      "handle": "FarshadKllot",
+      "category": "entertainment",
+      "avg_views": 175100,
+      "subscribers": 220000
+    },
+    {
+      "rank": 11,
+      "name": "حامی کی‌ام",
+      "handle": "HamiKM",
+      "category": "entertainment",
+      "avg_views": 170100,
+      "subscribers": 540000
+    },
+    {
+      "rank": 12,
+      "name": "پوریا پوتک",
+      "handle": "BravePutak",
+      "category": "entertainment",
+      "avg_views": 147266,
+      "subscribers": 850000
+    },
+    {
+      "rank": 13,
+      "name": "علی بروکس",
+      "handle": "AliBrooks",
+      "category": "entertainment",
+      "avg_views": 114166,
+      "subscribers": 420000
+    },
+    {
+      "rank": 14,
+      "name": "دلسان",
+      "handle": "Delsan",
+      "category": "entertainment",
+      "avg_views": 111182,
+      "subscribers": 310000
+    },
+    {
+      "rank": 15,
+      "name": "احسان میرزاد",
+      "handle": "EhsanMirzad",
+      "category": "gaming",
+      "avg_views": 89900,
+      "subscribers": 240000
+    }
+  ],
+  "top_15_most_viewed_videos": [
+    {
+      "creator": "کومان",
+      "handle": "KoumanOfficial",
+      "category": "entertainment",
+      "title": "ولاگ کمپ 3 تو دل جنگل!!!",
+      "views": 2300000,
+      "views_raw": "2.3M",
+      "published": "11d ago"
+    },
+    {
+      "creator": "مدگل",
+      "handle": "MadGal",
+      "category": "entertainment",
+      "title": "❌UNSOLVED❌😮😥 تئوری طوتئه : سیمپسون ها چطوری آینده رو پیش بینی میکنن؟",
+      "views": 2300000,
+      "views_raw": "2.3M",
+      "published": "2y ago"
+    },
+    {
+      "creator": "آرتا",
+      "handle": "ArtaOfficial",
+      "category": "entertainment",
+      "title": "Arta - ARE (feat. @KooroshOfficial ) | OFFICIAL MUSIC VIDEO | DIRECTED BY MAKAN & SLP",
+      "views": 2200000,
+      "views_raw": "2.2M",
+      "published": "2y ago"
+    },
+    {
+      "creator": "کومان",
+      "handle": "KoumanOfficial",
+      "category": "entertainment",
+      "title": "جنسای اصلی گرون بهترن یا تقلبی ارزون؟؟؟",
+      "views": 2000000,
+      "views_raw": "2M",
+      "published": "9mo ago"
+    },
+    {
+      "creator": "کومان",
+      "handle": "KoumanOfficial",
+      "category": "entertainment",
+      "title": "بین سلبریتیا محصول کی از همه بهتره؟؟؟",
+      "views": 1900000,
+      "views_raw": "1.9M",
+      "published": "1mo ago"
+    },
+    {
+      "creator": "کومان",
+      "handle": "KoumanOfficial",
+      "category": "entertainment",
+      "title": "عجیب‌ترین وسایلی که میا از اینترنت خریده!!!",
+      "views": 1900000,
+      "views_raw": "1.9M",
+      "published": "2mo ago"
+    },
+    {
+      "creator": "کومان",
+      "handle": "KoumanOfficial",
+      "category": "entertainment",
+      "title": "هیجان‌انگیز ترین مسابقه کوماندی با میا!!!",
+      "views": 1900000,
+      "views_raw": "1.9M",
+      "published": "10mo ago"
+    },
+    {
+      "creator": "کومان",
+      "handle": "KoumanOfficial",
+      "category": "entertainment",
+      "title": "غذای هواپیمای کدوم کشور بهتره؟؟؟",
+      "views": 1900000,
+      "views_raw": "1.9M",
+      "published": "10mo ago"
+    },
+    {
+      "creator": "کومان",
+      "handle": "KoumanOfficial",
+      "category": "entertainment",
+      "title": "غذاهای کره‌ای بهترن یا ایرانی؟؟؟ @jeenie.weenie",
+      "views": 1800000,
+      "views_raw": "1.8M",
+      "published": "9mo ago"
+    },
+    {
+      "creator": "کوروش توپیا",
+      "handle": "KouroshTopia",
+      "category": "entertainment",
+      "title": "کی منو بهتر میشناسه؟؟؟?WHO KNOWS ME BETTER",
+      "views": 1800000,
+      "views_raw": "1.8M",
+      "published": "2y ago"
+    },
+    {
+      "creator": "میا پلیز",
+      "handle": "MiaPlays",
+      "category": "entertainment",
+      "title": "کی منو بهتر میشناسه؟؟؟?WHO KNOWS ME BETTER",
+      "views": 1800000,
+      "views_raw": "1.8M",
+      "published": "2y ago"
+    },
+    {
+      "creator": "کومان",
+      "handle": "KoumanOfficial",
+      "category": "entertainment",
+      "title": "خطرناک‌ترین فست‌فودهای دنیا رو امتحان کردیم!!!",
+      "views": 1600000,
+      "views_raw": "1.6M",
+      "published": "1mo ago"
+    },
+    {
+      "creator": "کومان",
+      "handle": "KoumanOfficial",
+      "category": "entertainment",
+      "title": "کمیاب‌ترین خوراکی‌های ژاپنی رو امتحان کردیم!!!",
+      "views": 1600000,
+      "views_raw": "1.6M",
+      "published": "2mo ago"
+    },
+    {
+      "creator": "کومان",
+      "handle": "KoumanOfficial",
+      "category": "entertainment",
+      "title": "مسابقه یلدا با جایزه ویژه!!!",
+      "views": 1600000,
+      "views_raw": "1.6M",
+      "published": "9mo ago"
+    },
+    {
+      "creator": "آرتا",
+      "handle": "ArtaOfficial",
+      "category": "entertainment",
+      "title": "Arta - Mano To | OFFICIAL MUSIC VIDEO",
+      "views": 1600000,
+      "views_raw": "1.6M",
+      "published": "1y ago"
+    }
+  ],
+  "detailed_creators": [
+    {
+      "id": 13,
+      "name": "کومان",
+      "handle": "KoumanOfficial",
+      "category": "entertainment",
+      "subscribers": 380000,
+      "video_count_sampled": 30,
+      "total_sample_views": 41701000,
+      "avg_views": 1390033,
+      "videos": [
+        {
+          "title": "مسابقه شخصیت شناسی با مجازات خالکوبی!!!",
+          "views_raw": "1.2M",
+          "views": 1200000,
+          "published": "4d ago"
+        },
+        {
+          "title": "ولاگ کمپ 3 تو دل جنگل!!!",
+          "views_raw": "2.3M",
+          "views": 2300000,
+          "published": "11d ago"
+        },
+        {
+          "title": "از باورنکردنی‌ترین جاهای ممکن غذا خریدیم!!!",
+          "views_raw": "1.5M",
+          "views": 1500000,
+          "published": "2w ago"
+        },
+        {
+          "title": "کومان در زمان - بهترین بازی‌های دهه 50!!!",
+          "views_raw": "1.5M",
+          "views": 1500000,
+          "published": "3w ago"
+        },
+        {
+          "title": "بین سلبریتیا محصول کی از همه بهتره؟؟؟",
+          "views_raw": "1.9M",
+          "views": 1900000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "مسابقه کولامپیک تابستانی 2026 با جایزه ویژه!!!",
+          "views_raw": "1.4M",
+          "views": 1400000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "یک شب رویایی با کومان مهمونی خونه کورش!!!",
+          "views_raw": "1.5M",
+          "views": 1500000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "خطرناک‌ترین فست‌فودهای دنیا رو امتحان کردیم!!!",
+          "views_raw": "1.6M",
+          "views": 1600000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "بهترین و کمیاب‌ترین موبایل‌های دنیا!!!",
+          "views_raw": "1.2M",
+          "views": 1200000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "کولوف! هیجان انگیزترین مسابقه کومان!!!",
+          "views_raw": "1.4M",
+          "views": 1400000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "کمیاب‌ترین خوراکی‌های ژاپنی رو امتحان کردیم!!!",
+          "views_raw": "1.6M",
+          "views": 1600000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "جام جهانی هوش و ذکاوت ۱۱ نفره با جایزه ویژه!!!",
+          "views_raw": "1.4M",
+          "views": 1400000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "عجیب‌ترین وسایلی که میا از اینترنت خریده!!!",
+          "views_raw": "1.9M",
+          "views": 1900000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "مسابقه کوماندوشناسی با جواب‌های باورنکردنی شما!!!",
+          "views_raw": "1.5M",
+          "views": 1500000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "ولاگ شکار هیولای باستانی!!!",
+          "views_raw": "1.2M",
+          "views": 1200000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "جدیدترین بازی‌های تیک تاکی با مجازات وحشتناک!!!",
+          "views_raw": "1.4M",
+          "views": 1400000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "رفتیم بزرگترین سوپرمارکت دنیا!!!",
+          "views_raw": "1.4M",
+          "views": 1400000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "عجیب‌ترین آیتمایی که تا حالا خریدیم!!!",
+          "views_raw": "1.1M",
+          "views": 1100000,
+          "published": "4mo ago"
+        },
+        {
+          "title": "رفتیم ایتالیای کوچیک!",
+          "views_raw": "942K",
+          "views": 942000,
+          "published": "4mo ago"
+        },
+        {
+          "title": "ولاگ تولد ایمان با سورپرایز ویژه!",
+          "views_raw": "1M",
+          "views": 1000000,
+          "published": "4mo ago"
+        },
+        {
+          "title": "تو انباری کومان چی پیدا میشه؟",
+          "views_raw": "428K",
+          "views": 428000,
+          "published": "4mo ago"
+        },
+        {
+          "title": "دیگه هیچوقت چایی نمیخوریم!!!!!",
+          "views_raw": "577K",
+          "views": 577000,
+          "published": "4mo ago"
+        },
+        {
+          "title": "رفتیم بالای سخترین کوه برای سلامت روانمون",
+          "views_raw": "845K",
+          "views": 845000,
+          "published": "5mo ago"
+        },
+        {
+          "title": "آپدیت وضعیت استودیو و چند ماهی که نبودیم!",
+          "views_raw": "509K",
+          "views": 509000,
+          "published": "5mo ago"
+        },
+        {
+          "title": "غذاهای کره‌ای بهترن یا ایرانی؟؟؟ @jeenie.weenie",
+          "views_raw": "1.8M",
+          "views": 1800000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "مسابقه یلدا با جایزه ویژه!!!",
+          "views_raw": "1.6M",
+          "views": 1600000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "تور کامل استودیو! پشت پرده کومان چه خبره؟؟؟",
+          "views_raw": "1.2M",
+          "views": 1200000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "جنسای اصلی گرون بهترن یا تقلبی ارزون؟؟؟",
+          "views_raw": "2M",
+          "views": 2000000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "هیجان‌انگیز ترین مسابقه کوماندی با میا!!!",
+          "views_raw": "1.9M",
+          "views": 1900000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "غذای هواپیمای کدوم کشور بهتره؟؟؟",
+          "views_raw": "1.9M",
+          "views": 1900000,
+          "published": "10mo ago"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "کوروش توپیا",
+      "handle": "KouroshTopia",
+      "category": "entertainment",
+      "subscribers": 660000,
+      "video_count_sampled": 30,
+      "total_sample_views": 31183000,
+      "avg_views": 1039433,
+      "videos": [
+        {
+          "title": "همه ی اتفاقای ماه گذشته!",
+          "views_raw": "794K",
+          "views": 794000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "یه هفته با من! BOOKISH CHATTY VLOG",
+          "views_raw": "603K",
+          "views": 603000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "Heart-to-Heart + Old Videos",
+          "views_raw": "439K",
+          "views": 439000,
+          "published": "4mo ago"
+        },
+        {
+          "title": "کارایی که من هرروز زندگیم باید انجامشون بدم + KOUROSH'S OFFICE TOUR",
+          "views_raw": "927K",
+          "views": 927000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "از این سفر پشیمونیم😬 ",
+          "views_raw": "938K",
+          "views": 938000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "عکسا و خاطره های بچگی من و کورش!🍂 PREPARING FOR FALL",
+          "views_raw": "1M",
+          "views": 1000000,
+          "published": "1y ago"
+        },
+        {
+          "title": "کورش دیگه کاملا رد داده !!!",
+          "views_raw": "1.4M",
+          "views": 1400000,
+          "published": "1y ago"
+        },
+        {
+          "title": "ولاگ پشت صحنه موزیک ویدیوی جدیدمون!\"FROM\" BEHIND THE SCENES",
+          "views_raw": "623K",
+          "views": 623000,
+          "published": "1y ago"
+        },
+        {
+          "title": "WHAT'S IN MY BAG?!!همه ی چیزای توی کیف من و کورش",
+          "views_raw": "1.1M",
+          "views": 1100000,
+          "published": "1y ago"
+        },
+        {
+          "title": "PRODUCTIVE DAYS IN MY LIFE! روزای کاری ما چجوری میگذره؟",
+          "views_raw": "935K",
+          "views": 935000,
+          "published": "1y ago"
+        },
+        {
+          "title": "شلوار جین جدید کورش!!! LOS ANGELES VLOG",
+          "views_raw": "1.2M",
+          "views": 1200000,
+          "published": "1y ago"
+        },
+        {
+          "title": "ای کاش هوش مصنوعی اختراع نمیشد...😭AI IS RUINING EVERYTHING",
+          "views_raw": "1.3M",
+          "views": 1300000,
+          "published": "1y ago"
+        },
+        {
+          "title": "HUGE SURPRISE!😱 !!!یه سورپرایز فرحبخش براتون دارم",
+          "views_raw": "982K",
+          "views": 982000,
+          "published": "1y ago"
+        },
+        {
+          "title": "TRY NOT TO LAUGH 🤣❌با مجازات شلوار کورش",
+          "views_raw": "1.3M",
+          "views": 1300000,
+          "published": "1y ago"
+        },
+        {
+          "title": "درجستجوی بیگ فوت! DAY BY DAY VLOG",
+          "views_raw": "1M",
+          "views": 1000000,
+          "published": "1y ago"
+        },
+        {
+          "title": "HE BOUGHT A $700 GAME!!! The most expensive game in the world!",
+          "views_raw": "1.2M",
+          "views": 1200000,
+          "published": "1y ago"
+        },
+        {
+          "title": "سخت ترین انتخابای دنیااااا!",
+          "views_raw": "1.2M",
+          "views": 1200000,
+          "published": "1y ago"
+        },
+        {
+          "title": "WHAT I EAT IN A WEEK! هممممه ی غذاهای چند روز ما",
+          "views_raw": "1M",
+          "views": 1000000,
+          "published": "1y ago"
+        },
+        {
+          "title": "WE HOSTED AN EVENT WITH YOUTUBE! با یوتوب تو استودیومون یه ایونت برگزار کردیم",
+          "views_raw": "850K",
+          "views": 850000,
+          "published": "1y ago"
+        },
+        {
+          "title": "24 ساعت فقط چیزای جدید امتحان کردم! TRYING NEW THINGS FOR 24 HOURS",
+          "views_raw": "945K",
+          "views": 945000,
+          "published": "1y ago"
+        },
+        {
+          "title": "FASHION SHOW!!!💅🏻 مدل شدم",
+          "views_raw": "1M",
+          "views": 1000000,
+          "published": "1y ago"
+        },
+        {
+          "title": "ولاگ پشت صحنه ی موزیک ویدیومون! STARS: BEHIND THE SCENES",
+          "views_raw": "801K",
+          "views": 801000,
+          "published": "1y ago"
+        },
+        {
+          "title": "COZY FALL VLOG🍂 اتاق جدیدمو درست کردم",
+          "views_raw": "954K",
+          "views": 954000,
+          "published": "1y ago"
+        },
+        {
+          "title": "قهر کردیم...",
+          "views_raw": "1.3M",
+          "views": 1300000,
+          "published": "1y ago"
+        },
+        {
+          "title": "کی منو بهتر میشناسه؟؟؟?WHO KNOWS ME BETTER",
+          "views_raw": "1.8M",
+          "views": 1800000,
+          "published": "2y ago"
+        },
+        {
+          "title": "یوگا با بز!!!!GOAT YOGA IS FUN",
+          "views_raw": "892K",
+          "views": 892000,
+          "published": "2y ago"
+        },
+        {
+          "title": "رفتیم آب‌بازی🤩",
+          "views_raw": "1.2M",
+          "views": 1200000,
+          "published": "2y ago"
+        },
+        {
+          "title": "جدی دارم نگران کورش می‌شم...🤪",
+          "views_raw": "1.3M",
+          "views": 1300000,
+          "published": "2y ago"
+        },
+        {
+          "title": "دیوونه شدیم رفت!!!😡",
+          "views_raw": "1.1M",
+          "views": 1100000,
+          "published": "2y ago"
+        },
+        {
+          "title": "ترسناک ترین کاری که تو زندگیم کردم!!!",
+          "views_raw": "1.1M",
+          "views": 1100000,
+          "published": "2y ago"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "میا پلیز",
+      "handle": "MiaPlays",
+      "category": "entertainment",
+      "subscribers": 680000,
+      "video_count_sampled": 30,
+      "total_sample_views": 31183000,
+      "avg_views": 1039433,
+      "videos": [
+        {
+          "title": "همه ی اتفاقای ماه گذشته!",
+          "views_raw": "794K",
+          "views": 794000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "یه هفته با من! BOOKISH CHATTY VLOG",
+          "views_raw": "603K",
+          "views": 603000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "Heart-to-Heart + Old Videos",
+          "views_raw": "439K",
+          "views": 439000,
+          "published": "4mo ago"
+        },
+        {
+          "title": "کارایی که من هرروز زندگیم باید انجامشون بدم + KOUROSH'S OFFICE TOUR",
+          "views_raw": "927K",
+          "views": 927000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "از این سفر پشیمونیم😬 ",
+          "views_raw": "938K",
+          "views": 938000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "عکسا و خاطره های بچگی من و کورش!🍂 PREPARING FOR FALL",
+          "views_raw": "1M",
+          "views": 1000000,
+          "published": "1y ago"
+        },
+        {
+          "title": "کورش دیگه کاملا رد داده !!!",
+          "views_raw": "1.4M",
+          "views": 1400000,
+          "published": "1y ago"
+        },
+        {
+          "title": "ولاگ پشت صحنه موزیک ویدیوی جدیدمون!\"FROM\" BEHIND THE SCENES",
+          "views_raw": "623K",
+          "views": 623000,
+          "published": "1y ago"
+        },
+        {
+          "title": "WHAT'S IN MY BAG?!!همه ی چیزای توی کیف من و کورش",
+          "views_raw": "1.1M",
+          "views": 1100000,
+          "published": "1y ago"
+        },
+        {
+          "title": "PRODUCTIVE DAYS IN MY LIFE! روزای کاری ما چجوری میگذره؟",
+          "views_raw": "935K",
+          "views": 935000,
+          "published": "1y ago"
+        },
+        {
+          "title": "شلوار جین جدید کورش!!! LOS ANGELES VLOG",
+          "views_raw": "1.2M",
+          "views": 1200000,
+          "published": "1y ago"
+        },
+        {
+          "title": "ای کاش هوش مصنوعی اختراع نمیشد...😭AI IS RUINING EVERYTHING",
+          "views_raw": "1.3M",
+          "views": 1300000,
+          "published": "1y ago"
+        },
+        {
+          "title": "HUGE SURPRISE!😱 !!!یه سورپرایز فرحبخش براتون دارم",
+          "views_raw": "982K",
+          "views": 982000,
+          "published": "1y ago"
+        },
+        {
+          "title": "TRY NOT TO LAUGH 🤣❌با مجازات شلوار کورش",
+          "views_raw": "1.3M",
+          "views": 1300000,
+          "published": "1y ago"
+        },
+        {
+          "title": "درجستجوی بیگ فوت! DAY BY DAY VLOG",
+          "views_raw": "1M",
+          "views": 1000000,
+          "published": "1y ago"
+        },
+        {
+          "title": "HE BOUGHT A $700 GAME!!! The most expensive game in the world!",
+          "views_raw": "1.2M",
+          "views": 1200000,
+          "published": "1y ago"
+        },
+        {
+          "title": "سخت ترین انتخابای دنیااااا!",
+          "views_raw": "1.2M",
+          "views": 1200000,
+          "published": "1y ago"
+        },
+        {
+          "title": "WHAT I EAT IN A WEEK! هممممه ی غذاهای چند روز ما",
+          "views_raw": "1M",
+          "views": 1000000,
+          "published": "1y ago"
+        },
+        {
+          "title": "WE HOSTED AN EVENT WITH YOUTUBE! با یوتوب تو استودیومون یه ایونت برگزار کردیم",
+          "views_raw": "850K",
+          "views": 850000,
+          "published": "1y ago"
+        },
+        {
+          "title": "24 ساعت فقط چیزای جدید امتحان کردم! TRYING NEW THINGS FOR 24 HOURS",
+          "views_raw": "945K",
+          "views": 945000,
+          "published": "1y ago"
+        },
+        {
+          "title": "FASHION SHOW!!!💅🏻 مدل شدم",
+          "views_raw": "1M",
+          "views": 1000000,
+          "published": "1y ago"
+        },
+        {
+          "title": "ولاگ پشت صحنه ی موزیک ویدیومون! STARS: BEHIND THE SCENES",
+          "views_raw": "801K",
+          "views": 801000,
+          "published": "1y ago"
+        },
+        {
+          "title": "COZY FALL VLOG🍂 اتاق جدیدمو درست کردم",
+          "views_raw": "954K",
+          "views": 954000,
+          "published": "1y ago"
+        },
+        {
+          "title": "قهر کردیم...",
+          "views_raw": "1.3M",
+          "views": 1300000,
+          "published": "1y ago"
+        },
+        {
+          "title": "کی منو بهتر میشناسه؟؟؟?WHO KNOWS ME BETTER",
+          "views_raw": "1.8M",
+          "views": 1800000,
+          "published": "2y ago"
+        },
+        {
+          "title": "یوگا با بز!!!!GOAT YOGA IS FUN",
+          "views_raw": "892K",
+          "views": 892000,
+          "published": "2y ago"
+        },
+        {
+          "title": "رفتیم آب‌بازی🤩",
+          "views_raw": "1.2M",
+          "views": 1200000,
+          "published": "2y ago"
+        },
+        {
+          "title": "جدی دارم نگران کورش می‌شم...🤪",
+          "views_raw": "1.3M",
+          "views": 1300000,
+          "published": "2y ago"
+        },
+        {
+          "title": "دیوونه شدیم رفت!!!😡",
+          "views_raw": "1.1M",
+          "views": 1100000,
+          "published": "2y ago"
+        },
+        {
+          "title": "ترسناک ترین کاری که تو زندگیم کردم!!!",
+          "views_raw": "1.1M",
+          "views": 1100000,
+          "published": "2y ago"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "آریا کئوکسر",
+      "handle": "AriaKeoxer",
+      "category": "entertainment",
+      "subscribers": 820000,
+      "video_count_sampled": 30,
+      "total_sample_views": 10901000,
+      "avg_views": 363366,
+      "videos": [
+        {
+          "title": "PizzaTorontoVlog",
+          "views_raw": "15K",
+          "views": 15000,
+          "published": "2h ago"
+        },
+        {
+          "title": "با زنجیر خودمونو بهم وصل کردیم رفتیم تو خیابون 😂Chained Together IRL",
+          "views_raw": "383K",
+          "views": 383000,
+          "published": "2w ago"
+        },
+        {
+          "title": "We went to an Indian restaurant and died of laughter 🤣",
+          "views_raw": "445K",
+          "views": 445000,
+          "published": "3w ago"
+        },
+        {
+          "title": "با پارسا رفتیم مارکت چینی ها و غذا خوردیم 💀",
+          "views_raw": "388K",
+          "views": 388000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "I took Parsa and Milan to the animal farm 😂",
+          "views_raw": "278K",
+          "views": 278000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "We tasted Nigerian food! 🇳🇬",
+          "views_raw": "340K",
+          "views": 340000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "We Bought Each Other the Worst Outfits and Went Out in Public (People's Reactions) 😂",
+          "views_raw": "325K",
+          "views": 325000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "I took Parsa and Mahan to the world's biggest inflatable park 🤣",
+          "views_raw": "352K",
+          "views": 352000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "WORLD CUP 2026 🥳⚽️ 2026 World Cup Vlog and Canada’s Win! We Hit the Streets",
+          "views_raw": "153K",
+          "views": 153000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "We tested Afghan food!",
+          "views_raw": "441K",
+          "views": 441000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "Milan Miles ❤️ First vlog with my son",
+          "views_raw": "332K",
+          "views": 332000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "پدر شدم! ❤️✌️ I AM A FATHER",
+          "views_raw": "350K",
+          "views": 350000,
+          "published": "7mo ago"
+        },
+        {
+          "title": "Very Important! Pahlavi Transition Plan! What Happens After the Islamic Republic?",
+          "views_raw": "118K",
+          "views": 118000,
+          "published": "7mo ago"
+        },
+        {
+          "title": "واکنش من به مستند ترانه علیدوستی!",
+          "views_raw": "138K",
+          "views": 138000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "SHORT HORROR FILMS 🥶 فیلم کوتاه دلقک مکدونالد",
+          "views_raw": "209K",
+          "views": 209000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "آیا یوتیوب فارسی به پایان میرسه؟ توضیح کامل",
+          "views_raw": "343K",
+          "views": 343000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "رفتیم هتل ویکتوریا و تبدیل به خطرناک ترین شب شد! (ft. Walkover)",
+          "views_raw": "845K",
+          "views": 845000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "1000$ CAMPING 😂🔥 کمپ هزاردلاری تو جنگل با ماهان و پارسا",
+          "views_raw": "631K",
+          "views": 631000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "یه دوست قدیمی بهمون دوباره ملحق شد!!!‌ ❤️ ولاگای بزرگ تو راهه 🔥",
+          "views_raw": "227K",
+          "views": 227000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "آیتم های کلاهبرداری اینترنتی رو خریدم! شوکه میشید",
+          "views_raw": "403K",
+          "views": 403000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "رفتیم ترسناک ترین مزرعه کانادا 💀❌",
+          "views_raw": "287K",
+          "views": 287000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "لباس هالووین خریدیم 🤣 پارسا لیان شد",
+          "views_raw": "256K",
+          "views": 256000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "عجیب ترین خوراکی های دنیا رو خریدم! نوشیدنی بن لادن 😳",
+          "views_raw": "269K",
+          "views": 269000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "دوباره از دارک وب جعبه شانسی سفارش دادیم!‌ وحشتناک بود",
+          "views_raw": "710K",
+          "views": 710000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "لایف هک های تیک تاک واقعاً کار می‌کنن یا فقط الکی وایرال شدن؟ تست کردیم 😂 Trying TikTok Life Hacks",
+          "views_raw": "353K",
+          "views": 353000,
+          "published": "1y ago"
+        },
+        {
+          "title": "رفتیم یه خونه ی متروکه وسط جنگل که اتفاق باورنکردنی افتاد",
+          "views_raw": "563K",
+          "views": 563000,
+          "published": "1y ago"
+        },
+        {
+          "title": "تمام فست فودای آمریکایی توی یک روز تست کردیم 😂",
+          "views_raw": "533K",
+          "views": 533000,
+          "published": "1y ago"
+        },
+        {
+          "title": "۱۰۰ تا جرات رو تو یک روز انجام دادم 😂 صورتمو تتو کردم",
+          "views_raw": "292K",
+          "views": 292000,
+          "published": "1y ago"
+        },
+        {
+          "title": "گوشت موش کبابی و یاکوزا 💀 بخش های دارک شهر توکیو",
+          "views_raw": "232K",
+          "views": 232000,
+          "published": "1y ago"
+        },
+        {
+          "title": "از دارک وب جعبه سفارش دادیم و باز کردیم (خطرناک)",
+          "views_raw": "690K",
+          "views": 690000,
+          "published": "1y ago"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "مدگل",
+      "handle": "MadGal",
+      "category": "entertainment",
+      "subscribers": 690000,
+      "video_count_sampled": 30,
+      "total_sample_views": 10861000,
+      "avg_views": 362033,
+      "videos": [
+        {
+          "title": "❌ UNSOLVED IS BACK ❌ | چرا اف‌ بی‌ آی هنوز نتونسته خطرناک‌ ترین فرقه‌ ی اینترنت رو ببنده؟",
+          "views_raw": "382K",
+          "views": 382000,
+          "published": "6d ago"
+        },
+        {
+          "title": "تزیین خونه و خرید کریسمس🎄 | Decorating My Home for Christmas",
+          "views_raw": "97K",
+          "views": 97000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "چی داخل کیفمه؟ چیزایی که همیشه همراهمه | ?What's In My Bag",
+          "views_raw": "151K",
+          "views": 151000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "یه هفته با من: مدیتیشن , سفر, غذا و روتین صبح | Trip Vlog",
+          "views_raw": "106K",
+          "views": 106000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "بالاخره به سوال‌هایی که همیشه می‌پرسید جواب می‌دم | Q&A",
+          "views_raw": "155K",
+          "views": 155000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "اختلال دوقطبی از نگاه کسی که باهاش زندگی می‌کنه | ?What Is Bipolar Disorder",
+          "views_raw": "161K",
+          "views": 161000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "☕️Chai & Chat☕️چطوری حد و مرز تو روابط مون بذاریم ؟",
+          "views_raw": "156K",
+          "views": 156000,
+          "published": "2y ago"
+        },
+        {
+          "title": "ولاگ از خونه‌ی جدید | Daily Vlog + House Tour",
+          "views_raw": "188K",
+          "views": 188000,
+          "published": "2y ago"
+        },
+        {
+          "title": "☕️Chai & Chat☕️چیزی که راجع به سلامت روان بهت نمیگن + تمرین مدیتیشن تنفسی",
+          "views_raw": "155K",
+          "views": 155000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌ترسناک ترین اختلالات روانی",
+          "views_raw": "372K",
+          "views": 372000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌ده تا از عکس و فیلم هایی که لحظاتی قبل از مرگ گرفته شده",
+          "views_raw": "400K",
+          "views": 400000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌  پرونده جنایی که دنیا رو شوک کرد! با دختره رفت تو اتاق اما با یک چیز وحشتناک برگشت بیرون",
+          "views_raw": "252K",
+          "views": 252000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌    بعد از مرگ چی میشه؟  رتبه بندی تئوری های مرگ",
+          "views_raw": "277K",
+          "views": 277000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌ میگه مسافر کنارش تو هواپیما انسان نیست : برسی ویدیو وایرال سال",
+          "views_raw": "352K",
+          "views": 352000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌ بدترین جراحی های زیبایی تاریخ : زندگی‌هایی که تغییر کرد",
+          "views_raw": "635K",
+          "views": 635000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌ این رابطه چطوری کار میکنه؟ | دو قلو‌های چسبیده",
+          "views_raw": "367K",
+          "views": 367000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌هفت جسم نفرین شده که دانشمندا ازش می ترسن",
+          "views_raw": "248K",
+          "views": 248000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌تنها آدمی که از ماتریکس خارج شده",
+          "views_raw": "416K",
+          "views": 416000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌حرف های بوکسور معروف درباره ایلومیناتی دنیا رو شوک کرد",
+          "views_raw": "385K",
+          "views": 385000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌کتاب ۵۰۰۰ ساله کشف شده در مصر رازهای وحشتناکی از گذشته ایران  فاش کرد",
+          "views_raw": "1M",
+          "views": 1000000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌ دنیا به زودی تموم میشه...",
+          "views_raw": "254K",
+          "views": 254000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌ نشان اهریمن و پایان دنیا",
+          "views_raw": "203K",
+          "views": 203000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌ جاستین بیبر بعد از بیست سال سکوتش رو شکست",
+          "views_raw": "329K",
+          "views": 329000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌ مادر شیاطین کیه؟ + ساکوبس ها و تولید مثل شیاطین",
+          "views_raw": "245K",
+          "views": 245000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌ ...چیزی که ایلومیناتی نمیخواد راجع به خاورمیانه بدونی",
+          "views_raw": "239K",
+          "views": 239000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌ حضرت سلیمان چطوری شیاطین رو اسیر میکرده (کتاب ممنوعه اعترافات سلیمان)",
+          "views_raw": "308K",
+          "views": 308000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌😮😥 تئوری طوتئه : سیمپسون ها چطوری آینده رو پیش بینی میکنن؟",
+          "views_raw": "2.3M",
+          "views": 2300000,
+          "published": "2y ago"
+        },
+        {
+          "title": "پشت‌صحنه‌ی «آخر» + ولاگ روزمره | BTS",
+          "views_raw": "132K",
+          "views": 132000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌ برسی علوم شیطان شناسی کلیسای کاتولیک (دیمنالوژی)",
+          "views_raw": "306K",
+          "views": 306000,
+          "published": "2y ago"
+        },
+        {
+          "title": "❌UNSOLVED❌ خطرناک ترین بچه های دنیا",
+          "views_raw": "290K",
+          "views": 290000,
+          "published": "2y ago"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "آرتا",
+      "handle": "ArtaOfficial",
+      "category": "entertainment",
+      "subscribers": 205000,
+      "video_count_sampled": 30,
+      "total_sample_views": 8800000,
+      "avg_views": 293333,
+      "videos": [
+        {
+          "title": "Arta - IDGAF | OFFICIAL MUSIC VIDEO ",
+          "views_raw": "166K",
+          "views": 166000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Arta ft. Vinak ft. Koorosh ft. Catchybeatz ft. Erfan – \"Mituni Mage\" (Official Video)",
+          "views_raw": "Arta",
+          "views": 0,
+          "published": "and 4 more"
+        },
+        {
+          "title": "HABIBI - Ruhsura emm ft Arta | OFFICIAL LYRICS VIDEO ",
+          "views_raw": "Arta",
+          "views": 0,
+          "published": "and Ruhsora Emm"
+        },
+        {
+          "title": "Arta x Vinak - Pinocchio | OFFICIAL MUSIC VIDEO",
+          "views_raw": "Arta",
+          "views": 0,
+          "published": "and Vinak"
+        },
+        {
+          "title": "Arta x Koorosh - Full Moon | LYRICS VISUALIZER",
+          "views_raw": "Arta",
+          "views": 0,
+          "published": "and Koorosh"
+        },
+        {
+          "title": "Arta x Koorosh x Saaren - HHRU | OFFICIAL LYRIC VISUALIZER",
+          "views_raw": "Arta",
+          "views": 0,
+          "published": "and Koorosh"
+        },
+        {
+          "title": "Arta ,Koorosh ,Saaren - AI | OFFICIAL TRACK",
+          "views_raw": "1.1M",
+          "views": 1100000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - Mi Amor (feat. Saaren) | OFFICIAL MUSIC VIDEO",
+          "views_raw": "Arta",
+          "views": 0,
+          "published": "and Saaren Tunes"
+        },
+        {
+          "title": "Arta - Burn (feat. parsa) | OFFICIAL TRACK",
+          "views_raw": "610K",
+          "views": 610000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - Mano To ft Saade | OFFICIAL TRACK",
+          "views_raw": "78K",
+          "views": 78000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - Kojayi ft Alipasha & Abri | OFFICIAL TRACK",
+          "views_raw": "189K",
+          "views": 189000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - Yadame ft Ayzun | OFFICIAL TRACK",
+          "views_raw": "40K",
+          "views": 40000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - Daily ft parsa ft saretaan | OFFICIAL TRACK",
+          "views_raw": "89K",
+          "views": 89000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - Andaze Man ft hoomaan | OFFICIAL TRACK",
+          "views_raw": "279K",
+          "views": 279000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - B***h ft saretaan | OFFICIAL TRACK",
+          "views_raw": "86K",
+          "views": 86000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - Dige Na | OFFICIAL TRACK",
+          "views_raw": "83K",
+          "views": 83000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - U ft Khalse ft catchybeatz | OFFICIAL TRACK",
+          "views_raw": "76K",
+          "views": 76000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - Keshidam Biroon ft Vinaak | OFFICIAL TRACK",
+          "views_raw": "150K",
+          "views": 150000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - No Cap ft Yungbans | OFFICIAL TRACK",
+          "views_raw": "64K",
+          "views": 64000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - NGK ft Poobon | OFFICIAL TRACK",
+          "views_raw": "127K",
+          "views": 127000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - Midunam | OFFICIAL TRACK",
+          "views_raw": "364K",
+          "views": 364000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - Hitman | OFFICIAL TRACK",
+          "views_raw": "73K",
+          "views": 73000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - Cancele feat. Koorosh, Behzad Leito, Erfan, Sepehr Khalse, Catchybeatz & PDC",
+          "views_raw": "989K",
+          "views": 989000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Arta - Mano To | OFFICIAL MUSIC VIDEO",
+          "views_raw": "1.6M",
+          "views": 1600000,
+          "published": "1y ago"
+        },
+        {
+          "title": "کنسرت استابول سالن الیگارک با بکس",
+          "views_raw": "29K",
+          "views": 29000,
+          "published": "2y ago"
+        },
+        {
+          "title": "Arta - AGE BERE ( feat. Hoomaan ) prod by Arman Miladi | OFFICIAL TRACK",
+          "views_raw": "219K",
+          "views": 219000,
+          "published": "2y ago"
+        },
+        {
+          "title": "Arta - ARE (feat. @KooroshOfficial ) | OFFICIAL MUSIC VIDEO | DIRECTED BY MAKAN & SLP",
+          "views_raw": "2.2M",
+          "views": 2200000,
+          "published": "2y ago"
+        },
+        {
+          "title": "Arta - ARE (feat. Koorosh) | OFFICIAL TRAILER",
+          "views_raw": "44K",
+          "views": 44000,
+          "published": "2y ago"
+        },
+        {
+          "title": "Poobon x Arta - Ki | OFFICIAL TRACK",
+          "views_raw": "Arta",
+          "views": 0,
+          "published": "and PooBon"
+        },
+        {
+          "title": "Arta - LASHI  OFFICIAL LYRICS VIDEO",
+          "views_raw": "145K",
+          "views": 145000,
+          "published": "2y ago"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "علی گریزی",
+      "handle": "AliGrezy",
+      "category": "entertainment",
+      "subscribers": 390000,
+      "video_count_sampled": 30,
+      "total_sample_views": 6301000,
+      "avg_views": 210033,
+      "videos": [
+        {
+          "title": "Video Mk Kid",
+          "views_raw": "112K",
+          "views": 112000,
+          "published": "3w ago"
+        },
+        {
+          "title": "A Day in the Life of the Iranian National Football Team 😍",
+          "views_raw": "16K",
+          "views": 16000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "These Items Are Banned at School 😱 (Never Try This!)",
+          "views_raw": "16K",
+          "views": 16000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "ماشینمو مجبورم شدم بفروشم 😢 بعد ۶ ماه ویدیو!",
+          "views_raw": "29K",
+          "views": 29000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "رفتیم به مک دونالد متروکه و گمشده ❌ غیر قانونی وارد شدیم",
+          "views_raw": "66K",
+          "views": 66000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "I Bought Secret Government Gadgets From Around the World",
+          "views_raw": "128K",
+          "views": 128000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "تونل مخفی هیتلر رو توی کوه پیدا کردم ❌  پناهگاه نازی 80 ساله",
+          "views_raw": "152K",
+          "views": 152000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "توی قایم موشک دانشگاه تقلب کردم 🤣🔥با جی پی اس",
+          "views_raw": "73K",
+          "views": 73000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "آیا این محصولات عجیب ماهواره ای کار میکنند؟ 🤯 سرمون کلاه گذاشتن",
+          "views_raw": "52K",
+          "views": 52000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "ردیاب را به دوچرخه‌ام زدم و گذاشتم دزدیده بشه 😱 دنبال دزد رفتم",
+          "views_raw": "316K",
+          "views": 316000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "از رونالدو و اسپید امضا گرفتم 😍 واقعی",
+          "views_raw": "500K",
+          "views": 500000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "کل کامینیوتی یوتیوب فارسی رو پرنک کردم 😂",
+          "views_raw": "43K",
+          "views": 43000,
+          "published": "1y ago"
+        },
+        {
+          "title": "بزرگ ترین بنر تبلیغاتی اروپا رو گرفتم",
+          "views_raw": "110K",
+          "views": 110000,
+          "published": "1y ago"
+        },
+        {
+          "title": "یواشکی وارد کنسرت موزیک آرتا شدیم 😰🔥",
+          "views_raw": "75K",
+          "views": 75000,
+          "published": "1y ago"
+        },
+        {
+          "title": "هر شنا که برم, ۱ ثانیه لامبورگینی سوار میشم 🔥 چالش سخت",
+          "views_raw": "92K",
+          "views": 92000,
+          "published": "1y ago"
+        },
+        {
+          "title": "بدترین شکنجه های 1000 ساله رو تست کردیم 😵 @Mehran MK",
+          "views_raw": "141K",
+          "views": 141000,
+          "published": "1y ago"
+        },
+        {
+          "title": "مهران رو بعد 10 سال به سمت ایران بردم",
+          "views_raw": "89K",
+          "views": 89000,
+          "published": "1y ago"
+        },
+        {
+          "title": "چالش هزار تومان از جنوب تا شمال ایران قسمت آخر - پایان مسابقه",
+          "views_raw": "62K",
+          "views": 62000,
+          "published": "1y ago"
+        },
+        {
+          "title": "چالش هزار تومان از جنوب تا شمال ایران قسمت 8 - بیمارستان",
+          "views_raw": "122K",
+          "views": 122000,
+          "published": "1y ago"
+        },
+        {
+          "title": "چالش هزار تومان از جنوب تا شمال ایران قسمت 7 - اولین باخت",
+          "views_raw": "62K",
+          "views": 62000,
+          "published": "1y ago"
+        },
+        {
+          "title": "چالش هزار تومان از جنوب تا شمال ایران قسمت 6 - دستگیری توسط پلیس",
+          "views_raw": "83K",
+          "views": 83000,
+          "published": "1y ago"
+        },
+        {
+          "title": "چالش هزار تومان از جنوب تا شمال ایران قسمت 5 - نصف شب توی خیابان",
+          "views_raw": "69K",
+          "views": 69000,
+          "published": "1y ago"
+        },
+        {
+          "title": "چالش هزار تومان از جنوب تا شمال ایران قسمت 4 - سفر یواشکی",
+          "views_raw": "78K",
+          "views": 78000,
+          "published": "1y ago"
+        },
+        {
+          "title": "چالش هزار تومان از جنوب تا شمال ایران قسمت 3 - بدون مکان",
+          "views_raw": "77K",
+          "views": 77000,
+          "published": "1y ago"
+        },
+        {
+          "title": "چالش هزار تومان از جنوب تا شمال ایران قسمت 2 - اولین شغل",
+          "views_raw": "84K",
+          "views": 84000,
+          "published": "1y ago"
+        },
+        {
+          "title": "چالش هزار تومان از جنوب تا شمال ایران قسمت 1 - شروع چالش",
+          "views_raw": "73K",
+          "views": 73000,
+          "published": "1y ago"
+        },
+        {
+          "title": "مسابقه بین ۱۰ دختر و ۱۰ پسر برای 100 میلیون تومان",
+          "views_raw": "423K",
+          "views": 423000,
+          "published": "1y ago"
+        },
+        {
+          "title": "قایم موشک تو 50 جعبه توی ویلا با یوتوبرا 🎁",
+          "views_raw": "1M",
+          "views": 1000000,
+          "published": "1y ago"
+        },
+        {
+          "title": "مسابقه 3 پهلوان زورخونه در مقابل 3 بدنساز!",
+          "views_raw": "1.4M",
+          "views": 1400000,
+          "published": "1y ago"
+        },
+        {
+          "title": "امانگ آس تو واقعیت داخل پارک آبی",
+          "views_raw": "758K",
+          "views": 758000,
+          "published": "1y ago"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "ایمان دست‌پاک",
+      "handle": "ImanDastpak",
+      "category": "entertainment",
+      "subscribers": 260000,
+      "video_count_sampled": 30,
+      "total_sample_views": 6081000,
+      "avg_views": 202700,
+      "videos": [
+        {
+          "title": "جنگل‌های 3 هزار ساله، بزرگترین باغ وحش دنیا و دانشگاه قدیمیم تو سفرم به استرالیا!!!",
+          "views_raw": "371K",
+          "views": 371000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "موتو-ولاگ تو یه روز گرم تابستونی!",
+          "views_raw": "184K",
+          "views": 184000,
+          "published": "1y ago"
+        },
+        {
+          "title": "شروع ۲۰۲۵ با آب یخ و یادگاری استرالیا!",
+          "views_raw": "469K",
+          "views": 469000,
+          "published": "1y ago"
+        },
+        {
+          "title": "عضو جدید خانواده کومان!",
+          "views_raw": "316K",
+          "views": 316000,
+          "published": "1y ago"
+        },
+        {
+          "title": "موتو-ولاگ برگشته!",
+          "views_raw": "110K",
+          "views": 110000,
+          "published": "2y ago"
+        },
+        {
+          "title": "به دوستاتون کمک کنید!",
+          "views_raw": "57K",
+          "views": 57000,
+          "published": "2y ago"
+        },
+        {
+          "title": "That time of year has arrived!!!",
+          "views_raw": "76K",
+          "views": 76000,
+          "published": "2y ago"
+        },
+        {
+          "title": "My main enemy!",
+          "views_raw": "80K",
+          "views": 80000,
+          "published": "2y ago"
+        },
+        {
+          "title": "دو ماهی که خیلی سخت گذشت!",
+          "views_raw": "202K",
+          "views": 202000,
+          "published": "2y ago"
+        },
+        {
+          "title": "تو برف گیر کردیم - بنف ۳/۳",
+          "views_raw": "176K",
+          "views": 176000,
+          "published": "2y ago"
+        },
+        {
+          "title": "کلبه جنگلی - بنف ۲/۳",
+          "views_raw": "149K",
+          "views": 149000,
+          "published": "2y ago"
+        },
+        {
+          "title": "Winter Travel - Banff 1/3",
+          "views_raw": "365K",
+          "views": 365000,
+          "published": "2y ago"
+        },
+        {
+          "title": "قوانین بین‌المللی دیس کردن",
+          "views_raw": "102K",
+          "views": 102000,
+          "published": "2y ago"
+        },
+        {
+          "title": "I surprised Koresh!",
+          "views_raw": "1.2M",
+          "views": 1200000,
+          "published": "2y ago"
+        },
+        {
+          "title": "The hardest decision of my life!",
+          "views_raw": "241K",
+          "views": 241000,
+          "published": "2y ago"
+        },
+        {
+          "title": "هالووین در ونکوور!",
+          "views_raw": "121K",
+          "views": 121000,
+          "published": "2y ago"
+        },
+        {
+          "title": "داشتم کم میاوردم!",
+          "views_raw": "81K",
+          "views": 81000,
+          "published": "2y ago"
+        },
+        {
+          "title": "امروز همراه من بیاین",
+          "views_raw": "306K",
+          "views": 306000,
+          "published": "2y ago"
+        },
+        {
+          "title": "Where I’ve Been and Where I Haven’t",
+          "views_raw": "87K",
+          "views": 87000,
+          "published": "3y ago"
+        },
+        {
+          "title": "نون بربری کانادا هست؟",
+          "views_raw": "69K",
+          "views": 69000,
+          "published": "3y ago"
+        },
+        {
+          "title": "آشپز باشی باشه؟",
+          "views_raw": "199K",
+          "views": 199000,
+          "published": "3y ago"
+        },
+        {
+          "title": "همه زدن تو کارِ سلامت",
+          "views_raw": "55K",
+          "views": 55000,
+          "published": "3y ago"
+        },
+        {
+          "title": "چند تا کار با کلاس بکنیم",
+          "views_raw": "63K",
+          "views": 63000,
+          "published": "3y ago"
+        },
+        {
+          "title": "ایمان علیه زنبور",
+          "views_raw": "44K",
+          "views": 44000,
+          "published": "3y ago"
+        },
+        {
+          "title": "یک روز گرم تابستونی",
+          "views_raw": "173K",
+          "views": 173000,
+          "published": "3y ago"
+        },
+        {
+          "title": "پرسیدی، گفتم. تمام!",
+          "views_raw": "85K",
+          "views": 85000,
+          "published": "3y ago"
+        },
+        {
+          "title": "بپرس، بگم!",
+          "views_raw": "459K",
+          "views": 459000,
+          "published": "3y ago"
+        },
+        {
+          "title": "بهترین رفیقت کیه؟",
+          "views_raw": "45K",
+          "views": 45000,
+          "published": "3y ago"
+        },
+        {
+          "title": "مسموم شدم",
+          "views_raw": "154K",
+          "views": 154000,
+          "published": "3y ago"
+        },
+        {
+          "title": "تلکابین با سپهر!",
+          "views_raw": "42K",
+          "views": 42000,
+          "published": "3y ago"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "فرشاد سایلنت",
+      "handle": "FarshadSilent",
+      "category": "entertainment",
+      "subscribers": 810000,
+      "video_count_sampled": 30,
+      "total_sample_views": 5253000,
+      "avg_views": 175100,
+      "videos": [
+        {
+          "title": "باورم نمیشه همچین چیزایی تو اکسپلور دیدم 🤣 Explore Instagram",
+          "views_raw": "88K",
+          "views": 88000,
+          "published": "12d ago"
+        },
+        {
+          "title": "سعی کن نخندی بمب با پارسالیپ 🤣 مجازات سنگین",
+          "views_raw": "222K",
+          "views": 222000,
+          "published": "2w ago"
+        },
+        {
+          "title": "با آیناز رفتیم خفن ترین شهر آمریکا 😱 NewYork نیویورک",
+          "views_raw": "148K",
+          "views": 148000,
+          "published": "3w ago"
+        },
+        {
+          "title": "Explore X Putak 🤣 اکسپلور اینستا با پوتک بعد 6 ماه",
+          "views_raw": "214K",
+          "views": 214000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "سلام ... بعد از 6 ماه !!! 😓 دیگه نمیتونم برگردم دبی",
+          "views_raw": "237K",
+          "views": 237000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "چالش سعی کن نخندی احساسی با سوگنگ 🤣 Try Not To Laugh x Sogang",
+          "views_raw": "162K",
+          "views": 162000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "توی اکسپلور اینستاگرام من چی میگزره ! 🤣 چرا خاک بر سری شده همه چی ( مثبت هجده )",
+          "views_raw": "55K",
+          "views": 55000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "UnExpected Ending x PUTAK 😱 پایان های غیرمنتظره با پوتک !",
+          "views_raw": "85K",
+          "views": 85000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "پشت پرده پوتک رو ریختیم تو سینی 😨 پرحاشیه ترین سوالات از پوتک",
+          "views_raw": "146K",
+          "views": 146000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "سم ترین ویدیوها رو با پوتک و علیرضا دیدیم 🤣",
+          "views_raw": "276K",
+          "views": 276000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "Try Not To Laugh x PUTAK 🤣 سعی کن نخندی با پوتک",
+          "views_raw": "347K",
+          "views": 347000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "سعی کن سمی نشی با نیما تکیدو 🤣 Explore x Nima Tekido",
+          "views_raw": "528K",
+          "views": 528000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "آیناز برای تولدم منو برد گرون ترین رستوران آمریکا",
+          "views_raw": "101K",
+          "views": 101000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "برای همیشه رفتم آمریکا",
+          "views_raw": "160K",
+          "views": 160000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "سم های آتو آشغالی با نیما تکیدو 🤣 Silent x Nima Tekido",
+          "views_raw": "430K",
+          "views": 430000,
+          "published": "1y ago"
+        },
+        {
+          "title": "چالش خیلی سخت با آریا کیوکسر و پارسالیپ 😱 با مجازات سنگین",
+          "views_raw": "109K",
+          "views": 109000,
+          "published": "1y ago"
+        },
+        {
+          "title": "چیزایی دیدم که ای کاش نمی‌دیدم…💔 (اکسپلور مثبت18)",
+          "views_raw": "125K",
+          "views": 125000,
+          "published": "1y ago"
+        },
+        {
+          "title": "از این ویدیوها سم تر وجود نداره 🤣 سینه هاشو انداخت بیرون !!!",
+          "views_raw": "55K",
+          "views": 55000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Dont Shock x Putak 😨 پوتک کلا از جو خارج شد ! باورتون نمیشه چیا دیدیم",
+          "views_raw": "205K",
+          "views": 205000,
+          "published": "1y ago"
+        },
+        {
+          "title": "سم خونتون نیفته !!! صداهای خاک بر سری وسط غذا ! 🤣",
+          "views_raw": "61K",
+          "views": 61000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Try Not To Scare x PUTAK 😱 النگ و دولنگ اومدن با ویدیو ترسناک",
+          "views_raw": "192K",
+          "views": 192000,
+          "published": "1y ago"
+        },
+        {
+          "title": "فکر نمیکنم این ویدیوها رو توی اکسپلور دیده باشی!🤣",
+          "views_raw": "76K",
+          "views": 76000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Try Not To Laugh x PUTAK 🤣 سعی کن نخندی با پوتک",
+          "views_raw": "346K",
+          "views": 346000,
+          "published": "1y ago"
+        },
+        {
+          "title": "عجیب ترین اتفاقات عروسی ایرانی با پوتک !!! 🤣",
+          "views_raw": "172K",
+          "views": 172000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Optical Illusion 😱 سم ترین خطاهای دید",
+          "views_raw": "35K",
+          "views": 35000,
+          "published": "1y ago"
+        },
+        {
+          "title": "خفن ترین مخ زنی های تاریخ با پوریا پوتک 🤣 همونو برد خونه !!!",
+          "views_raw": "129K",
+          "views": 129000,
+          "published": "1y ago"
+        },
+        {
+          "title": "ترسناک ترین مکان های جهان 😱 نمیدونم باورکردنی نیست !!!",
+          "views_raw": "26K",
+          "views": 26000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Explore x Putak 🤣 سم ترین پست های اکسپلورر با پوتک",
+          "views_raw": "456K",
+          "views": 456000,
+          "published": "1y ago"
+        },
+        {
+          "title": "خوش شانس ترین آدم های کره زمین 😨 !!!",
+          "views_raw": "28K",
+          "views": 28000,
+          "published": "1y ago"
+        },
+        {
+          "title": "سم های پشم ریزون اینستاگرام 🤣 وقتی دوست داری لیس بزنی !!!",
+          "views_raw": "39K",
+          "views": 39000,
+          "published": "1y ago"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "فرشاد کلوت",
+      "handle": "FarshadKllot",
+      "category": "entertainment",
+      "subscribers": 220000,
+      "video_count_sampled": 30,
+      "total_sample_views": 5253000,
+      "avg_views": 175100,
+      "videos": [
+        {
+          "title": "باورم نمیشه همچین چیزایی تو اکسپلور دیدم 🤣 Explore Instagram",
+          "views_raw": "88K",
+          "views": 88000,
+          "published": "12d ago"
+        },
+        {
+          "title": "سعی کن نخندی بمب با پارسالیپ 🤣 مجازات سنگین",
+          "views_raw": "222K",
+          "views": 222000,
+          "published": "2w ago"
+        },
+        {
+          "title": "با آیناز رفتیم خفن ترین شهر آمریکا 😱 NewYork نیویورک",
+          "views_raw": "148K",
+          "views": 148000,
+          "published": "3w ago"
+        },
+        {
+          "title": "Explore X Putak 🤣 اکسپلور اینستا با پوتک بعد 6 ماه",
+          "views_raw": "214K",
+          "views": 214000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "سلام ... بعد از 6 ماه !!! 😓 دیگه نمیتونم برگردم دبی",
+          "views_raw": "237K",
+          "views": 237000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "چالش سعی کن نخندی احساسی با سوگنگ 🤣 Try Not To Laugh x Sogang",
+          "views_raw": "162K",
+          "views": 162000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "توی اکسپلور اینستاگرام من چی میگزره ! 🤣 چرا خاک بر سری شده همه چی ( مثبت هجده )",
+          "views_raw": "55K",
+          "views": 55000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "UnExpected Ending x PUTAK 😱 پایان های غیرمنتظره با پوتک !",
+          "views_raw": "85K",
+          "views": 85000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "پشت پرده پوتک رو ریختیم تو سینی 😨 پرحاشیه ترین سوالات از پوتک",
+          "views_raw": "146K",
+          "views": 146000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "سم ترین ویدیوها رو با پوتک و علیرضا دیدیم 🤣",
+          "views_raw": "276K",
+          "views": 276000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "Try Not To Laugh x PUTAK 🤣 سعی کن نخندی با پوتک",
+          "views_raw": "347K",
+          "views": 347000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "سعی کن سمی نشی با نیما تکیدو 🤣 Explore x Nima Tekido",
+          "views_raw": "528K",
+          "views": 528000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "آیناز برای تولدم منو برد گرون ترین رستوران آمریکا",
+          "views_raw": "101K",
+          "views": 101000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "برای همیشه رفتم آمریکا",
+          "views_raw": "160K",
+          "views": 160000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "سم های آتو آشغالی با نیما تکیدو 🤣 Silent x Nima Tekido",
+          "views_raw": "430K",
+          "views": 430000,
+          "published": "1y ago"
+        },
+        {
+          "title": "چالش خیلی سخت با آریا کیوکسر و پارسالیپ 😱 با مجازات سنگین",
+          "views_raw": "109K",
+          "views": 109000,
+          "published": "1y ago"
+        },
+        {
+          "title": "چیزایی دیدم که ای کاش نمی‌دیدم…💔 (اکسپلور مثبت18)",
+          "views_raw": "125K",
+          "views": 125000,
+          "published": "1y ago"
+        },
+        {
+          "title": "از این ویدیوها سم تر وجود نداره 🤣 سینه هاشو انداخت بیرون !!!",
+          "views_raw": "55K",
+          "views": 55000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Dont Shock x Putak 😨 پوتک کلا از جو خارج شد ! باورتون نمیشه چیا دیدیم",
+          "views_raw": "205K",
+          "views": 205000,
+          "published": "1y ago"
+        },
+        {
+          "title": "سم خونتون نیفته !!! صداهای خاک بر سری وسط غذا ! 🤣",
+          "views_raw": "61K",
+          "views": 61000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Try Not To Scare x PUTAK 😱 النگ و دولنگ اومدن با ویدیو ترسناک",
+          "views_raw": "192K",
+          "views": 192000,
+          "published": "1y ago"
+        },
+        {
+          "title": "فکر نمیکنم این ویدیوها رو توی اکسپلور دیده باشی!🤣",
+          "views_raw": "76K",
+          "views": 76000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Try Not To Laugh x PUTAK 🤣 سعی کن نخندی با پوتک",
+          "views_raw": "346K",
+          "views": 346000,
+          "published": "1y ago"
+        },
+        {
+          "title": "عجیب ترین اتفاقات عروسی ایرانی با پوتک !!! 🤣",
+          "views_raw": "172K",
+          "views": 172000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Optical Illusion 😱 سم ترین خطاهای دید",
+          "views_raw": "35K",
+          "views": 35000,
+          "published": "1y ago"
+        },
+        {
+          "title": "خفن ترین مخ زنی های تاریخ با پوریا پوتک 🤣 همونو برد خونه !!!",
+          "views_raw": "129K",
+          "views": 129000,
+          "published": "1y ago"
+        },
+        {
+          "title": "ترسناک ترین مکان های جهان 😱 نمیدونم باورکردنی نیست !!!",
+          "views_raw": "26K",
+          "views": 26000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Explore x Putak 🤣 سم ترین پست های اکسپلورر با پوتک",
+          "views_raw": "456K",
+          "views": 456000,
+          "published": "1y ago"
+        },
+        {
+          "title": "خوش شانس ترین آدم های کره زمین 😨 !!!",
+          "views_raw": "28K",
+          "views": 28000,
+          "published": "1y ago"
+        },
+        {
+          "title": "سم های پشم ریزون اینستاگرام 🤣 وقتی دوست داری لیس بزنی !!!",
+          "views_raw": "39K",
+          "views": 39000,
+          "published": "1y ago"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "حامی کی‌ام",
+      "handle": "HamiKM",
+      "category": "entertainment",
+      "subscribers": 540000,
+      "video_count_sampled": 30,
+      "total_sample_views": 5103000,
+      "avg_views": 170100,
+      "videos": [
+        {
+          "title": "متلی رو بیهوش کردم و زنده خاکش کردم!⚰️شب اول قبر (پارت ۱)",
+          "views_raw": "237K",
+          "views": 237000,
+          "published": "1d ago"
+        },
+        {
+          "title": "الینا چاقو خوردنم رو دید و شوکه شد! 😱 (پرنک ترسناک)",
+          "views_raw": "385K",
+          "views": 385000,
+          "published": "8d ago"
+        },
+        {
+          "title": "یواشکی توی استریم بیگزموگ قایم شدم😂(لو رفتم؟)",
+          "views_raw": "206K",
+          "views": 206000,
+          "published": "2w ago"
+        },
+        {
+          "title": "قدرت مشت یوتیوبرا رو تست کردیم 2🔥(با دستگاه واقعی)",
+          "views_raw": "259K",
+          "views": 259000,
+          "published": "3w ago"
+        },
+        {
+          "title": "کل روز خدمتکارش بودم! (چالش ۲۴ ساعته با الینا) 😂",
+          "views_raw": "142K",
+          "views": 142000,
+          "published": "4w ago"
+        },
+        {
+          "title": "قایم شدن یواشکی توی باشگاه بعد از تعطیلی 🤫",
+          "views_raw": "151K",
+          "views": 151000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "پرنک سنگین با ماشین رفیقم!😱(انتقام)",
+          "views_raw": "230K",
+          "views": 230000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "هرگز با این شماره‌های نفرین‌شده تماس نگیرید! (ساعت ۳ شب) ⚠️",
+          "views_raw": "275K",
+          "views": 275000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "پرنک پلیس جلوی بابام: واکنش بابام همه رو شوکه کرد! 🤯🚓",
+          "views_raw": "170K",
+          "views": 170000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "قایم شدن توی خونه رفیقم بدون اینکه بفهمه! 🤫",
+          "views_raw": "317K",
+          "views": 317000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "یواشکی توی کافه احسان میرزاد قایم شدم...(نزدیک بود گیر بیفتیم😬)",
+          "views_raw": "284K",
+          "views": 284000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "چالش شناخت: الینا یا متلی؟ کدوم برنده شد؟ 😱",
+          "views_raw": "180K",
+          "views": 180000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "پرنک باب اسفنجی: متلی شوکه شد! 😂",
+          "views_raw": "304K",
+          "views": 304000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "بابای ۶۲ ساله‌م رو فقط تو ۵ روز فرستادم مسابقات فیفا 😳🎮",
+          "views_raw": "90K",
+          "views": 90000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "رفتیم تنگه هرمز رو از نزدیک دیدیم⛔🏝️",
+          "views_raw": "88K",
+          "views": 88000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "یواشکی شب توی درمانگاه قایم شدم 🤫",
+          "views_raw": "52K",
+          "views": 52000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "قدرت مشت یوتیوبرا رو تست کردیم🔥(با دستگاه واقعی)",
+          "views_raw": "281K",
+          "views": 281000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "یواشکی توی ویدیو یوتیوبر های ایرانی قایم شدم😂(نفهمیدن)",
+          "views_raw": "242K",
+          "views": 242000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "هرکی قانون‌های بیشتری بشکنه می‌بره! 😳 (پارت ۲)",
+          "views_raw": "66K",
+          "views": 66000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "یواشکی توی استریم استریمر های ایرانی قایم شدم😂(دوباره)",
+          "views_raw": "148K",
+          "views": 148000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "موهامو رنگ کردم 🤡از خونه بیرونم کردن",
+          "views_raw": "109K",
+          "views": 109000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "با ویدیوهای فیکِ هوش مصنوعی، اینترنت رو سر کار گذاشتم 😈🤖",
+          "views_raw": "146K",
+          "views": 146000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "یوتیوبرا برام کادو خریدن 😂 دست مصنوعی ؟؟؟؟",
+          "views_raw": "115K",
+          "views": 115000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "یک هفته توی هتل گیمینگ زندگی کردم 🎮",
+          "views_raw": "36K",
+          "views": 36000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "آخرین نفری که روی تردمیل بمونه برندست🏆🏃🏻‍♂️‍➡️",
+          "views_raw": "112K",
+          "views": 112000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "هر چالشی رو ببره، براش چیزای گرون‌تر می‌خرم 😳💸",
+          "views_raw": "49K",
+          "views": 49000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "با اکانت فیک تو سایت ایرانی قایمکی لایو گذاشتم 🤫 ",
+          "views_raw": "229K",
+          "views": 229000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "آخرین نفر از جکوزی بیرون بیاد برنده میشه 🥵 ",
+          "views_raw": "139K",
+          "views": 139000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "هرچی خواستین پرسیدین… منم جواب دادم 🫡",
+          "views_raw": "20K",
+          "views": 20000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "فرنود چشم بسته مارو پیدا میکنه ؟😳 آخرش همه شوکه شدن 😂",
+          "views_raw": "41K",
+          "views": 41000,
+          "published": "11mo ago"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "پوریا پوتک",
+      "handle": "BravePutak",
+      "category": "entertainment",
+      "subscribers": 850000,
+      "video_count_sampled": 30,
+      "total_sample_views": 4418000,
+      "avg_views": 147266,
+      "videos": [
+        {
+          "title": "عجیب ترین مدل موهای جهان با ریچ",
+          "views_raw": "74K",
+          "views": 74000,
+          "published": "3d ago"
+        },
+        {
+          "title": "پشت پرده سیاه سایت بزرگسالان",
+          "views_raw": "284K",
+          "views": 284000,
+          "published": "4d ago"
+        },
+        {
+          "title": "مردی پس از سرقت خودروی پلیس به دوست‌دخترش زنگ زد",
+          "views_raw": "50K",
+          "views": 50000,
+          "published": "5d ago"
+        },
+        {
+          "title": "مدرسه ها باز شده بدبختی آعاز شده 😂 میم های شروع مدرسه",
+          "views_raw": "109K",
+          "views": 109000,
+          "published": "6d ago"
+        },
+        {
+          "title": "خطرناک ترین دریاچه دنیا | وارد این دریاچه شی تبدیل به سنگ میشی",
+          "views_raw": "87K",
+          "views": 87000,
+          "published": "6d ago"
+        },
+        {
+          "title": "ولاگ پشت صحنه موزیک ویدیو «هانی» 😂 با تمام جزئیات",
+          "views_raw": "PUTAK",
+          "views": 0,
+          "published": "and Inferno Dragon 🐉 "
+        },
+        {
+          "title": "PutaK - Helia (YADEGARI 3)",
+          "views_raw": "384K",
+          "views": 384000,
+          "published": "11d ago"
+        },
+        {
+          "title": "واکنش به آهنگ هانی با یولیا همسرم  😂 کتک خوردم",
+          "views_raw": "565K",
+          "views": 565000,
+          "published": "2w ago"
+        },
+        {
+          "title": "PUTAK - HONEY (Official Music Video)",
+          "views_raw": "511K",
+          "views": 511000,
+          "published": "2w ago"
+        },
+        {
+          "title": "گودال مرگبار در کنسرت «تراویس اسکات» | پر جمعیت ترین کنسرت تاریخ",
+          "views_raw": "97K",
+          "views": 97000,
+          "published": "2w ago"
+        },
+        {
+          "title": "دزدترین رپرها | اسکی تراویس اسکات از فریدون",
+          "views_raw": "114K",
+          "views": 114000,
+          "published": "2w ago"
+        },
+        {
+          "title": "MEEADRAVA - KHAAB (Official Music Video)",
+          "views_raw": "33K",
+          "views": 33000,
+          "published": "2w ago"
+        },
+        {
+          "title": "دیس بلاگرها به هم",
+          "views_raw": "134K",
+          "views": 134000,
+          "published": "2w ago"
+        },
+        {
+          "title": "PUTAK - TIKTOK (Official Music Video)",
+          "views_raw": "162K",
+          "views": 162000,
+          "published": "3w ago"
+        },
+        {
+          "title": "RUDEBENY - X (Official Music Video)",
+          "views_raw": "39K",
+          "views": 39000,
+          "published": "3w ago"
+        },
+        {
+          "title": "عکس کارت ملی vs عکس الان",
+          "views_raw": "444K",
+          "views": 444000,
+          "published": "3w ago"
+        },
+        {
+          "title": "آهنگ هایی که دنبال اسمشون هستی | بهترین آهنگ های هر کشور",
+          "views_raw": "146K",
+          "views": 146000,
+          "published": "4w ago"
+        },
+        {
+          "title": "PUTAK - JAVIDNAM",
+          "views_raw": "97K",
+          "views": 97000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "PUTAK - TANHA",
+          "views_raw": "169K",
+          "views": 169000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "PUTAK - PANIC ATTACK",
+          "views_raw": "82K",
+          "views": 82000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "شوخی های خرکی 😂 شدید ترین ایستگاه گیری های جهان",
+          "views_raw": "84K",
+          "views": 84000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "پسرهای بالا سی سال 😂 وایرال ترین های اینستاگرام",
+          "views_raw": "176K",
+          "views": 176000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "POOYAN JC - SANGDEL (Official Music Video)",
+          "views_raw": "24K",
+          "views": 24000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "واکنش معدل دانش اموزی که دو صدم کم اورد تا پلی استیشن ۵ باباش نخره | شانس به روایت تصویر",
+          "views_raw": "66K",
+          "views": 66000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "ری اکت با ریچ 😂 وقتی هر‌کاری می کنی نمیشه",
+          "views_raw": "59K",
+          "views": 59000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "پنج تا قلب در یک بدن | زنی که جنسیت فرزندشو اشتباه گفته بودن",
+          "views_raw": "51K",
+          "views": 51000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "جنجالی ترین ویدیو های رپی امسال | صدای حصین مثل خودش",
+          "views_raw": "59K",
+          "views": 59000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "وقتی بچتو یک دقیقه تنها میزاری 😂 خنده دار ترین سوتی های جدید",
+          "views_raw": "136K",
+          "views": 136000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "وضعیت دایرکت دخترا",
+          "views_raw": "103K",
+          "views": 103000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "وقتی پول عمل زیبایی تو دوست پسرت میده",
+          "views_raw": "79K",
+          "views": 79000,
+          "published": "1mo ago"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "علی بروکس",
+      "handle": "AliBrooks",
+      "category": "entertainment",
+      "subscribers": 420000,
+      "video_count_sampled": 30,
+      "total_sample_views": 3425000,
+      "avg_views": 114166,
+      "videos": [
+        {
+          "title": "ولاگ سفر به کلن ❤️ با گوچی قرارداد بستیم",
+          "views_raw": "58K",
+          "views": 58000,
+          "published": "3y ago"
+        },
+        {
+          "title": "ولاگ فرانکفورت آلمان ❤️ رفتم خونه طرفدارم و سورپرایزش کردم",
+          "views_raw": "44K",
+          "views": 44000,
+          "published": "3y ago"
+        },
+        {
+          "title": "🤩 پارتی زیرزمینی و خاطرات بد مستی | ولاگ سفر آلمان",
+          "views_raw": "78K",
+          "views": 78000,
+          "published": "4y ago"
+        },
+        {
+          "title": "طرفدارمو جلو خونش بی خبر سوپرایز کردم 🎁 | ولاگ سفر",
+          "views_raw": "62K",
+          "views": 62000,
+          "published": "4y ago"
+        },
+        {
+          "title": "چالش 24 ساعت قبرستون | ولاگ ترسناک با علی بروکس",
+          "views_raw": "89K",
+          "views": 89000,
+          "published": "4y ago"
+        },
+        {
+          "title": "پناهندگی در آلمان از این طریق ...؟! ولاگ برلین آلمان",
+          "views_raw": "49K",
+          "views": 49000,
+          "published": "4y ago"
+        },
+        {
+          "title": "چالش 24 ساعت فست فود پارت 2🍔😋 ولاگ اشتوتگارت آلمان",
+          "views_raw": "66K",
+          "views": 66000,
+          "published": "4y ago"
+        },
+        {
+          "title": "چالش 24 ساعت فست فود 🍔😋 ولاگ اشتوتگارت آلمان",
+          "views_raw": "59K",
+          "views": 59000,
+          "published": "4y ago"
+        },
+        {
+          "title": "ولاگ آلمان اشتوتگارت 🔥 چالش رپ بتل با علی بروکس",
+          "views_raw": "40K",
+          "views": 40000,
+          "published": "4y ago"
+        },
+        {
+          "title": "اسکویید گیم ورژن ایرانی با جایزه ۱۰۰ میلیونی 😂🤑/ iranian squid game",
+          "views_raw": "136K",
+          "views": 136000,
+          "published": "4y ago"
+        },
+        {
+          "title": "تظاهرات برای حمایت از مردم افغانستان 💔 Berlin 2021.08.22",
+          "views_raw": "48K",
+          "views": 48000,
+          "published": "5y ago"
+        },
+        {
+          "title": "چرا همش با دختر اینجوری میشه 😈🤔 ولاگ گردش",
+          "views_raw": "151K",
+          "views": 151000,
+          "published": "5y ago"
+        },
+        {
+          "title": "پلیس با دیدن این جلومونو گرفت 🥶🚔",
+          "views_raw": "141K",
+          "views": 141000,
+          "published": "5y ago"
+        },
+        {
+          "title": "امتحان غذای ایرانی 😍😋 ولاگ غذا",
+          "views_raw": "168K",
+          "views": 168000,
+          "published": "5y ago"
+        },
+        {
+          "title": "یکی از بزرگترین مشکلات زندگی تو برلین 😠😤",
+          "views_raw": "71K",
+          "views": 71000,
+          "published": "5y ago"
+        },
+        {
+          "title": "عکس العمل دوستم بعد از گرفتن شماره 😂",
+          "views_raw": "127K",
+          "views": 127000,
+          "published": "5y ago"
+        },
+        {
+          "title": "بهش یاد دادم چجوری ولاگر شه 😅😆 How To Vlog",
+          "views_raw": "67K",
+          "views": 67000,
+          "published": "5y ago"
+        },
+        {
+          "title": "دلیلی که به جمهوری اسلامی رای دادم 🇮🇷",
+          "views_raw": "115K",
+          "views": 115000,
+          "published": "5y ago"
+        },
+        {
+          "title": "بالاخره رفت دنبال عشقش 😂💑",
+          "views_raw": "125K",
+          "views": 125000,
+          "published": "5y ago"
+        },
+        {
+          "title": "اینستاگرامش به خاطر عکساش بن شد 🔞",
+          "views_raw": "160K",
+          "views": 160000,
+          "published": "5y ago"
+        },
+        {
+          "title": "بیننده ها واسه ۲۴ ساعت زندگیمو کنترل کردن 😫",
+          "views_raw": "126K",
+          "views": 126000,
+          "published": "5y ago"
+        },
+        {
+          "title": "باورتون نمیشه تو جنگل چی دیدیم 😨😱 +18",
+          "views_raw": "117K",
+          "views": 117000,
+          "published": "5y ago"
+        },
+        {
+          "title": "بازنده باید قمبل کنه 😂🍑",
+          "views_raw": "154K",
+          "views": 154000,
+          "published": "5y ago"
+        },
+        {
+          "title": "I didn't think he would cry because of this 🥺😬",
+          "views_raw": "126K",
+          "views": 126000,
+          "published": "5y ago"
+        },
+        {
+          "title": "چرا نمیتونم هیچوقت خیانت کنم؟👿😂",
+          "views_raw": "100K",
+          "views": 100000,
+          "published": "5y ago"
+        },
+        {
+          "title": "ممنون از ۱۰۰ هزار سابسکرایبر Thanks for 100k Subs",
+          "views_raw": "158K",
+          "views": 158000,
+          "published": "5y ago"
+        },
+        {
+          "title": "میخواست دوربینمو بدزده 🤦🏻‍♂️",
+          "views_raw": "136K",
+          "views": 136000,
+          "published": "5y ago"
+        },
+        {
+          "title": "دلیل پخش شدن وویس فیمس حاجی (Famous Haji Drama)",
+          "views_raw": "205K",
+          "views": 205000,
+          "published": "5y ago"
+        },
+        {
+          "title": "دستمال حاجی",
+          "views_raw": "335K",
+          "views": 335000,
+          "published": "5y ago"
+        },
+        {
+          "title": "پلیس های آلمان دیگه خیلی زیاده‌ روی میکنن🤦🏻‍♂️",
+          "views_raw": "114K",
+          "views": 114000,
+          "published": "5y ago"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "دلسان",
+      "handle": "Delsan",
+      "category": "entertainment",
+      "subscribers": 310000,
+      "video_count_sampled": 17,
+      "total_sample_views": 1890100,
+      "avg_views": 111182,
+      "videos": [
+        {
+          "title": "دروغگو کیه؟🤔",
+          "views_raw": "254K",
+          "views": 254000,
+          "published": "4w ago"
+        },
+        {
+          "title": "کی شوهر خوبی میتونه باشه؟",
+          "views_raw": "34K",
+          "views": 34000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Question box | سوالات شما از کامی",
+          "views_raw": "37K",
+          "views": 37000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "غذاهای مورد علاقمو با دنیس تست کردیم😋",
+          "views_raw": "24K",
+          "views": 24000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "  صحبتای دختر پسر ایرانی با پسر سنگالی",
+          "views_raw": "24K",
+          "views": 24000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "با چمشای بسته حدس بزن چی تو دستته",
+          "views_raw": "3.5K",
+          "views": 3500,
+          "published": "9mo ago"
+        },
+        {
+          "title": "Question box | سوالات شما از سونیا",
+          "views_raw": "54K",
+          "views": 54000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "Find me☠️",
+          "views_raw": "15K",
+          "views": 15000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "Find me☠️",
+          "views_raw": "71K",
+          "views": 71000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "Question box | سوالات شما از دنیس",
+          "views_raw": "152K",
+          "views": 152000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "Find me☠️",
+          "views_raw": "111K",
+          "views": 111000,
+          "published": "1y ago"
+        },
+        {
+          "title": " داکجی اسکویید گیمِ دنیس(با غول۲۰۰کیلویی)",
+          "views_raw": "51K",
+          "views": 51000,
+          "published": "1y ago"
+        },
+        {
+          "title": "شاه،دزد،وزیر با مجازات🥵",
+          "views_raw": "57K",
+          "views": 57000,
+          "published": "1y ago"
+        },
+        {
+          "title": "فرمول یک با یوتوبرا",
+          "views_raw": "4.6K",
+          "views": 4600,
+          "published": "1y ago"
+        },
+        {
+          "title": "لذت ببر یا درد بکش☠️",
+          "views_raw": "46K",
+          "views": 46000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Date style☠️",
+          "views_raw": "466K",
+          "views": 466000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Date style☠️",
+          "views_raw": "486K",
+          "views": 486000,
+          "published": "1y ago"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "احسان میرزاد",
+      "handle": "EhsanMirzad",
+      "category": "gaming",
+      "subscribers": 240000,
+      "video_count_sampled": 30,
+      "total_sample_views": 2697000,
+      "avg_views": 89900,
+      "videos": [
+        {
+          "title": "تمام وسایل بتمن رو خریدم🦇😂",
+          "views_raw": "22K",
+          "views": 22000,
+          "published": "1d ago"
+        },
+        {
+          "title": "    شب توی اتاق فرار قایم شدیم!😱(مصطفی پرنک شد 😈)",
+          "views_raw": "72K",
+          "views": 72000,
+          "published": "5d ago"
+        },
+        {
+          "title": "    آشغال‌ترین وسایل موتور رو از اینترنت خریدم!😂",
+          "views_raw": "94K",
+          "views": 94000,
+          "published": "9d ago"
+        },
+        {
+          "title": "    اگه لاک‌پشت‌های نینجا ایرانی بودن!😂🐢🥷🏻",
+          "views_raw": "39K",
+          "views": 39000,
+          "published": "13d ago"
+        },
+        {
+          "title": "سوپری محل رو آوردم مغازه خودم 😂 | انتقام از آقای عیاشی😈!",
+          "views_raw": "132K",
+          "views": 132000,
+          "published": "2w ago"
+        },
+        {
+          "title": "کی مرد عنکبوتی بهتریه؟🕸️🕷️😂",
+          "views_raw": "63K",
+          "views": 63000,
+          "published": "2w ago"
+        },
+        {
+          "title": "    همه املت‌های اسنپ‌فود رو خوردیم!🍳",
+          "views_raw": "90K",
+          "views": 90000,
+          "published": "3w ago"
+        },
+        {
+          "title": "تمام وسایل مرد عنکبوتی رو خریدم🕸😂",
+          "views_raw": "130K",
+          "views": 130000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "گوشمو سوراخ کردم!😳کی میتونه بیشتر تغییر کنه؟😂",
+          "views_raw": "126K",
+          "views": 126000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "نصف‌شب با دخترا کجا بریم؟!😩🍕",
+          "views_raw": "66K",
+          "views": 66000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "هرچیزی رفیقم بخواد براش میخرم🫪 !(اما یه شرط داره)",
+          "views_raw": "81K",
+          "views": 81000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "آبدوغ خیار ارزون بهتره یا ادایی؟🥒😂",
+          "views_raw": "66K",
+          "views": 66000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "بستنی قورمه‌سبزی؟!🤢این دستگاه همه‌چی رو بستنی می‌کنه!🍦",
+          "views_raw": "95K",
+          "views": 95000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "رفیقم برام موتور خرید...سورپرایزم کرد! 🏍️😱",
+          "views_raw": "111K",
+          "views": 111000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "تمام غذاهای بیرون‌بر شهر رو خوردیم🍔🚗",
+          "views_raw": "85K",
+          "views": 85000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "این بازی با روانم بازی کرد😱(مجبورم کردن فشار بخورم😤)",
+          "views_raw": "44K",
+          "views": 44000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "وقتی پای پول وسط باشه، مغازه‌دارها چه کار می‌کنن؟ 😬",
+          "views_raw": "44K",
+          "views": 44000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "مغازه خودمون رو ساختیم🏪 | مراحل ساخت  مغازمو آمیرزاد 🍳",
+          "views_raw": "129K",
+          "views": 129000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "چالش‌های مرگبار با سوپری محل!💀(سرِ عیاشی کلاه گذاشتیم😂)",
+          "views_raw": "92K",
+          "views": 92000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "🔥انواع یوتیوبرها وقتی اینترنت قطع میشه!😂📵",
+          "views_raw": "84K",
+          "views": 84000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "عکس رفیقم رو تتو کردم😵(واقعی🧨)",
+          "views_raw": "82K",
+          "views": 82000,
+          "published": "9mo ago"
+        },
+        {
+          "title": " یک روز خدمتکار فیلمبردار شدیم😩",
+          "views_raw": "94K",
+          "views": 94000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "بهترین غذای خیابونی شهرمون چیه؟ 🍔",
+          "views_raw": "118K",
+          "views": 118000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "فشاری ترین دوچرخه دونفره 😫🤬",
+          "views_raw": "63K",
+          "views": 63000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "فلافل سگی ایران بهتره یا فلافل دوبی ؟🌯🧆",
+          "views_raw": "125K",
+          "views": 125000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "از آگهی های دیوار کنسول بازی خریدیم🎮🛍️",
+          "views_raw": "175K",
+          "views": 175000,
+          "published": "9mo ago"
+        },
+        {
+          "title": " به مردم تو خیابون شانسی فروختیم💰🎁",
+          "views_raw": "53K",
+          "views": 53000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "ساندویچ سوسیس ۲ متری 🌭😂(بزرگ ترین هات داگ ایران)",
+          "views_raw": "124K",
+          "views": 124000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "تو خیابون فلافل سگی فروختیم🌯😂",
+          "views_raw": "94K",
+          "views": 94000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "مصطفی با کارتم آشغال خریده😩(فشاری ترین وسایل اینترنت🤬)",
+          "views_raw": "104K",
+          "views": 104000,
+          "published": "10mo ago"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "پویان ان‌آر",
+      "handle": "PouyanNR",
+      "category": "entertainment",
+      "subscribers": 350000,
+      "video_count_sampled": 30,
+      "total_sample_views": 2466000,
+      "avg_views": 82200,
+      "videos": [
+        {
+          "title": "دیت لاتی VS دیت سوسول😬دختره تو دعوا پشتم درومد😂",
+          "views_raw": "47K",
+          "views": 47000,
+          "published": "1d ago"
+        },
+        {
+          "title": "سیاوش قمیشی بردم سر قرار 👩‍❤️‍👨 مخ دختره رو زد😂",
+          "views_raw": "89K",
+          "views": 89000,
+          "published": "4d ago"
+        },
+        {
+          "title": "بی غیرت ترین و با غیرت ترین دیت با دو دختر❗️با کیف گذاشت تو صورتم😂",
+          "views_raw": "95K",
+          "views": 95000,
+          "published": "7d ago"
+        },
+        {
+          "title": "۲ دیت با ۲ سطح زندگی مختلف😅دیت ساده VS لاکچری🤔",
+          "views_raw": "111K",
+          "views": 111000,
+          "published": "10d ago"
+        },
+        {
+          "title": "فقیر ترین دیت عمرش بود😂الویه دادم دست دختره😁",
+          "views_raw": "114K",
+          "views": 114000,
+          "published": "13d ago"
+        },
+        {
+          "title": "ارزون‌ترین و گرون‌ترین دیت با دو دختر❗️هات داگ زدیم تو پارک😂",
+          "views_raw": "267K",
+          "views": 267000,
+          "published": "2w ago"
+        },
+        {
+          "title": "دختر فوتبالیست نباشه کنسله⚽️وسط دیت قیچی زدم همچی شکست😂",
+          "views_raw": "66K",
+          "views": 66000,
+          "published": "3w ago"
+        },
+        {
+          "title": "خسیس‌ترین دیت عمرش بود 😂دختره رو فراریش دادم🏃‍♀️",
+          "views_raw": "210K",
+          "views": 210000,
+          "published": "3w ago"
+        },
+        {
+          "title": "راز های عجیب GTA 6 که کسی نمیدونه😱گیم پلی اصلی GTA VI🔥",
+          "views_raw": "22K",
+          "views": 22000,
+          "published": "4w ago"
+        },
+        {
+          "title": "بخاطر شغلم منو نخواست💔دیت رفتگر🙂",
+          "views_raw": "92K",
+          "views": 92000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "خز ترین تیپ دنیا رو زدم🌏رفتم دیت با دختره😂",
+          "views_raw": "90K",
+          "views": 90000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "دختره فکر کرد داریم میریم افرود🛻با وانت رفتم دنبالش😂",
+          "views_raw": "57K",
+          "views": 57000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "وسط دیت مشتری راه انداختم🍺دیت ساقی الکل😂",
+          "views_raw": "102K",
+          "views": 102000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "از پولدار تبدیل شدم به فقیر❗️دختره نظرش عوض شد😂",
+          "views_raw": "81K",
+          "views": 81000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "تو کمپ ترک اعتیاد دیت گذاشتم🚬دلم واسه دختره سوخت😂💔",
+          "views_raw": "170K",
+          "views": 170000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "به عنوان دزد رفتم سر قرار🥷پلیس امد دختره برد😂",
+          "views_raw": "94K",
+          "views": 94000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "حاج آقا پویان از کربلا امده👳🏻‍♂️دختره تا رسید سکته کرد😂",
+          "views_raw": "105K",
+          "views": 105000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "تیپ از این خز تر نداریم❗️رفتم دیت عاشقانه😂",
+          "views_raw": "106K",
+          "views": 106000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "با تیپ ارازلی رفتم سر قرار🔪دختره باورش نمیشد😂",
+          "views_raw": "94K",
+          "views": 94000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "دختره فکر کرد پولدارم💵دیت فتوشاپی😂",
+          "views_raw": "79K",
+          "views": 79000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "با ویلچر رفتم دیت👅تک چرخ زدم واسه دختره😂",
+          "views_raw": "77K",
+          "views": 77000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "تست خیانت توی لوکس‌ترین رستوران💔نامزدش زد بالاسرش💍",
+          "views_raw": "51K",
+          "views": 51000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "خیانت در کافه لاکچری😳دختره هرز پرید",
+          "views_raw": "34K",
+          "views": 34000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "پول یا عشق؟💰متاسفانه دختره…💔تست مخفی",
+          "views_raw": "25K",
+          "views": 25000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "وقتی عشق و پول روبه‌روی هم قرار می‌گیرن💔💵تست مخفی#۵",
+          "views_raw": "34K",
+          "views": 34000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "رابطه ای که بخاطر پول بهم خورد💵💔",
+          "views_raw": "28K",
+          "views": 28000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "خیانت بعد از ۴سال رابطه عمیق💔تست مخفی#۴",
+          "views_raw": "48K",
+          "views": 48000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "پسر ویلچر نشین عاشق💔تست مخفی🎥 2#",
+          "views_raw": "23K",
+          "views": 23000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "به عنوان صاحب سالن زیبایی رفتم سر قرار💉تست مخفی❌",
+          "views_raw": "34K",
+          "views": 34000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "رفتم خواستگاری👰🏻🤵🏻‍♂️زد زیر شیرینی😢❌",
+          "views_raw": "21K",
+          "views": 21000,
+          "published": "2mo ago"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "سالار کبیری",
+      "handle": "SalarKabiri",
+      "category": "tech",
+      "subscribers": 58000,
+      "video_count_sampled": 30,
+      "total_sample_views": 2044000,
+      "avg_views": 68133,
+      "videos": [
+        {
+          "title": "Unboxing Super Practical Products",
+          "views_raw": "216K",
+          "views": 216000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "✨ Special Temu Offer ✨",
+          "views_raw": "40K",
+          "views": 40000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "تولد من و رضا سورپرایزمون کردن!😍🎁",
+          "views_raw": "79K",
+          "views": 79000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "How our weekend went 🏖️",
+          "views_raw": "82K",
+          "views": 82000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "A different kind of trip full of new experiences⛰️🛶",
+          "views_raw": "78K",
+          "views": 78000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "A Weekend Full of Fun and Exciting Moments with Us! 🤩",
+          "views_raw": "64K",
+          "views": 64000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "Controversies of the Iran vs. New Zealand 2026 World Cup Football Match⚽️🏟️",
+          "views_raw": "64K",
+          "views": 64000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "Let's go back 5 months to our trip to Sedona, Arizona💫",
+          "views_raw": "126K",
+          "views": 126000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "یکروز کریسمسی با ما🎄🎁",
+          "views_raw": "111K",
+          "views": 111000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "آنباکسینگ لباسهای جدیدترم😉",
+          "views_raw": "42K",
+          "views": 42000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "دو روز با من و آنباکسام📦",
+          "views_raw": "40K",
+          "views": 40000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "بهشت زیر پای مادران است و بس🤰🏻💜",
+          "views_raw": "55K",
+          "views": 55000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "آموزش کوکی کریسمسی  در سطوح بالا🍪⛄️",
+          "views_raw": "30K",
+          "views": 30000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "اَدِونت کَلِندِرِ بامزه☺️🧑🏼‍🎄",
+          "views_raw": "35K",
+          "views": 35000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "یک هفته پر تلاش و خسته با من🦦",
+          "views_raw": "51K",
+          "views": 51000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "داستانهای این جشن شکرگزاری 🦃🍗",
+          "views_raw": "104K",
+          "views": 104000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "چی شد که نامتعادل شد؟!🤔",
+          "views_raw": "40K",
+          "views": 40000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "از دوشنبه تا دوشنبه با ما🥰",
+          "views_raw": "65K",
+          "views": 65000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "دورهمی مختصر ولی مفید😄",
+          "views_raw": "92K",
+          "views": 92000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "دو روز بارونی با من زندگی کن 😌",
+          "views_raw": "47K",
+          "views": 47000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "سالاد ماکارونی و روابط امروزی  👩🏻‍❤️‍💋‍👨🏻",
+          "views_raw": "49K",
+          "views": 49000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "آموزش سالاد سالم با حرفهای ناسالم !🫢🥗",
+          "views_raw": "41K",
+          "views": 41000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "شعر یادت نره به سبک جدید!😂🎼",
+          "views_raw": "42K",
+          "views": 42000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "خرید وسایل کاربردی آشپزخانه  قسمت دوم!🙃",
+          "views_raw": "49K",
+          "views": 49000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "From Avatar Makeup and Halloween Fun to Hanging Out 💙",
+          "views_raw": "61K",
+          "views": 61000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "هالوین در یونیورسال استودیو🧟‍♀️",
+          "views_raw": "55K",
+          "views": 55000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "سوالهای شما ، جوابهای پژمان😎",
+          "views_raw": "119K",
+          "views": 119000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "آسونترین تارت شکلاتی با روکش طلا👩🏻‍🍳",
+          "views_raw": "29K",
+          "views": 29000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "آرایش نود و تزیین خونه برای هالوین 👻",
+          "views_raw": "60K",
+          "views": 60000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "روش خوب کردن حال دوستمون با خرید و …🌹🥂 🍱 ",
+          "views_raw": "78K",
+          "views": 78000,
+          "published": "11mo ago"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "جواد جوادی",
+      "handle": "ChefJavadJavadi",
+      "category": "lifestyle",
+      "subscribers": 280000,
+      "video_count_sampled": 30,
+      "total_sample_views": 1466900,
+      "avg_views": 48896,
+      "videos": [
+        {
+          "title": "فیلم جدید زندگی واقعی تو استرالیا جوادجوادی Real Life in Australia 🇦🇺 | Melbourne",
+          "views_raw": "24K",
+          "views": 24000,
+          "published": "1d ago"
+        },
+        {
+          "title": "Javad Javadi's 46th Birthday New Movie",
+          "views_raw": "33K",
+          "views": 33000,
+          "published": "8d ago"
+        },
+        {
+          "title": "The Story of Javad Javadi and His Wife’s Divorce After the Pattaya Trip",
+          "views_raw": "115K",
+          "views": 115000,
+          "published": "2w ago"
+        },
+        {
+          "title": "تایلند پاتایا شب پر هیجان شب آخر جوادجوادی ",
+          "views_raw": "30K",
+          "views": 30000,
+          "published": "2w ago"
+        },
+        {
+          "title": "The worst moment saying goodbye to my mother Javad Javadi",
+          "views_raw": "96K",
+          "views": 96000,
+          "published": "3w ago"
+        },
+        {
+          "title": "The World's Most Beautiful Ladyboys: Javad Javadi - Stunning Ladyboys of Pattaya, Thailand",
+          "views_raw": "54K",
+          "views": 54000,
+          "published": "3w ago"
+        },
+        {
+          "title": "Easy Marriage in Thailand, Cheap Living in Pattaya, Javad Javadi",
+          "views_raw": "64K",
+          "views": 64000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "My Mother's Secret Cutlet Recipe at 80 in Pattaya | Javad Javadi | How to make Persian cutlet",
+          "views_raw": "243K",
+          "views": 243000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "New Video: Watch This Before Traveling to Thailand, Pattaya or Phuket - Javad Javadi",
+          "views_raw": "63K",
+          "views": 63000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "$2000 Luxury Hotel vs. $1 Fruits in Pattaya, Thailand! 🇹🇭 $2000 Luxury Apartment Hotel in Pattaya",
+          "views_raw": "34K",
+          "views": 34000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "تایلند بانکوک با جوادجوادی قسمت اول",
+          "views_raw": "39K",
+          "views": 39000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Reuniting with my mother in Pattaya after 14 years",
+          "views_raw": "105K",
+          "views": 105000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "The Secret to Factory-Style Pickles That Won't Mold by Javad Javadi",
+          "views_raw": "16K",
+          "views": 16000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Getting High on Coffee: One Shot to Fly with Javad Javadi",
+          "views_raw": "17K",
+          "views": 17000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "My heart tumor test results are in, please pray for me",
+          "views_raw": "53K",
+          "views": 53000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Javad Javadi's Final Kabab Koobideh Video: How to Make Perfect Kabab Koobideh",
+          "views_raw": "88K",
+          "views": 88000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "آتیش کباب رو اینجوری درست کن     Light Charcoal in 2 Minutes ",
+          "views_raw": "26K",
+          "views": 26000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "روی قلبم یه غده در اومده. جوادجوادی",
+          "views_raw": "89K",
+          "views": 89000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "راز چنجه با ران گوسفند مثل پنبه جوادجوادی",
+          "views_raw": "10K",
+          "views": 10000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "آموزش خیارشور کارخانه ای با جوادجوادی",
+          "views_raw": "48K",
+          "views": 48000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "راز دوغ گاز دار عشایری فقط با دو قلم جوادجوادی",
+          "views_raw": "14K",
+          "views": 14000,
+          "published": "3mo ago"
+        },
+        {
+          "title": " 1KG Meat = 16 Burgers?! 😳🍔راز برگر های ده پنجاه تهران جوادجوادی",
+          "views_raw": "32K",
+          "views": 32000,
+          "published": "4mo ago"
+        },
+        {
+          "title": "راز ماکارونی قرمز و خوشمزه با مادر زن جوادجوادی ",
+          "views_raw": "12K",
+          "views": 12000,
+          "published": "4mo ago"
+        },
+        {
+          "title": "Secrets of Persian Barg Kebab (رازهای کباب برگ ایرانی)",
+          "views_raw": "15K",
+          "views": 15000,
+          "published": "4mo ago"
+        },
+        {
+          "title": "فوت کوزه گری جوجه کباب با ستخوان دربند جوادجوادی",
+          "views_raw": "26K",
+          "views": 26000,
+          "published": "4mo ago"
+        },
+        {
+          "title": "جدید ترین داروی لاغری بدون نیاز به ورزش جوادجوادی",
+          "views_raw": "28K",
+          "views": 28000,
+          "published": "4mo ago"
+        },
+        {
+          "title": "راز کتلت صنعتی فراخور اخبار امروز",
+          "views_raw": "13K",
+          "views": 13000,
+          "published": "5mo ago"
+        },
+        {
+          "title": "Hair Regrowth: 2 Medicines in 3 Daysدرمان ریزش مو ارزان در سه روز با دو دارو جوادجوادی",
+          "views_raw": "59K",
+          "views": 59000,
+          "published": "5mo ago"
+        },
+        {
+          "title": "فیلم جدید آش رشته و تمام فوت و فنش جوادجوادی",
+          "views_raw": "11K",
+          "views": 11000,
+          "published": "5mo ago"
+        },
+        {
+          "title": "راز کلم شور پوروبیوتیک بخور لاغر شو جوادجوادی     Probiotic Pickles for Weight Loss",
+          "views_raw": "9.9K",
+          "views": 9900,
+          "published": "5mo ago"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "اهورا نیازی",
+      "handle": "AhooraNiazi",
+      "category": "tech",
+      "subscribers": 260000,
+      "video_count_sampled": 30,
+      "total_sample_views": 1430100,
+      "avg_views": 47670,
+      "videos": [
+        {
+          "title": "iPhone 18 Pro Max Review",
+          "views_raw": "111K",
+          "views": 111000,
+          "published": "3d ago"
+        },
+        {
+          "title": "How Will AI Destroy Humanity in the Next 10 Years?",
+          "views_raw": "80K",
+          "views": 80000,
+          "published": "9d ago"
+        },
+        {
+          "title": "Comprehensive Analysis of All New Apple Technologies | Deep Dive into the Apple Event",
+          "views_raw": "92K",
+          "views": 92000,
+          "published": "2w ago"
+        },
+        {
+          "title": "No iPhone 18 This Year?!",
+          "views_raw": "47K",
+          "views": 47000,
+          "published": "3w ago"
+        },
+        {
+          "title": "Google Pixel 11 Pro XL Review",
+          "views_raw": "26K",
+          "views": 26000,
+          "published": "4w ago"
+        },
+        {
+          "title": "All New Google Products | Google Pixel 9 Series",
+          "views_raw": "16K",
+          "views": 16000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Z Fold 8 Ultra | Z Fold 8 | Z Flip 8 | Galaxy Watch Ultra 2 | Galaxy Watch 9",
+          "views_raw": "18K",
+          "views": 18000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Galaxy Z Fold 8 and Ultra | The World's Most Extra Phones",
+          "views_raw": "11K",
+          "views": 11000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Don't install iOS 27, but check out its new features",
+          "views_raw": "50K",
+          "views": 50000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Second-Hand iPhone Buying Guide",
+          "views_raw": "4.2K",
+          "views": 4200,
+          "published": "2mo ago"
+        },
+        {
+          "title": "2026 World Cup Offsides | A Complete Guide to Semi-Automated Offside Technology",
+          "views_raw": "10K",
+          "views": 10000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "How to Prevent Your Appliances From Burning Out During Summer Power Outages | A Complete Guide",
+          "views_raw": "4.9K",
+          "views": 4900,
+          "published": "3mo ago"
+        },
+        {
+          "title": "Which Gaming Console Is the Best? | Best Gaming Console 2025",
+          "views_raw": "32K",
+          "views": 32000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "REDMAGIC 11 Pro Review | REDMAGIC 11 Pro Review",
+          "views_raw": "33K",
+          "views": 33000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "Samsung's Beast is Coming | Galaxy S26 Ultra",
+          "views_raw": "71K",
+          "views": 71000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "Vivo X300 Pro Review | vivo X300 Pro Review",
+          "views_raw": "17K",
+          "views": 17000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "Smartphone Buying Guide Nov 2025",
+          "views_raw": "41K",
+          "views": 41000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "Used iPhone Buying Guide",
+          "views_raw": "29K",
+          "views": 29000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "Hollyland Lark Microphones Review",
+          "views_raw": "13K",
+          "views": 13000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "Oppo Find X9 Pro Review",
+          "views_raw": "26K",
+          "views": 26000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "Air Purifier Buying Guide",
+          "views_raw": "22K",
+          "views": 22000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "Xiaomi's new features | Xiaomi HyperOS 3",
+          "views_raw": "123K",
+          "views": 123000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "نگاه اولیه به شیائومی ۱۷ پرو مکس | Xiaomi 17 Pro Max Hands-On Review",
+          "views_raw": "118K",
+          "views": 118000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "Google Pixel 10 Pro Fold Review",
+          "views_raw": "39K",
+          "views": 39000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "Smartphone Buying Guide (Oct 2025)",
+          "views_raw": "62K",
+          "views": 62000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "AirPods Pro 3 VS AirPods Pro 2 VS AirPods Pro 1 Ahooraniazi",
+          "views_raw": "29K",
+          "views": 29000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "گوشی تا ۲۰ تومن چی بخرم؟ | بررسی ردمی نوت ۱۴ اس | Redmi Note 14S Review",
+          "views_raw": "30K",
+          "views": 30000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "بررسی ساعت هوشمند سی ام اف واچ ۳ پرو | CMF Watch 3 Pro Review",
+          "views_raw": "22K",
+          "views": 22000,
+          "published": "11mo ago"
+        },
+        {
+          "title": "iOS 26 New Features",
+          "views_raw": "46K",
+          "views": 46000,
+          "published": "1y ago"
+        },
+        {
+          "title": "iPhone 17 Pro Max Review | iPhone 17 Pro Max Review",
+          "views_raw": "207K",
+          "views": 207000,
+          "published": "1y ago"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "جادی میرمیرانی",
+      "handle": "JadiMirmirani",
+      "category": "tech",
+      "subscribers": 185000,
+      "video_count_sampled": 30,
+      "total_sample_views": 728255,
+      "avg_views": 24275,
+      "videos": [
+        {
+          "title": "For the Win Persian 58",
+          "views_raw": "805",
+          "views": 805,
+          "published": "11h ago"
+        },
+        {
+          "title": "For the Win Chapter 57",
+          "views_raw": "465",
+          "views": 465,
+          "published": "12h ago"
+        },
+        {
+          "title": "For the Win - Chapter 56",
+          "views_raw": "1.4K",
+          "views": 1400,
+          "published": "1d ago"
+        },
+        {
+          "title": "For the Win Persian 55",
+          "views_raw": "2.8K",
+          "views": 2800,
+          "published": "3d ago"
+        },
+        {
+          "title": "RAG explained",
+          "views_raw": "69K",
+          "views": 69000,
+          "published": "10d ago"
+        },
+        {
+          "title": "What opportunities has AI created for programmers?",
+          "views_raw": "114K",
+          "views": 114000,
+          "published": "13d ago"
+        },
+        {
+          "title": "For the Win - Persian - 54",
+          "views_raw": "4K",
+          "views": 4000,
+          "published": "2w ago"
+        },
+        {
+          "title": "For the Win - Persian - 53",
+          "views_raw": "3.6K",
+          "views": 3600,
+          "published": "2w ago"
+        },
+        {
+          "title": "For the Win - Persian - 52",
+          "views_raw": "3.8K",
+          "views": 3800,
+          "published": "2w ago"
+        },
+        {
+          "title": "Mashtastic; a network without the need for external infrastructure: cheap hardware for messaging",
+          "views_raw": "92K",
+          "views": 92000,
+          "published": "3w ago"
+        },
+        {
+          "title": "For the Win - Doctorow’s Cory - Persian Translation - Episode 51",
+          "views_raw": "4.9K",
+          "views": 4900,
+          "published": "3w ago"
+        },
+        {
+          "title": "For the Win - Cory Doctorow - Persian Translation - Part 50",
+          "views_raw": "2.6K",
+          "views": 2600,
+          "published": "3w ago"
+        },
+        {
+          "title": "For the Win - Cory Doctorow - Persian Translation - Part 49",
+          "views_raw": "5K",
+          "views": 5000,
+          "published": "4w ago"
+        },
+        {
+          "title": "Omach: One of the most beautiful and unique GNU/Linux distributions we've ever seen",
+          "views_raw": "56K",
+          "views": 56000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Radio Jadi 248 - The Golden Bath",
+          "views_raw": "26K",
+          "views": 26000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Book for Victory - Cory Doctorow - Persian Translation - Part 48",
+          "views_raw": "2.2K",
+          "views": 2200,
+          "published": "1mo ago"
+        },
+        {
+          "title": "کتاب برای پیروزی - کوری دکترو - ترجمه فارسی - قسمت ۴۷",
+          "views_raw": "1.8K",
+          "views": 1800,
+          "published": "1mo ago"
+        },
+        {
+          "title": "ایجنت رو از یه ابزار، به یه پیشکار تبدیل کنین",
+          "views_raw": "32K",
+          "views": 32000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "For the Win - Persian - 46",
+          "views_raw": "1.1K",
+          "views": 1100,
+          "published": "1mo ago"
+        },
+        {
+          "title": "For the Win: Persian 45",
+          "views_raw": "1.9K",
+          "views": 1900,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Installing the Hermes agent on your computer",
+          "views_raw": "91K",
+          "views": 91000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Chokepoint Capitalism - Cory Doctorow - Persian Translation - Chapter 44",
+          "views_raw": "985",
+          "views": 985,
+          "published": "1mo ago"
+        },
+        {
+          "title": "For the Win - Persian - 43",
+          "views_raw": "1.2K",
+          "views": 1200,
+          "published": "1mo ago"
+        },
+        {
+          "title": "What the Heck Is an Agent? Understanding the Concept of AI Agents",
+          "views_raw": "170K",
+          "views": 170000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Little Brother - Cory Doctorow - Persian Translation - Chapter 42",
+          "views_raw": "2.2K",
+          "views": 2200,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Radio Jadi 247 - Nothing But Promises and Threats",
+          "views_raw": "22K",
+          "views": 22000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "A Look at the Security Incident Between OpenAI and Hugging Face",
+          "views_raw": "12K",
+          "views": 12000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Chokepoint Capitalism - Cory Doctorow - Persian Translation - Episode 41",
+          "views_raw": "1.2K",
+          "views": 1200,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Chokepoint Capitalism - Cory Doctorow - Persian Translation - Episode 40",
+          "views_raw": "1.2K",
+          "views": 1200,
+          "published": "2mo ago"
+        },
+        {
+          "title": "کتاب برای پیروزی - کوری دکترو - ترجمه فارسی - قسمت ۳۹",
+          "views_raw": "1.1K",
+          "views": 1100,
+          "published": "2mo ago"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "زومیت",
+      "handle": "ZoomitOfficial",
+      "category": "tech",
+      "subscribers": 160000,
+      "video_count_sampled": 30,
+      "total_sample_views": 528300,
+      "avg_views": 17610,
+      "videos": [
+        {
+          "title": "Goodbye Windows? We Installed the World's Best Operating System!",
+          "views_raw": "6.2K",
+          "views": 6200,
+          "published": "1d ago"
+        },
+        {
+          "title": "iPhone 18 Pro Max Unboxing and Hands-on: Insane Battery and Variable Aperture!",
+          "views_raw": "94K",
+          "views": 94000,
+          "published": "10d ago"
+        },
+        {
+          "title": "ویندوزت رو بکوب و از نو بساز! 🤯 خفن‌ترین ترفندهای تغییر ظاهر ویندوز",
+          "views_raw": "21K",
+          "views": 21000,
+          "published": "13d ago"
+        },
+        {
+          "title": "گفت‌وگوی زومیت با شایان اویس؛ برنده مدال آباکوس و حل معمای ۵۰ ساله ریاضی",
+          "views_raw": "31K",
+          "views": 31000,
+          "published": "2w ago"
+        },
+        {
+          "title": "بررسی پیکسل ۱۱ پرو ایکس‌ال؛ زیباترین شکست گوگل؟",
+          "views_raw": "11K",
+          "views": 11000,
+          "published": "2w ago"
+        },
+        {
+          "title": "Apple Event Recap; Introducing the iPhone 18 Pro Max and the First Foldable iPhone (iPhone Duo)",
+          "views_raw": "39K",
+          "views": 39000,
+          "published": "2w ago"
+        },
+        {
+          "title": "Leaked Specs of iPhone 18 Pro and Apple's First Foldable iPhone",
+          "views_raw": "15K",
+          "views": 15000,
+          "published": "3w ago"
+        },
+        {
+          "title": "بررسی پوکو ایکس ۸ پرو نسخه آیرون من (Poco X8 Pro)؛ قاتل پرچمدار با تم مارول",
+          "views_raw": "9.7K",
+          "views": 9700,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Samsung Galaxy A57 Review: A Mid-Ranger with Flagship Aspirations!",
+          "views_raw": "31K",
+          "views": 31000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Run AI Offline Without Internet or VPN!",
+          "views_raw": "9.5K",
+          "views": 9500,
+          "published": "1mo ago"
+        },
+        {
+          "title": "بررسی گلکسی زد فولد ۸ اولترا؛ چرا این گوشی واقعا «اولترا» نیست؟",
+          "views_raw": "9K",
+          "views": 9000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "اسنپ کار کردن تو این اقتصاد می‌صرفه؟ واقعیت درآمد راننده‌ها",
+          "views_raw": "10K",
+          "views": 10000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "بررسی شیائومی پد ۸ (Xiaomi Pad 8)؛ بهترین تبلت ۸۰ میلیونی بازار؟",
+          "views_raw": "10K",
+          "views": 10000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 Review: A $1900 Phone Without a Zoom Camera!",
+          "views_raw": "7.6K",
+          "views": 7600,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Stop Going to Language Classes! Can You Learn English from Scratch Using AI?",
+          "views_raw": "13K",
+          "views": 13000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Oppo Find X7 Ultra Review: The 400 Million Toman Rival to iPhone and Samsung! #OppoFindX7Ultra",
+          "views_raw": "14K",
+          "views": 14000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "New Samsung Foldables🔥 Hands-on with Galaxy Z Fold8, Ultra, and Flip8",
+          "views_raw": "6.1K",
+          "views": 6100,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Don't Let the MacBook Neo's Price Fool You! (Pros and Cons of Apple's Budget Laptop)",
+          "views_raw": "19K",
+          "views": 19000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "بهترین یخچال دوقلوی بازار؟ بررسی کامل یخچال فریزر ال‌جی F411 و B414 🥶",
+          "views_raw": "1.9K",
+          "views": 1900,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Complete Summary of the Samsung Event ✨ From Galaxy Z Fold8 Ultra to New Watches",
+          "views_raw": "8K",
+          "views": 8000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "LG QNED86 Review | A Smart Choice for Gamers and Cinephiles",
+          "views_raw": "2.8K",
+          "views": 2800,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Everything You Need to Know About GTA 6 | When Is the PC Version Coming? + The Story of Capacity ...",
+          "views_raw": "17K",
+          "views": 17000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "پایان خلاقیت؛ چرا اپل و سامسونگ دیگه نوآوری خاصی ندارن؟",
+          "views_raw": "18K",
+          "views": 18000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Full Review of the New Siri: Is It Actually Useful in Iran?",
+          "views_raw": "7.3K",
+          "views": 7300,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Windows 11 Revolutionary Update: From Taskbar Relocation to Unbelievable Speed",
+          "views_raw": "26K",
+          "views": 26000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "NASA's Most Dangerous Mission: Behind the Scenes of Artemis II",
+          "views_raw": "2.1K",
+          "views": 2100,
+          "published": "3mo ago"
+        },
+        {
+          "title": "The End of the Tim Cook Empire at Apple! John Ternus, the New King of Cupertino!",
+          "views_raw": "3.1K",
+          "views": 3100,
+          "published": "3mo ago"
+        },
+        {
+          "title": "بررسی آپدیت One UI 9 سامسونگ؛ تغییرات، امکانات جدید و قابلیت‌های مخفی",
+          "views_raw": "51K",
+          "views": 51000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "Poco with a Tony Stark Twist! Unboxing and Hands-on: Poco X8 Pro Iron Man Edition",
+          "views_raw": "9K",
+          "views": 9000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "Galaxy S26 Ultra review; Samsung's stinginess?",
+          "views_raw": "26K",
+          "views": 26000,
+          "published": "3mo ago"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "محمد شکوری",
+      "handle": "ShakouriM",
+      "category": "tech",
+      "subscribers": 210000,
+      "video_count_sampled": 30,
+      "total_sample_views": 526600,
+      "avg_views": 17553,
+      "videos": [
+        {
+          "title": "گلکسی A57 بعد از ۳ ماه؛ دوباره می‌خرمش؟",
+          "views_raw": "14K",
+          "views": 14000,
+          "published": "2d ago"
+        },
+        {
+          "title": "شیائومی 18 Pro و Pro Max معرفی شدند؛ باتری ۸۵۰۰ و نمایشگر حریم خصوصی!",
+          "views_raw": "15K",
+          "views": 15000,
+          "published": "5d ago"
+        },
+        {
+          "title": "بررسی ردمی نوت ۱۷ پرو؛ ارزش خرید داره؟",
+          "views_raw": "10K",
+          "views": 10000,
+          "published": "6d ago"
+        },
+        {
+          "title": "سامسونگ با One UI 9 چه کرده؟ بررسی تغییرات جدید",
+          "views_raw": "29K",
+          "views": 29000,
+          "published": "10d ago"
+        },
+        {
+          "title": "بررسی Redmi K100 Pro Max؛ این ردمی زیادی قوی شده!",
+          "views_raw": "10K",
+          "views": 10000,
+          "published": "13d ago"
+        },
+        {
+          "title": "بررسی iOS 27؛ قابلیت‌های جدید و تغییرات مهم  📱",
+          "views_raw": "10K",
+          "views": 10000,
+          "published": "2w ago"
+        },
+        {
+          "title": "بررسی آنر وین HONOR WIN؛ ارزش خرید داره؟",
+          "views_raw": "7.3K",
+          "views": 7300,
+          "published": "2w ago"
+        },
+        {
+          "title": "بررسی کامل Google Pixel 11 Pro XL | پرچمدار جدید گوگل ارزش خرید داره؟",
+          "views_raw": "5.1K",
+          "views": 5100,
+          "published": "2w ago"
+        },
+        {
+          "title": "بررسی اندروید ۱۷؛ روی پیکسل ۱۱ پرو XL چی عوض شده؟",
+          "views_raw": "11K",
+          "views": 11000,
+          "published": "3w ago"
+        },
+        {
+          "title": "Pixel 11 Pro XL Unboxing | اولین نگاه به پرچمدار جدید گوگل",
+          "views_raw": "7.1K",
+          "views": 7100,
+          "published": "3w ago"
+        },
+        {
+          "title": "Galaxy A57 vs A56 | کدومو بخریم؟",
+          "views_raw": "14K",
+          "views": 14000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "بررسی گلکسی A37؛ میان‌رده مطمئن سامسونگ یا تکرار گران‌تر A36؟",
+          "views_raw": "10K",
+          "views": 10000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "غول باتری جدید شیائومی! | آنباکس ردمی نوت ۱۷ پرو",
+          "views_raw": "19K",
+          "views": 19000,
+          "published": "1mo ago"
+        },
+        {
+          "title": "باتری ۱۰,۰۰۰ با فن واقعی! آنباکس Honor Win؛ هیولای گیمینگ آنر",
+          "views_raw": "12K",
+          "views": 12000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Galaxy Z Fold8 معرفی شد؛ بزرگ‌ترین تغییر تاریخ گوشی‌های تاشوی سامسونگ؟",
+          "views_raw": "3.7K",
+          "views": 3700,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Galaxy S25 FE vs Galaxy A57 | مقایسه کامل قبل از خرید",
+          "views_raw": "23K",
+          "views": 23000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "آنباکس و نگاه اولیه به سامسونگ گلکسی A37",
+          "views_raw": "5.5K",
+          "views": 5500,
+          "published": "2mo ago"
+        },
+        {
+          "title": "بررسی کامل گلکسی A57؛ میان‌رده جدید سامسونگ",
+          "views_raw": "27K",
+          "views": 27000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "مقایسه آیفون ۱۷ پرو مکس با گلکسی اس ۲۶ اولترا",
+          "views_raw": "48K",
+          "views": 48000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "بررسی عملکرد طولانی مدت گلکسی S25 FE بعد از ۹ ماه",
+          "views_raw": "26K",
+          "views": 26000,
+          "published": "2mo ago"
+        },
+        {
+          "title": "بررسی گوشی شیائومی ۱۷",
+          "views_raw": "8.7K",
+          "views": 8700,
+          "published": "2mo ago"
+        },
+        {
+          "title": "آنباکس و نگاه اولیه به سامسونگ گلکسی A57",
+          "views_raw": "37K",
+          "views": 37000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "آنباکس و نگاه اولیه به پرچم‌ دار شیائومی - شیائومی ۱۷",
+          "views_raw": "8.7K",
+          "views": 8700,
+          "published": "3mo ago"
+        },
+        {
+          "title": "ترفندهای بی نهایت شخصی سازی گوشی سامسونگ با کمک گودلاک",
+          "views_raw": "17K",
+          "views": 17000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "رازهای عجیب توپ جام جهانی فوتبال ۲۰۲۶",
+          "views_raw": "1.5K",
+          "views": 1500,
+          "published": "3mo ago"
+        },
+        {
+          "title": "بررسی گوشی سامسونگ گلکسی اس ۲۶ اولترا",
+          "views_raw": "49K",
+          "views": 49000,
+          "published": "3mo ago"
+        },
+        {
+          "title": "بررسی آی او اس ٢٧ (iOS 27)",
+          "views_raw": "3.9K",
+          "views": 3900,
+          "published": "3mo ago"
+        },
+        {
+          "title": "معرفی گوشی شیائومی ۱۷ تی پرو | Xiaomi 17T Pro",
+          "views_raw": "7.1K",
+          "views": 7100,
+          "published": "3mo ago"
+        },
+        {
+          "title": "بررسی کامل رابط کاربری جدید سامسونگ وان یو آی  ۸.۵ ( One UI 8.5 )",
+          "views_raw": "67K",
+          "views": 67000,
+          "published": "4mo ago"
+        },
+        {
+          "title": "گلکسی S26 اولترا معرفی شد | قابلیت پرایوسی عجیب + Galaxy AI جدید!",
+          "views_raw": "20K",
+          "views": 20000,
+          "published": "7mo ago"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "معین علیپور (کدرز)",
+      "handle": "CodersHub",
+      "category": "tech",
+      "subscribers": 64000,
+      "video_count_sampled": 30,
+      "total_sample_views": 121337,
+      "avg_views": 4044,
+      "videos": [
+        {
+          "title": "Mazdak Alipour & Nariman Assadi: Lori, Shirazi & Laki Music in San Francisco",
+          "views_raw": "2K",
+          "views": 2000,
+          "published": "4mo ago"
+        },
+        {
+          "title": "Chamari-Royce Hall - اجرای زنده مزدک علیپور برای ایران    ",
+          "views_raw": "249",
+          "views": 249,
+          "published": "6mo ago"
+        },
+        {
+          "title": "برای جاویدنامان ایران  Mazdak Alipour - Iran's Immortals",
+          "views_raw": "903",
+          "views": 903,
+          "published": "6mo ago"
+        },
+        {
+          "title": "Daya Daya (Lori Folk Music)",
+          "views_raw": "685",
+          "views": 685,
+          "published": "8mo ago"
+        },
+        {
+          "title": "Faraj Alipour & Taal Ensemble | Complete Concert (1:23)  نسخه کامل کنسرت فرج علیپور و گروه تال",
+          "views_raw": "46K",
+          "views": 46000,
+          "published": "9mo ago"
+        },
+        {
+          "title": "شاه صنم کنسرت واشنگتن دی سی Shah Sanam Washington DC",
+          "views_raw": "1.3K",
+          "views": 1300,
+          "published": "10mo ago"
+        },
+        {
+          "title": "مسلم علیپور: آهنگ عاشقانه \"عزیزم\" نغمه‌ای از کوههای لرستان | موسیقی لری",
+          "views_raw": "1K",
+          "views": 1000,
+          "published": "10mo ago"
+        },
+        {
+          "title": "کنسرت موسیقی اصیل  و محلی ایرانی در قلب واشنگتن دی سی Concert Washington D.C",
+          "views_raw": "1.6K",
+          "views": 1600,
+          "published": "10mo ago"
+        },
+        {
+          "title": "نوای تازه از \"گل گلدون من\": کمانچه مسلم علیپور | شاهکار لاچینی، شهبازیان و سیمین غانم-Moslem Alipour",
+          "views_raw": "2.4K",
+          "views": 2400,
+          "published": "11mo ago"
+        },
+        {
+          "title": "اجرای قطعه مینا بنوش، اثر به یاد ماندنی استاد مسعود بختیاری، با  کمانچه مسلم علیپورMoslem Alipour",
+          "views_raw": "1.4K",
+          "views": 1400,
+          "published": "11mo ago"
+        },
+        {
+          "title": "Moonlit Shade | Moslem Alipour | موسیقی آرامش‌بخش گیتار و زهی",
+          "views_raw": "158",
+          "views": 158,
+          "published": "11mo ago"
+        },
+        {
+          "title": "~1 Hour Relaxing Kamancheh Instrumental Music | حدود ۱ ساعت موسیقی بی‌کلام آرامش‌بخش کمانچه",
+          "views_raw": "186",
+          "views": 186,
+          "published": "1y ago"
+        },
+        {
+          "title": "موسیقی شیراز 🎶 زیباترین آهنگ شیرازی | Shirazi Music 🎵 Beautiful Song by Moslem Alipour",
+          "views_raw": "1.5K",
+          "views": 1500,
+          "published": "1y ago"
+        },
+        {
+          "title": "Tama-Milad Alipour & Razie Fouladvand طَما",
+          "views_raw": "283",
+          "views": 283,
+          "published": "1y ago"
+        },
+        {
+          "title": "You're Not Alone (AI Music Video) – Moslem Alipour | Cinematic Music",
+          "views_raw": "513",
+          "views": 513,
+          "published": "1y ago"
+        },
+        {
+          "title": "🎵 موسیقی لری شاد | یار بی کلک – اجرای مسلم علیپور | Lori Folk Song Yar Bi Kalak by Moslem Alipour",
+          "views_raw": "662",
+          "views": 662,
+          "published": "1y ago"
+        },
+        {
+          "title": "🎶 فرج علیپور - عزت و ذلت | موسیقی اجتماعی و انتقادی با نگاه امروزی با موسیقی مسلم علیپور",
+          "views_raw": "1K",
+          "views": 1000,
+          "published": "1y ago"
+        },
+        {
+          "title": "Infinity (Bi Payan) – Moslem Alipour | Electronic Music",
+          "views_raw": "411",
+          "views": 411,
+          "published": "1y ago"
+        },
+        {
+          "title": "Dokhtare Ghad Boland (Lori Folk Song) – Kamancheh & Vocals by Mazdak Alipour",
+          "views_raw": "3.6K",
+          "views": 3600,
+          "published": "1y ago"
+        },
+        {
+          "title": "رویای شیرین  با صداو کمانچه مسلم علیپور – تلفیق موسیقی لری و کانتری",
+          "views_raw": "5.3K",
+          "views": 5300,
+          "published": "1y ago"
+        },
+        {
+          "title": "آرامش | موزیک عاشقانه با کمانچه از مسلم علیپور - ترکیبی از احساس، ملودی و آرامش واقعی",
+          "views_raw": "987",
+          "views": 987,
+          "published": "1y ago"
+        },
+        {
+          "title": "وطنم ایران | کلیپ تصویری از جنگ و غربت | آواز: فرج علیپور | موسیقی: مسلم علیپور",
+          "views_raw": "13K",
+          "views": 13000,
+          "published": "1y ago"
+        },
+        {
+          "title": "پس از ۶۰ سال مزدک علی‌پور با اسطوره موسیقی لری پیرولی کریمی  هم‌نوا و هم‌صدا شد",
+          "views_raw": "4.5K",
+          "views": 4500,
+          "published": "1y ago"
+        },
+        {
+          "title": "آموزش اصیل موسیقی لری با فرج علیپور قسمت هفتم - سیت بیارم",
+          "views_raw": "3K",
+          "views": 3000,
+          "published": "1y ago"
+        },
+        {
+          "title": "درس هشتم موسیقی لری: بمیرم با فرج علیپور | آموزش آوازی و قطعه حماسی",
+          "views_raw": "1.2K",
+          "views": 1200,
+          "published": "1y ago"
+        },
+        {
+          "title": "قطعه سوزه گیان: موسیقی محلی لرستان با فرج علیپور",
+          "views_raw": "15K",
+          "views": 15000,
+          "published": "1y ago"
+        },
+        {
+          "title": "درس ششم موسیقی لری با استاد فرج علیپور | اجرای قطعات برای هنرجویان",
+          "views_raw": "2.4K",
+          "views": 2400,
+          "published": "1y ago"
+        },
+        {
+          "title": "آموزش موسیقی لرستان با فرج علیپور قسمت پنجم - قطعه نازنین",
+          "views_raw": "1.8K",
+          "views": 1800,
+          "published": "1y ago"
+        },
+        {
+          "title": "نغمه‌هایی از موسیقی دل‌انگیز لرستان ـ کنسرت آنلاین فرج علیپور",
+          "views_raw": "6.5K",
+          "views": 6500,
+          "published": "1y ago"
+        },
+        {
+          "title": "نغمه‌های لری آموزش موسیقی لرستان با فرج علیپور قسمت چهارم",
+          "views_raw": "1.8K",
+          "views": 1800,
+          "published": "1y ago"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "مهدی بیزیکسر",
+      "handle": "MehdiBizixer",
+      "category": "gaming",
+      "subscribers": 530000,
+      "video_count_sampled": 30,
+      "total_sample_views": 92210,
+      "avg_views": 3073,
+      "videos": [
+        {
+          "title": "شبیه ساز تصادف آنلاین  عبور از پله با نهایت سرعت ! BeamNG drive",
+          "views_raw": "176",
+          "views": 176,
+          "published": "2w ago"
+        },
+        {
+          "title": "ماینکرفت اما چالش جنگ و شانس با مهدی بیزیکسر و حسام ال دی",
+          "views_raw": "1.3K",
+          "views": 1300,
+          "published": "1y ago"
+        },
+        {
+          "title": "ماینکرفت هاردکور اما زندگی در یک چانک !",
+          "views_raw": "554",
+          "views": 554,
+          "published": "1y ago"
+        },
+        {
+          "title": "ماینکرفت سوروایول سری سوم (28) | انتقال ویلیجر !",
+          "views_raw": "1.4K",
+          "views": 1400,
+          "published": "1y ago"
+        },
+        {
+          "title": "ماینکرفت: هیجانی ترین بدوارز (7) | با گوجی و فریبرز",
+          "views_raw": "1.3K",
+          "views": 1300,
+          "published": "2y ago"
+        },
+        {
+          "title": "ماینکرفت سوروایول سری سوم (24) | چست اتوماتیک !",
+          "views_raw": "634",
+          "views": 634,
+          "published": "2y ago"
+        },
+        {
+          "title": "ماینکرفت سوروایول سری سوم (23) | فارم سنگ !",
+          "views_raw": "1.2K",
+          "views": 1200,
+          "published": "2y ago"
+        },
+        {
+          "title": "مهدی بیزیکسر در کارخانه ی مرگ (11) | اوج حساسیت !",
+          "views_raw": "751",
+          "views": 751,
+          "published": "2y ago"
+        },
+        {
+          "title": "داستان های گوجی و فریبرز (6) | گوجی و فریبرز به مدرسه میروند !",
+          "views_raw": "722",
+          "views": 722,
+          "published": "2y ago"
+        },
+        {
+          "title": "ماینکرفت چالشی | ساخت برج جنگی (2) روز مبارزه / با گوجی و فریبرز",
+          "views_raw": "1.2K",
+          "views": 1200,
+          "published": "2y ago"
+        },
+        {
+          "title": "ماینکرفت چالشی | سه دقیقه تا دوام واردنی (1) / با گوجی و فریبرز",
+          "views_raw": "5.1K",
+          "views": 5100,
+          "published": "2y ago"
+        },
+        {
+          "title": "ماینکرفت اما فصل دوم مدرسه ی هنر های رزمی (19) | مشکل اینجا بود ؟",
+          "views_raw": "1.5K",
+          "views": 1500,
+          "published": "2y ago"
+        },
+        {
+          "title": "پارتی پنیک (1) | با گوجی وفریبرز",
+          "views_raw": "4.7K",
+          "views": 4700,
+          "published": "2y ago"
+        },
+        {
+          "title": "جی تی ای آنلاین (82) | سرقت از کازینو : آثار هنری (5) / دزدی از دزد",
+          "views_raw": "3.6K",
+          "views": 3600,
+          "published": "3y ago"
+        },
+        {
+          "title": "بازی ترسناک بک رومز (9) | رمز در؟! / با گوجی و فریبرز",
+          "views_raw": "10K",
+          "views": 10000,
+          "published": "3y ago"
+        },
+        {
+          "title": "جی تی ای آنلاین (مسابقه) | خط مرگ موتوری (۱۳)",
+          "views_raw": "2.4K",
+          "views": 2400,
+          "published": "3y ago"
+        },
+        {
+          "title": "ماینکرفت هاردکور (34) | به دنبال اوت پست ! / با گوجی و فریبرز",
+          "views_raw": "3.2K",
+          "views": 3200,
+          "published": "3y ago"
+        },
+        {
+          "title": "GTA آنلاین (59) | پلیس جعلی و سرقت ماشین زندان ! / با گوجی و فریبرز",
+          "views_raw": "3.2K",
+          "views": 3200,
+          "published": "3y ago"
+        },
+        {
+          "title": "پرواز تهران به تبریز با مسافران VIP | با کاپیتان بیزیکسر (2)",
+          "views_raw": "901",
+          "views": 901,
+          "published": "3y ago"
+        },
+        {
+          "title": "رد دد 2 آنلاین (23) | به دنبال گنج ! / با گوجی و فریبرز",
+          "views_raw": "2K",
+          "views": 2000,
+          "published": "3y ago"
+        },
+        {
+          "title": "ماینکرفت آنلاین (87) | شهر بازی : افتتاح سرسره آبی! / با گوجی و فریبرز",
+          "views_raw": "4K",
+          "views": 4000,
+          "published": "3y ago"
+        },
+        {
+          "title": "مهدی بیزیکسر ، گوجی و فریبرز در روبلاکس (1)",
+          "views_raw": "18K",
+          "views": 18000,
+          "published": "4y ago"
+        },
+        {
+          "title": "صحبت های فوری و مهم در مورد آپارات گیم",
+          "views_raw": "1.5K",
+          "views": 1500,
+          "published": "4y ago"
+        },
+        {
+          "title": "زندگی روستایی آنلاین (57) فریبرز و تانکرش ! / با گوجی و فریبرز",
+          "views_raw": "1.6K",
+          "views": 1600,
+          "published": "4y ago"
+        },
+        {
+          "title": "لاکی بلاک با مهدی بیزیکسر ، گوجی و فریبرز",
+          "views_raw": "12K",
+          "views": 12000,
+          "published": "4y ago"
+        },
+        {
+          "title": "ماینکرفت سوروایول",
+          "views_raw": "578",
+          "views": 578,
+          "published": "4y ago"
+        },
+        {
+          "title": "ماینکرفت آنلاین با گوجی (151) | بیمارستان ویلیجر ها (2)!",
+          "views_raw": "994",
+          "views": 994,
+          "published": "4y ago"
+        },
+        {
+          "title": "GTA آنلاین (3) | عملیات سرقت ماشین از اداره پلیس / با گوجی و فریبرز",
+          "views_raw": "4.8K",
+          "views": 4800,
+          "published": "4y ago"
+        },
+        {
+          "title": "ماینکرفت آنلاین با گوجی (150) | بیمارستان ویلیجر ها (1)",
+          "views_raw": "1.5K",
+          "views": 1500,
+          "published": "4y ago"
+        },
+        {
+          "title": "GTA آنلاین (2) | خط مرگ موتور ها (2) / با گوجی و فریبرز",
+          "views_raw": "1.4K",
+          "views": 1400,
+          "published": "4y ago"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "علیرضا اخوان‌پور",
+      "handle": "AlirezaAkhavanPour",
+      "category": "tech",
+      "subscribers": 49000,
+      "video_count_sampled": 30,
+      "total_sample_views": 22081,
+      "avg_views": 736,
+      "videos": [
+        {
+          "title": "آموزش زبان ترکی استانبولی - سطح B1",
+          "views_raw": "51",
+          "views": 51,
+          "published": "3h ago"
+        },
+        {
+          "title": "آموزش اکسل - کاربردی(مقدماتی)",
+          "views_raw": "560",
+          "views": 560,
+          "published": "2d ago"
+        },
+        {
+          "title": "آموزش n8n - آموزش عملی ساخت AI Agent",
+          "views_raw": "1K",
+          "views": 1000,
+          "published": "7d ago"
+        },
+        {
+          "title": "امنیت شبکه - آموزش جامع SecAI+",
+          "views_raw": "966",
+          "views": 966,
+          "published": "9d ago"
+        },
+        {
+          "title": "Trading Tutorial - Dow Jones Scalping Strategy: Day Trading for Consistent Profit",
+          "views_raw": "1.1K",
+          "views": 1100,
+          "published": "13d ago"
+        },
+        {
+          "title": "آموزش پایتون - مسترکلاس برنامه‌نویسی پایتون 2026 : 30+ پروژه کاربردی با پایتون",
+          "views_raw": "5.1K",
+          "views": 5100,
+          "published": "2w ago"
+        },
+        {
+          "title": "English Language Learning – English Grammar from Basics to Practical Use",
+          "views_raw": "3.9K",
+          "views": 3900,
+          "published": "2w ago"
+        },
+        {
+          "title": "آموزش هوش مصنوعی - کاربردهای هوش مصنوعی برای مدیران و کارشناسان",
+          "views_raw": "1K",
+          "views": 1000,
+          "published": "3w ago"
+        },
+        {
+          "title": "English Language Training - Level A1",
+          "views_raw": "898",
+          "views": 898,
+          "published": "4w ago"
+        },
+        {
+          "title": "Financial Management Training - Part 1 | Basic Concepts and the Importance of Financial Literacy",
+          "views_raw": "796",
+          "views": 796,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Financial Management Training - Part 2 | What is Money?",
+          "views_raw": "313",
+          "views": 313,
+          "published": "1mo ago"
+        },
+        {
+          "title": "آموزش مدیریت مالی - قسمت سوم | چرا باید آموزش ببینیم؟",
+          "views_raw": "203",
+          "views": 203,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Financial Management Training - Part 4 | 6 Golden Steps to Start Your Path to Wealth",
+          "views_raw": "185",
+          "views": 185,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Financial Management Training - Part 5 | Where Do You Stand on the Financial Pyramid?",
+          "views_raw": "358",
+          "views": 358,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Public Speaking Mastery - Part 10 | Give It a Rest",
+          "views_raw": "345",
+          "views": 345,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Public Speaking Masterclass - Part 9 | Don't Be a Disorganized Mess When You Speak",
+          "views_raw": "208",
+          "views": 208,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Public Speaking Mastery - Part 7 | Oops, Sorry! I Stumbled",
+          "views_raw": "151",
+          "views": 151,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Public Speaking Tutorial - Part 8 | Enunciate Your Words Clearly",
+          "views_raw": "124",
+          "views": 124,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Public Speaking Mastery - Part 6 | What’s the Rush? Slow Down",
+          "views_raw": "111",
+          "views": 111,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Public Speaking Masterclass - Part 5 | I Can't Hear You!",
+          "views_raw": "194",
+          "views": 194,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Public Speaking Training - Part 4 | Verbal Fillers",
+          "views_raw": "340",
+          "views": 340,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Public Speaking Mastery - Part 3 | Misconceptions About Public Speaking",
+          "views_raw": "322",
+          "views": 322,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Public Speaking Skills Training - Part 2 | A Quick Quiz",
+          "views_raw": "348",
+          "views": 348,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Public Speaking Training - Part 1 | Introduction to Public Speaking",
+          "views_raw": "897",
+          "views": 897,
+          "published": "1mo ago"
+        },
+        {
+          "title": "آموزش n8n برای همه( بدون کد نویسی)! قسمت سوم",
+          "views_raw": "345",
+          "views": 345,
+          "published": "1mo ago"
+        },
+        {
+          "title": "n8n Training for Everyone (No Coding Required)! Part 2",
+          "views_raw": "125",
+          "views": 125,
+          "published": "1mo ago"
+        },
+        {
+          "title": "آموزش n8n برای همه( بدون کد نویسی)! قسمت اول",
+          "views_raw": "179",
+          "views": 179,
+          "published": "1mo ago"
+        },
+        {
+          "title": "Git Tutorial - Git and GitHub Course 2026 with Jadi! Part 16",
+          "views_raw": "856",
+          "views": 856,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Git Tutorial - Git and GitHub Course 2026 with Jadi! Part 15",
+          "views_raw": "495",
+          "views": 495,
+          "published": "2mo ago"
+        },
+        {
+          "title": "Git Tutorial - Git and GitHub Course 2026 with Jadi! Part 14",
+          "views_raw": "611",
+          "views": 611,
+          "published": "2mo ago"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "دانیال بهزادی",
+      "handle": "DanialBehzadi",
+      "category": "tech",
+      "subscribers": 42000,
+      "video_count_sampled": 4,
+      "total_sample_views": 1475,
+      "avg_views": 368,
+      "videos": [
+        {
+          "title": "محسن نامجو - از پوست نارنگی مدد - رو دست",
+          "views_raw": "702",
+          "views": 702,
+          "published": "11y ago"
+        },
+        {
+          "title": "علت ترافیک در ایران",
+          "views_raw": "345",
+          "views": 345,
+          "published": "14y ago"
+        },
+        {
+          "title": "مراسم رونمایی از هادی و مهدی",
+          "views_raw": "87",
+          "views": 87,
+          "published": "14y ago"
+        },
+        {
+          "title": "Sally Disappears",
+          "views_raw": "341",
+          "views": 341,
+          "published": "17y ago"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "مهدی زارع‌زاده",
+      "handle": "ZareTech",
+      "category": "tech",
+      "subscribers": 88000,
+      "video_count_sampled": 7,
+      "total_sample_views": 2553,
+      "avg_views": 364,
+      "videos": [
+        {
+          "title": "Bolo up ሙሉ አሰራር በቀን 10$ /bolo up make money online /Ethiopia",
+          "views_raw": "838",
+          "views": 838,
+          "published": "1y ago"
+        },
+        {
+          "title": "ዛሬ መጀመር ያለባችሁ ኤርድሮፕ/Billions Network Aridrop/website make money online /2025",
+          "views_raw": "124",
+          "views": 124,
+          "published": "1y ago"
+        },
+        {
+          "title": "እንዳያመልጣችሁ መስራት ያለባችሁ ገራሚ ኤርድሮፕ/'' Interlink Aridrop Guid 2025''/How to claimFree Crypto/",
+          "views_raw": "81",
+          "views": 81,
+          "published": "1y ago"
+        },
+        {
+          "title": "ገራሚ የአፕ ኤርድሮፕ /Denet Aridrop አሰራር /make money Ethiopia /",
+          "views_raw": "109",
+          "views": 109,
+          "published": "1y ago"
+        },
+        {
+          "title": "ስልካችሁ በቀን 500 ብር  ስሩ  /Play Game and Earn Money Online / Ethiopia ",
+          "views_raw": "1.1K",
+          "views": 1100,
+          "published": "1y ago"
+        },
+        {
+          "title": "በቀን የ 100 ብር ካርድ የሚከፈል /how to online make money 2025/",
+          "views_raw": "123",
+          "views": 123,
+          "published": "1y ago"
+        },
+        {
+          "title": "በየቀኑ ገንዘብ የምትሰሩበት /Make Money Online ",
+          "views_raw": "178",
+          "views": 178,
+          "published": "1y ago"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "عمو بیگ",
+      "handle": "AmooBig",
+      "category": "gaming",
+      "subscribers": 260000,
+      "video_count_sampled": 5,
+      "total_sample_views": 628,
+      "avg_views": 125,
+      "videos": [
+        {
+          "title": "ماینکرافت بابسفنجی شیطانی و مبارزه با هیولا (صحنه های ترسناک زیاد)",
+          "views_raw": "148",
+          "views": 148,
+          "published": "1y ago"
+        },
+        {
+          "title": "کشف خطرناک ترین هیولا در ماینکرافت☠️☠️(عموبیگ)",
+          "views_raw": "34",
+          "views": 34,
+          "published": "1y ago"
+        },
+        {
+          "title": "وارد پورتال شدم ناگهان...😦😐 انگار وارد دنیا موازی شدم(عموبیگ)",
+          "views_raw": "210",
+          "views": 210,
+          "published": "1y ago"
+        },
+        {
+          "title": "فرار از زندان در ماینکرافت با عمو بیگ و شزی!!",
+          "views_raw": "107",
+          "views": 107,
+          "published": "1y ago"
+        },
+        {
+          "title": "عمو بیگ ماینکرافت همه چیم به فنارفت !😐😐!ورشکست شدم??",
+          "views_raw": "129",
+          "views": 129,
+          "published": "1y ago"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "گیمین",
+      "handle": "GaminOfficial",
+      "category": "gaming",
+      "subscribers": 150000,
+      "video_count_sampled": 27,
+      "total_sample_views": 1396,
+      "avg_views": 51,
+      "videos": [
+        {
+          "title": "Pov:you heard Travelling Merchant",
+          "views_raw": "47",
+          "views": 47,
+          "published": "4y ago"
+        },
+        {
+          "title": "6 Mins Game Play| Legend Of Ace",
+          "views_raw": "24",
+          "views": 24,
+          "published": "5y ago"
+        },
+        {
+          "title": "LANCELOT EPIC SKIN SCRIPT [ROYAL MATADOR]FULL EFFECT|WORK ALL PATCH|NO PASSWORD|PATCH YVE",
+          "views_raw": "184",
+          "views": 184,
+          "published": "5y ago"
+        },
+        {
+          "title": "HOW TO DOWNLOAD RESHORT LINK",
+          "views_raw": "107",
+          "views": 107,
+          "published": "5y ago"
+        },
+        {
+          "title": "GUSION LEGEND LEGEND SKIN SCRIPT [COSMIC GLEAM] - WITH FULL RECALL ANIMATION WITH SOUND |JOMELL YT",
+          "views_raw": "210",
+          "views": 210,
+          "published": "5y ago"
+        },
+        {
+          "title": "8 Minutes Alucard Montage",
+          "views_raw": "24",
+          "views": 24,
+          "published": "5y ago"
+        },
+        {
+          "title": "Fanny Top Global Jupiter|Fanny Highlights",
+          "views_raw": "37",
+          "views": 37,
+          "published": "5y ago"
+        },
+        {
+          "title": "10 Minutes Yu Zhong Montage Must Watch!|MLBB",
+          "views_raw": "40",
+          "views": 40,
+          "published": "5y ago"
+        },
+        {
+          "title": "This is how i play Selena|Rank Highlights MLBB",
+          "views_raw": "34",
+          "views": 34,
+          "published": "5y ago"
+        },
+        {
+          "title": "New  Intro",
+          "views_raw": "38",
+          "views": 38,
+          "published": "5y ago"
+        },
+        {
+          "title": "Carrying My Teammates Chou Montage |MLBB",
+          "views_raw": "59",
+          "views": 59,
+          "published": "5y ago"
+        },
+        {
+          "title": "Support Selena GamePlay|MLBB",
+          "views_raw": "37",
+          "views": 37,
+          "published": "5y ago"
+        },
+        {
+          "title": "You should try This Build|Revamped Lapu-lapu+Ks Teammates in My second Acc|Classic Mode MLBB",
+          "views_raw": "45",
+          "views": 45,
+          "published": "5y ago"
+        },
+        {
+          "title": "Using Moscov in rank with toxic Teammates|MLBB",
+          "views_raw": "34",
+          "views": 34,
+          "published": "5y ago"
+        },
+        {
+          "title": "Chou+freestyle😎Gameplay|MLBB",
+          "views_raw": "43",
+          "views": 43,
+          "published": "5y ago"
+        },
+        {
+          "title": "WanWan  Mirror Mode Montage",
+          "views_raw": "23",
+          "views": 23,
+          "published": "5y ago"
+        },
+        {
+          "title": "Always losing😢|Among us Part 6",
+          "views_raw": "17",
+          "views": 17,
+          "published": "5y ago"
+        },
+        {
+          "title": "How to make piston door?|Minecraft Ver 1.16.40",
+          "views_raw": "26",
+          "views": 26,
+          "published": "5y ago"
+        },
+        {
+          "title": "How To Make Balloon?|Minecraft making balloon in ver 1.16. 40",
+          "views_raw": "33",
+          "views": 33,
+          "published": "5y ago"
+        },
+        {
+          "title": "I made mistake of Killing For pink🤯|AMONG US PART 5",
+          "views_raw": "26",
+          "views": 26,
+          "published": "5y ago"
+        },
+        {
+          "title": "Fanny Montage💜",
+          "views_raw": "37",
+          "views": 37,
+          "published": "5y ago"
+        },
+        {
+          "title": "How to make Trap Door?|Minecraft Ver. 1.16.40",
+          "views_raw": "41",
+          "views": 41,
+          "published": "5y ago"
+        },
+        {
+          "title": "AMONG US PART 4 GAME PLAY|JOMELL YT",
+          "views_raw": "48",
+          "views": 48,
+          "published": "5y ago"
+        },
+        {
+          "title": "Among us GamePlay|part 3",
+          "views_raw": "26",
+          "views": 26,
+          "published": "5y ago"
+        },
+        {
+          "title": "Among us Gameplay|Assasin Moves 🤣 Part 2",
+          "views_raw": "39",
+          "views": 39,
+          "published": "5y ago"
+        },
+        {
+          "title": "Among us game play|part 1",
+          "views_raw": "66",
+          "views": 66,
+          "published": "5y ago"
+        },
+        {
+          "title": "How to dye your Armour",
+          "views_raw": "51",
+          "views": 51,
+          "published": "5y ago"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "سجاد باقرزاده",
+      "handle": "SajjadBaqerzadeh",
+      "category": "tech",
+      "subscribers": 51000,
+      "video_count_sampled": 2,
+      "total_sample_views": 3,
+      "avg_views": 1,
+      "videos": [
+        {
+          "title": "۲۵ اکتبر ۲۰۲۰",
+          "views_raw": "3",
+          "views": 3,
+          "published": "5y ago"
+        },
+        {
+          "title": "۲۵ اکتبر ۲۰۲۰",
+          "views_raw": "0",
+          "views": 0,
+          "published": "5y ago"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "ختن",
+      "handle": "Khatan",
+      "category": "entertainment",
+      "subscribers": 480000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 9,
+      "name": "متلی",
+      "handle": "Metly",
+      "category": "entertainment",
+      "subscribers": 510000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 7,
+      "name": "سوگنگ",
+      "handle": "SoGang",
+      "category": "entertainment",
+      "subscribers": 620000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 21,
+      "name": "مهدی شجاری (موبونیوز)",
+      "handle": "MoboNews",
+      "category": "tech",
+      "subscribers": 410000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 24,
+      "name": "میلاد نوری",
+      "handle": "MiladNouri",
+      "category": "tech",
+      "subscribers": 95000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 35,
+      "name": "علی کامیکس",
+      "handle": "AliComix",
+      "category": "gaming",
+      "subscribers": 480000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 26,
+      "name": "دیجیاتو",
+      "handle": "Digiato",
+      "category": "tech",
+      "subscribers": 145000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 27,
+      "name": "امیر عظیمی",
+      "handle": "AmirAzimiCode",
+      "category": "tech",
+      "subscribers": 85000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 16,
+      "name": "سپهر خلسه",
+      "handle": "Khalse",
+      "category": "entertainment",
+      "subscribers": 290000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 28,
+      "name": "سبحان کلهر",
+      "handle": "SobhanKalhor",
+      "category": "tech",
+      "subscribers": 72000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 37,
+      "name": "تاکسیک گرل (کوثر)",
+      "handle": "ToxicGirrl",
+      "category": "gaming",
+      "subscribers": 310000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 39,
+      "name": "ابوالفضل ایکس مستر",
+      "handle": "AbolfazlXMaster",
+      "category": "gaming",
+      "subscribers": 440000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 38,
+      "name": "نوید شایان",
+      "handle": "NavidShayan",
+      "category": "gaming",
+      "subscribers": 290000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 43,
+      "name": "حسام ال‌دی",
+      "handle": "HesamLD",
+      "category": "gaming",
+      "subscribers": 230000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 48,
+      "name": "علی بندری (چنل بی و بی‌پلاس)",
+      "handle": "AliBandari",
+      "category": "podcast",
+      "subscribers": 340000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 53,
+      "name": "رادیو راه (مجتبی شکوری)",
+      "handle": "RadioRahOfficial",
+      "category": "podcast",
+      "subscribers": 210000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 54,
+      "name": "پادکست دایجست",
+      "handle": "DigestPodcast",
+      "category": "podcast",
+      "subscribers": 130000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 51,
+      "name": "پادکست راوی",
+      "handle": "RaviPodcast",
+      "category": "podcast",
+      "subscribers": 140000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 55,
+      "name": "پادکست ناوکست",
+      "handle": "NavcastOfficial",
+      "category": "podcast",
+      "subscribers": 115000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 50,
+      "name": "فوتبال ۳۶۰ (عادل فردوسی‌پور)",
+      "handle": "Football360Iran",
+      "category": "podcast",
+      "subscribers": 460000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 44,
+      "name": "میلاد وان‌پیس",
+      "handle": "Milad1Piece",
+      "category": "gaming",
+      "subscribers": 195000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 49,
+      "name": "مجله طبقه ۱۶ (سهیل علوی)",
+      "handle": "Tabaghe16",
+      "category": "podcast",
+      "subscribers": 190000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 45,
+      "name": "امیر رادون",
+      "handle": "AmirRadon",
+      "category": "gaming",
+      "subscribers": 180000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 56,
+      "name": "استرینگ‌کست",
+      "handle": "StringCast",
+      "category": "podcast",
+      "subscribers": 98000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 52,
+      "name": "پادکست رخ",
+      "handle": "RokhPodcast",
+      "category": "podcast",
+      "subscribers": 175000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 42,
+      "name": "تندر",
+      "handle": "TondarGaming",
+      "category": "gaming",
+      "subscribers": 220000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 47,
+      "name": "دانیال پایدار",
+      "handle": "DanialPaydar",
+      "category": "gaming",
+      "subscribers": 170000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 57,
+      "name": "پادکست تاریکخانه تاریخ",
+      "handle": "TarikkhanehTarikh",
+      "category": "podcast",
+      "subscribers": 88000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 58,
+      "name": "پادکست پاراگراف",
+      "handle": "ParagraphPodcast",
+      "category": "podcast",
+      "subscribers": 92000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 59,
+      "name": "دیپ پادکست",
+      "handle": "DeepPodcast",
+      "category": "science",
+      "subscribers": 380000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 60,
+      "name": "فکت فایندر",
+      "handle": "FactFinderFa",
+      "category": "science",
+      "subscribers": 220000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 61,
+      "name": "کیومرث",
+      "handle": "QumarsOfficial",
+      "category": "science",
+      "subscribers": 195000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 62,
+      "name": "پارادوکس (هومن)",
+      "handle": "ParadoxShow",
+      "category": "science",
+      "subscribers": 165000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 63,
+      "name": "پرهام ساینس",
+      "handle": "ParhamScience",
+      "category": "science",
+      "subscribers": 140000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 64,
+      "name": "مغز بادام",
+      "handle": "MaghzeBadam",
+      "category": "science",
+      "subscribers": 125000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 65,
+      "name": "خط سفید",
+      "handle": "KhateSefid",
+      "category": "science",
+      "subscribers": 110000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 66,
+      "name": "مهرداد فکت",
+      "handle": "MehrdadFact",
+      "category": "science",
+      "subscribers": 130000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 68,
+      "name": "هومن مقراضی",
+      "handle": "HoomanMoghrazi",
+      "category": "finance",
+      "subscribers": 210000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 67,
+      "name": "کنجکاو",
+      "handle": "KonjkavShow",
+      "category": "science",
+      "subscribers": 95000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 73,
+      "name": "مهدی دادفر",
+      "handle": "MehdiDadfar",
+      "category": "finance",
+      "subscribers": 98000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 80,
+      "name": "سینا ولی‌الله",
+      "handle": "SinaValiollah",
+      "category": "lifestyle",
+      "subscribers": 490000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 78,
+      "name": "صبا و مانی",
+      "handle": "SabaAndMani",
+      "category": "lifestyle",
+      "subscribers": 190000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 79,
+      "name": "علیرضا کاتوزیان",
+      "handle": "AlirezaKatouzian",
+      "category": "lifestyle",
+      "subscribers": 175000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 74,
+      "name": "نواب ابراهیمی",
+      "handle": "NavabEbrahimi",
+      "category": "lifestyle",
+      "subscribers": 320000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 71,
+      "name": "امید فدوی",
+      "handle": "OmidFadavi",
+      "category": "finance",
+      "subscribers": 130000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 72,
+      "name": "پویا کلاهدوزان",
+      "handle": "PouyaKolahdouzan",
+      "category": "finance",
+      "subscribers": 110000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 70,
+      "name": "آرش کهربایی",
+      "handle": "ArashKahrobaei",
+      "category": "finance",
+      "subscribers": 145000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 75,
+      "name": "صدف بیوتی",
+      "handle": "SadafBeauty",
+      "category": "lifestyle",
+      "subscribers": 390000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 69,
+      "name": "محمد هلاکویی",
+      "handle": "MohammadHalakoei",
+      "category": "finance",
+      "subscribers": 185000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 81,
+      "name": "فیلمزی",
+      "handle": "FilmziOfficial",
+      "category": "cinema",
+      "subscribers": 185000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 82,
+      "name": "آرین ابراهیمی",
+      "handle": "ArianEbrahimi",
+      "category": "cinema",
+      "subscribers": 140000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 83,
+      "name": "سینما تیکت (کافه مدیا)",
+      "handle": "CafeMediaCinema",
+      "category": "cinema",
+      "subscribers": 120000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    },
+    {
+      "id": 76,
+      "name": "معراج فود",
+      "handle": "MerajFood",
+      "category": "lifestyle",
+      "subscribers": 240000,
+      "video_count_sampled": 0,
+      "total_sample_views": 0,
+      "avg_views": 0,
+      "videos": []
+    }
+  ]
+}
