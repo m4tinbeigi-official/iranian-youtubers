@@ -142,7 +142,7 @@
           <div class="text-xs text-slate-400 mt-0.5">مجموع مخاطبان</div>
         </div>
         <div class="p-3 rounded-2xl bg-slate-900/60 border border-slate-800/80">
-          <div class="text-2xl font-black text-sky-400" id="stat-categories">۸</div>
+          <div class="text-2xl font-black text-sky-400" id="stat-categories">۱۰</div>
           <div class="text-xs text-slate-400 mt-0.5">دسته‌بندی محتوا</div>
         </div>
         <div class="p-3 rounded-2xl bg-slate-900/60 border border-slate-800/80">
@@ -211,6 +211,12 @@
         </button>
         <button class="category-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold border border-slate-800 text-slate-400 hover:text-white hover:border-slate-600 transition" data-category="cinema">
           سینما و نقد (<span id="count-cinema">0</span>)
+        </button>
+        <button class="category-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold border border-slate-800 text-slate-400 hover:text-white hover:border-slate-600 transition" data-category="sports">
+          ورزش و فیتنس (<span id="count-sports">0</span>)
+        </button>
+        <button class="category-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold border border-slate-800 text-slate-400 hover:text-white hover:border-slate-600 transition" data-category="art">
+          هنر و انیمیشن (<span id="count-art">0</span>)
         </button>
       </div>
 
@@ -433,7 +439,9 @@
       }
 
       emptyState.classList.add('hidden');
-      grid.innerHTML = filtered.map(c => {
+      grid.innerHTML = filtered.map((c, idx) => {
+        const itemNumber = idx + 1;
+        const rankNumber = c.rank || c.id || itemNumber;
         const tagsHtml = (c.tags || []).map(t => `
           <button onclick="filterByTag('${t}')"
                   class="px-2 py-0.5 rounded-md bg-slate-800/90 hover:bg-slate-700 text-[11px] text-slate-400 hover:text-slate-200 transition">
@@ -442,12 +450,19 @@
         `).join('');
 
         return `
-          <div class="glass-card rounded-3xl p-5 flex flex-col justify-between">
+          <div class="glass-card rounded-3xl p-5 flex flex-col justify-between relative group">
+            <!-- Rank / Item Number Badge -->
+            <div class="absolute top-4 end-4 flex items-center gap-1.5">
+              <span class="px-2.5 py-0.5 rounded-lg bg-slate-800/90 text-slate-300 border border-slate-700/60 font-mono text-xs font-bold shadow-sm" title="شماره ردیف">
+                #${toPersianDigits(itemNumber)}
+              </span>
+            </div>
+
             <div>
               <!-- Top Row: Avatar & Identity -->
               <div class="flex items-start gap-4">
                 <img src="${c.avatar}" alt="${c.name}" class="w-14 h-14 rounded-2xl object-cover shrink-0 border border-slate-700/60 shadow-md" loading="lazy">
-                <div class="min-w-0 flex-1">
+                <div class="min-w-0 flex-1 pe-12">
                   <div class="flex items-center gap-1.5">
                     <h4 class="text-base font-bold text-white truncate">${c.name}</h4>
                     <span class="text-red-500 shrink-0" title="کانال تایید شده">
