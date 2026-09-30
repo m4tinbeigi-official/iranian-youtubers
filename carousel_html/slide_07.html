@@ -13,83 +13,96 @@
       overflow: hidden;
       font-family: 'Vazirmatn', Tahoma, sans-serif;
       letter-spacing: 0 !important;
-      background: radial-gradient(circle at 50% 15%, #180918 0%, #080c16 65%, #05070c 100%);
-      color: #f1f5f9;
+      background: radial-gradient(circle at 50% 10%, #1e0b1e 0%, #090d16 55%, #04060a 100%);
+      color: #f8fafc;
     }
-    .glass-box {
-      background: rgba(17, 24, 39, 0.78);
-      backdrop-filter: blur(16px);
-      border: 1px solid rgba(255, 255, 255, 0.08);
+    .glass-panel {
+      background: rgba(15, 23, 42, 0.82);
+      backdrop-filter: blur(20px);
+      border: 1.5px solid rgba(255, 255, 255, 0.1);
     }
     .glow-red {
-      box-shadow: 0 0 45px -10px rgba(239, 68, 68, 0.35);
-    }
-    .glow-gold {
-      box-shadow: 0 0 40px -10px rgba(234, 179, 8, 0.3);
+      box-shadow: 0 0 50px -10px rgba(239, 68, 68, 0.4);
     }
   </style>
 </head>
-<body class="p-14 flex flex-col justify-between select-none">
+<body class="p-16 flex flex-col justify-between select-none">
 
   <!-- Header -->
-  <div class="flex items-center justify-between border-b border-slate-800/80 pb-6">
-    <div class="flex items-center gap-3">
-      <div class="w-10 h-10 rounded-2xl bg-red-600 flex items-center justify-center text-white shadow-lg">
-        <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24">
+  <div class="flex items-center justify-between border-b border-slate-800/80 pb-8">
+    <div class="flex items-center gap-4">
+      <div class="w-14 h-14 rounded-2xl bg-red-600 flex items-center justify-center text-white shadow-xl">
+        <svg class="w-8 h-8 fill-current" viewBox="0 0 24 24">
           <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
         </svg>
       </div>
       <div>
-        <div class="text-xs font-bold text-slate-400">کالبدشکافی تحلیلی یوتیوب فارسی</div>
-        <div class="text-sm font-black text-white">IRANIAN YOUTUBERS HUB</div>
+        <div class="text-sm font-bold text-slate-400">تحلیل داده‌های ویدیویی یوتیوب فارسی</div>
+        <div class="text-xl font-black text-white tracking-wide">IRANIAN YOUTUBERS HUB</div>
       </div>
     </div>
     
     <div class="flex items-center gap-2">
-      <span class="px-3.5 py-1.5 rounded-full bg-slate-900 border border-slate-700/80 text-xs font-mono font-bold text-slate-300">
+      <span class="px-5 py-2 rounded-2xl bg-slate-900 border border-slate-700 text-lg font-mono font-black text-slate-200">
         ۷ / ۲۰
       </span>
     </div>
   </div>
 
-  <!-- Main Body -->
+  <!-- Content -->
   <div class="flex-1 flex flex-col justify-center my-6">
     <div class="mb-8">
-      <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-red-950/70 border border-red-700/50 text-red-400 text-xs font-bold mb-3">
-        تحلیل الگوریتم
+      <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-red-950/80 border border-red-700/60 text-red-400 text-base font-extrabold mb-4">
+        تحلیل رفتار الگوریتم
       </div>
-      <h2 class="text-4xl font-black text-white leading-tight">
-        افسانه سابسکرایبر: چرا عدد دنبال‌کننده فریبنده است؟
+      <h2 class="text-5xl font-black text-white leading-tight">
+        افسانه سابسکرایبر: فریب عدد دنبال‌کننده
       </h2>
     </div>
 
     
-    <div class="space-y-4">
-      <div class="p-6 rounded-3xl glass-box border-amber-500/30">
-        <div class="text-xl font-black text-white mb-2">تعداد سابسکرایبر دیگر تضمین‌کننده بازدید نیست</div>
-        <p class="text-xs text-slate-300 leading-relaxed">
-          تنها ۱۵ الی ۲۵ درصد از سابسکرایبرهای یک کانال بزرگ، ویدیوهای جدید آن را به طور مداوم باز می‌کنند. الگوریتم جدید فقط بر اساس نرخ کلیک اولیه (CTR) و نرخ تکمیل تماشا (Audience Retention) ویدیو را به صفحه اول هل می‌دهد.
-        </p>
+    <div class="p-8 rounded-3xl glass-panel space-y-6">
+      <div class="text-3xl font-black text-white leading-snug">
+        چرا عدد سابسکرایبر بزرگ‌ترین تله ذهنی است؟
       </div>
-      <div class="grid grid-cols-2 gap-4">
-        <div class="p-4 rounded-2xl glass-box border-red-500/30 text-center">
-          <div class="text-xs text-red-400 font-bold">کانال‌های میلیونی قدیمی</div>
-          <div class="text-lg font-black text-white mt-1">نسبت ویو ۱۰٪ تا ۲۰٪</div>
+      <p class="text-xl text-slate-300 leading-relaxed">
+        بررسی ۲۳۹ کانال نشان داد که در سال ۲۰۲۶ ارتباط سابسکرایبر با بازدید ویدیوهای جدید تقریبا قطع شده است:
+      </p>
+
+      <div class="space-y-4">
+        <div>
+          <div class="flex justify-between text-base font-bold mb-1">
+            <span class="text-emerald-400">مخاطبان فعال واقعی ویدیوهای جدید (۱۸٪)</span>
+            <span class="font-mono text-emerald-400">۱۸%</span>
+          </div>
+          <div class="w-full h-6 bg-slate-800 rounded-full overflow-hidden">
+            <div class="h-full bg-emerald-500 rounded-full" style="width: 18%;"></div>
+          </div>
         </div>
-        <div class="p-4 rounded-2xl glass-box border-emerald-500/30 text-center">
-          <div class="text-xs text-emerald-400 font-bold">سازندگان ترند نوظهور</div>
-          <div class="text-lg font-black text-white mt-1">نسبت ویو ۵۰٪ تا ۱۲۰٪</div>
+
+        <div>
+          <div class="flex justify-between text-base font-bold mb-1">
+            <span class="text-slate-400">دنبال‌کنندگان غیرفعال و نوتیفیکیشن خاموش (۸۲٪)</span>
+            <span class="font-mono text-slate-400">۸۲%</span>
+          </div>
+          <div class="w-full h-6 bg-slate-800 rounded-full overflow-hidden">
+            <div class="h-full bg-slate-600 rounded-full" style="width: 82%;"></div>
+          </div>
         </div>
+      </div>
+
+      <div class="p-5 rounded-2xl bg-slate-900/90 border border-slate-800 text-lg text-slate-200">
+        نتیجه: کانال‌های ۸۰۰K ساب که میانگین ویوی ۹۰K دارند، ارزش تبلیغاتی کمتری از یک کانال ۲۰۰K با میانگین ویوی ۱۵۰K دارند!
       </div>
     </div>
   </div>
 
   <!-- Footer -->
-  <div class="border-t border-slate-800/80 pt-6 flex items-center justify-between text-xs text-slate-500 font-medium">
-    <div>گزارش تحلیلی جامع یوتیوب فارسی ۲۰۲۶</div>
-    <div class="flex items-center gap-2 text-slate-400 font-semibold">
+  <div class="border-t border-slate-800/80 pt-6 flex items-center justify-between text-sm text-slate-400 font-semibold">
+    <div>جامعه مستقل یوتیوبرهای ایرانی • سال ۲۰۲۶</div>
+    <div class="flex items-center gap-3 text-slate-300 font-black text-base">
       <span>ورق بزنید</span>
-      <svg class="w-4 h-4 fill-current rotate-180" viewBox="0 0 24 24">
+      <svg class="w-5 h-5 fill-current rotate-180 text-red-500" viewBox="0 0 24 24">
         <path d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"/>
       </svg>
     </div>
