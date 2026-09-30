@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+  <defs>
+    <linearGradient id="grad_AmirTatalooOfficial" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="36" fill="url(#grad_AmirTatalooOfficial)"/>
+  <circle cx="80" cy="80" r="54" fill="none" stroke="#8b5cf6" stroke-width="2.5" stroke-opacity="0.3"/>
+  <text x="80" y="98" font-family="Vazirmatn, Tahoma, sans-serif" font-size="52" font-weight="800" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">ا</text>
+</svg>

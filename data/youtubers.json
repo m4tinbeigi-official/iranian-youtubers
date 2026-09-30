@@ -120,7 +120,27 @@
     "rank": 6
   },
   {
+    "name": "امیر تتلو",
+    "handle": "AmirTatalooOfficial",
+    "channel_url": "https://www.youtube.com/@AmirTatalooOfficial",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 650000,
+    "subscribers_display": "۶۵۰K",
+    "bio": "موزیک ویدیوها، حواشی، لایوها و تمرینات موسیقی امیر تتلو.",
+    "avatar": "avatars/amirtatalooofficial.jpg",
+    "tags": [
+      "موسیقی",
+      "رپ",
+      "لایو"
+    ],
+    "accent_color": "#8b5cf6",
+    "verified": true,
     "id": 7,
+    "rank": 7
+  },
+  {
+    "id": 8,
     "name": "سوگنگ",
     "handle": "SoGang",
     "channel_url": "https://www.youtube.com/@SoGang1",
@@ -137,10 +157,30 @@
     ],
     "accent_color": "#3b82f6",
     "verified": true,
-    "rank": 7
+    "rank": 8
   },
   {
-    "id": 8,
+    "name": "یاس",
+    "handle": "Yastunes",
+    "channel_url": "https://www.youtube.com/@YASofficialPage",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 580000,
+    "subscribers_display": "۵۸۰K",
+    "bio": "آهنگ‌ها، کنسرت‌ها، مستندهای تصویری و آثار یاس در رپ فارسی.",
+    "avatar": "avatars/yastunes.jpg",
+    "tags": [
+      "یاس",
+      "رپ‌فارسی",
+      "موسیقی"
+    ],
+    "accent_color": "#1e293b",
+    "verified": true,
+    "id": 9,
+    "rank": 9
+  },
+  {
+    "id": 10,
     "name": "حامی کی‌ام",
     "handle": "HamiKM",
     "channel_url": "https://www.youtube.com/@HamiKM",
@@ -157,10 +197,10 @@
     ],
     "accent_color": "#10b981",
     "verified": true,
-    "rank": 8
+    "rank": 10
   },
   {
-    "id": 9,
+    "id": 11,
     "name": "مهدی بیزیکسر",
     "handle": "MehdiBizixer",
     "channel_url": "https://www.youtube.com/@MehdiBizixer",
@@ -177,7 +217,7 @@
     ],
     "accent_color": "#10b981",
     "verified": true,
-    "rank": 9
+    "rank": 11
   },
   {
     "name": "سروش رضایی (سوریلند)",
@@ -196,11 +236,11 @@
     ],
     "accent_color": "#10b981",
     "verified": true,
-    "id": 10,
-    "rank": 10
+    "id": 12,
+    "rank": 12
   },
   {
-    "id": 11,
+    "id": 13,
     "name": "متلی",
     "handle": "Metly",
     "channel_url": "https://www.youtube.com/@metly",
@@ -217,10 +257,10 @@
     ],
     "accent_color": "#14b8a6",
     "verified": true,
-    "rank": 11
+    "rank": 13
   },
   {
-    "id": 12,
+    "id": 14,
     "name": "سینا ولی‌الله",
     "handle": "SinaValiollah",
     "channel_url": "https://www.youtube.com/@SatrhayeNagofte11",
@@ -237,10 +277,30 @@
     ],
     "accent_color": "#6366f1",
     "verified": true,
-    "rank": 12
+    "rank": 14
   },
   {
-    "id": 13,
+    "name": "ساسی",
+    "handle": "SasyMusic",
+    "channel_url": "https://www.youtube.com/@sasymusic",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 490000,
+    "subscribers_display": "۴۹۰K",
+    "bio": "موزیک ویدیوهای شاد و پرحاشیه، پشت صحنه و ویدیوهای تعاملی.",
+    "avatar": "avatars/sasymusic.jpg",
+    "tags": [
+      "موزیک",
+      "پاپ",
+      "حاشیه"
+    ],
+    "accent_color": "#f59e0b",
+    "verified": true,
+    "id": 15,
+    "rank": 15
+  },
+  {
+    "id": 16,
     "name": "ختن",
     "handle": "Khatan",
     "channel_url": "https://www.youtube.com/@Khatan",
@@ -257,10 +317,10 @@
     ],
     "accent_color": "#f43f5e",
     "verified": true,
-    "rank": 13
+    "rank": 16
   },
   {
-    "id": 14,
+    "id": 17,
     "name": "علی کامیکس",
     "handle": "AliComix",
     "channel_url": "https://www.youtube.com/@AliComix",
@@ -277,10 +337,50 @@
     ],
     "accent_color": "#0ea5e9",
     "verified": true,
-    "rank": 14
+    "rank": 17
   },
   {
-    "id": 15,
+    "name": "سرنا امینی",
+    "handle": "SerenaAmini",
+    "channel_url": "https://www.youtube.com/@SerenaAmini",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 480000,
+    "subscribers_display": "۴۸۰K",
+    "bio": "داستان‌های طنز زندگی متاهلی، تقلید کاراکترهای مختلف و سرگرمی.",
+    "avatar": "avatars/serenaamini.jpg",
+    "tags": [
+      "شوخی",
+      "متاهلی",
+      "سرگرمی"
+    ],
+    "accent_color": "#f43f5e",
+    "verified": true,
+    "id": 18,
+    "rank": 18
+  },
+  {
+    "name": "هادی چوپان (گرگ ایرانی)",
+    "handle": "HadiChoopanOfficial",
+    "channel_url": "https://www.youtube.com/@HadiChoopanOfficial",
+    "category": "sports",
+    "category_title": "ورزش، فیتنس و فوتبال",
+    "subscribers": 480000,
+    "subscribers_display": "۴۸۰K",
+    "bio": "قهرمان مستر المپیا، تمرینات سنگین بدنسازی، رژیم غذایی قهرمانی و مصاحبه‌ها.",
+    "avatar": "avatars/hadichoopanofficial.jpg",
+    "tags": [
+      "مسترالمپیا",
+      "بدنسازی",
+      "هادی‌چوپان"
+    ],
+    "accent_color": "#d97706",
+    "verified": true,
+    "id": 19,
+    "rank": 19
+  },
+  {
+    "id": 20,
     "name": "فوتبال ۳۶۰ (عادل فردوسی‌پور)",
     "handle": "Football360Iran",
     "channel_url": "https://www.youtube.com/@football_360",
@@ -297,10 +397,10 @@
     ],
     "accent_color": "#16a34a",
     "verified": true,
-    "rank": 15
+    "rank": 20
   },
   {
-    "id": 16,
+    "id": 21,
     "name": "ابوالفضل ایکس مستر",
     "handle": "AbolfazlXMaster",
     "channel_url": "https://www.youtube.com/@ABOLFAZLXMASTER",
@@ -317,10 +417,10 @@
     ],
     "accent_color": "#f59e0b",
     "verified": true,
-    "rank": 16
+    "rank": 21
   },
   {
-    "id": 17,
+    "id": 22,
     "name": "علی بروکس",
     "handle": "AliBrooks",
     "channel_url": "https://www.youtube.com/@AliBroxigar",
@@ -337,10 +437,30 @@
     ],
     "accent_color": "#a855f7",
     "verified": true,
-    "rank": 17
+    "rank": 22
   },
   {
-    "id": 18,
+    "name": "پریسا پورمشکی (پوربلک)",
+    "handle": "PoorBlack",
+    "channel_url": "https://www.youtube.com/@poorblack",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 420000,
+    "subscribers_display": "۴۲۰K",
+    "bio": "کلیپ‌های طنز مدرسه‌ای، شوخی‌های خانوادگی و ولاگ‌های پرانرژی.",
+    "avatar": "avatars/poorblack.jpg",
+    "tags": [
+      "طنزخانگی",
+      "مدرسه",
+      "ولاگ"
+    ],
+    "accent_color": "#ec4899",
+    "verified": true,
+    "id": 23,
+    "rank": 23
+  },
+  {
+    "id": 24,
     "name": "مهدی شجاری (موبونیوز)",
     "handle": "MoboNews",
     "channel_url": "https://www.youtube.com/@MoboNews",
@@ -357,7 +477,7 @@
     ],
     "accent_color": "#0284c7",
     "verified": true,
-    "rank": 18
+    "rank": 24
   },
   {
     "name": "وینی (Blind Date)",
@@ -376,11 +496,31 @@
     ],
     "accent_color": "#ef4444",
     "verified": true,
-    "id": 19,
-    "rank": 19
+    "id": 25,
+    "rank": 25
   },
   {
-    "id": 20,
+    "name": "هیچکس",
+    "handle": "HichkasOfficial",
+    "channel_url": "https://www.youtube.com/@HichkasOfficial",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 410000,
+    "subscribers_display": "۴۱۰K",
+    "bio": "پدر رپ فارسی، انتشار رسمی موزیک ویدیوها و پیام‌های اجتماعی.",
+    "avatar": "avatars/hichkasofficial.jpg",
+    "tags": [
+      "هیچکس",
+      "رپ‌فارسی",
+      "خیابان"
+    ],
+    "accent_color": "#7f1d1d",
+    "verified": true,
+    "id": 26,
+    "rank": 26
+  },
+  {
+    "id": 27,
     "name": "علی گریزی",
     "handle": "AliGrezy",
     "channel_url": "https://www.youtube.com/@AliGreazy",
@@ -397,10 +537,10 @@
     ],
     "accent_color": "#06b6d4",
     "verified": true,
-    "rank": 20
+    "rank": 27
   },
   {
-    "id": 21,
+    "id": 28,
     "name": "صدف بیوتی",
     "handle": "SadafBeauty",
     "channel_url": "https://www.youtube.com/@SadafBeauty",
@@ -417,7 +557,7 @@
     ],
     "accent_color": "#ec4899",
     "verified": true,
-    "rank": 21
+    "rank": 28
   },
   {
     "name": "والکور (امیر والکور)",
@@ -436,11 +576,31 @@
     ],
     "accent_color": "#dc2626",
     "verified": true,
-    "id": 22,
-    "rank": 22
+    "id": 29,
+    "rank": 29
   },
   {
-    "id": 23,
+    "name": "شایع",
+    "handle": "ShayeaOfficial",
+    "channel_url": "https://www.youtube.com/@ShayeaOfficial",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 390000,
+    "subscribers_display": "۳۹۰K",
+    "bio": "موزیک ویدیوهای خیابانی، آلبوم‌های رپ و گفتگو با هواداران.",
+    "avatar": "avatars/shayeaofficial.jpg",
+    "tags": [
+      "شایع",
+      "هیپ‌هاپ",
+      "موزیک"
+    ],
+    "accent_color": "#0f172a",
+    "verified": true,
+    "id": 30,
+    "rank": 30
+  },
+  {
+    "id": 31,
     "name": "کومان",
     "handle": "KoumanOfficial",
     "channel_url": "https://www.youtube.com/@Kouman",
@@ -457,10 +617,10 @@
     ],
     "accent_color": "#e11d48",
     "verified": true,
-    "rank": 23
+    "rank": 31
   },
   {
-    "id": 24,
+    "id": 32,
     "name": "دیپ پادکست",
     "handle": "DeepPodcast",
     "channel_url": "https://www.youtube.com/@DeepPodcast",
@@ -477,7 +637,7 @@
     ],
     "accent_color": "#dc2626",
     "verified": true,
-    "rank": 24
+    "rank": 32
   },
   {
     "name": "محمدامین کریم‌پور",
@@ -496,11 +656,11 @@
     ],
     "accent_color": "#e11d48",
     "verified": true,
-    "id": 25,
-    "rank": 25
+    "id": 33,
+    "rank": 33
   },
   {
-    "id": 26,
+    "id": 34,
     "name": "پویان ان‌آر",
     "handle": "PouyanNR",
     "channel_url": "https://www.youtube.com/@PouyanNR",
@@ -517,10 +677,10 @@
     ],
     "accent_color": "#fb923c",
     "verified": true,
-    "rank": 26
+    "rank": 34
   },
   {
-    "id": 27,
+    "id": 35,
     "name": "علی بندری (چنل بی و بی‌پلاس)",
     "handle": "AliBandari",
     "channel_url": "https://www.youtube.com/@AliBandari",
@@ -537,7 +697,7 @@
     ],
     "accent_color": "#3b82f6",
     "verified": true,
-    "rank": 27
+    "rank": 35
   },
   {
     "name": "نیکا فلاحی",
@@ -556,11 +716,11 @@
     ],
     "accent_color": "#f43f5e",
     "verified": true,
-    "id": 28,
-    "rank": 28
+    "id": 36,
+    "rank": 36
   },
   {
-    "id": 29,
+    "id": 37,
     "name": "نواب ابراهیمی",
     "handle": "NavabEbrahimi",
     "channel_url": "https://www.youtube.com/@navabebrahimi",
@@ -577,7 +737,7 @@
     ],
     "accent_color": "#ea580c",
     "verified": true,
-    "rank": 29
+    "rank": 37
   },
   {
     "name": "دیانا رحیمی",
@@ -596,11 +756,11 @@
     ],
     "accent_color": "#f472b6",
     "verified": true,
-    "id": 30,
-    "rank": 30
+    "id": 38,
+    "rank": 38
   },
   {
-    "id": 31,
+    "id": 39,
     "name": "دلسان",
     "handle": "Delsan",
     "channel_url": "https://www.youtube.com/@hadijames",
@@ -617,10 +777,10 @@
     ],
     "accent_color": "#f472b6",
     "verified": true,
-    "rank": 31
+    "rank": 39
   },
   {
-    "id": 32,
+    "id": 40,
     "name": "تاکسیک گرل (کوثر)",
     "handle": "ToxicGirrl",
     "channel_url": "https://www.youtube.com/@ToxicGirrl",
@@ -637,7 +797,7 @@
     ],
     "accent_color": "#f43f5e",
     "verified": true,
-    "rank": 32
+    "rank": 40
   },
   {
     "name": "علیرضا عزازیل",
@@ -656,8 +816,8 @@
     ],
     "accent_color": "#f59e0b",
     "verified": true,
-    "id": 33,
-    "rank": 33
+    "id": 41,
+    "rank": 41
   },
   {
     "name": "عرفان علیرضایی",
@@ -676,11 +836,51 @@
     ],
     "accent_color": "#ea580c",
     "verified": true,
-    "id": 34,
-    "rank": 34
+    "id": 42,
+    "rank": 42
   },
   {
-    "id": 35,
+    "name": "علی صبوری",
+    "handle": "AliSabooriOfficial",
+    "channel_url": "https://www.youtube.com/@AliSabouri",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 310000,
+    "subscribers_display": "۳۱۰K",
+    "bio": "کمدین برنده خنداننده‌شو، ولاگ‌های طنز، شوخی‌های روزمره و چالش.",
+    "avatar": "avatars/alisabooriofficial.jpg",
+    "tags": [
+      "کمدی",
+      "خنداننده‌شو",
+      "طنز"
+    ],
+    "accent_color": "#ef4444",
+    "verified": true,
+    "id": 43,
+    "rank": 43
+  },
+  {
+    "name": "عادل فردوسی‌پور (ورزشی)",
+    "handle": "FerdosipourArchive",
+    "channel_url": "https://www.youtube.com/@football_360",
+    "category": "sports",
+    "category_title": "ورزش، فیتنس و فوتبال",
+    "subscribers": 310000,
+    "subscribers_display": "۳۱۰K",
+    "bio": "آرشیو گزارش‌های خاطره‌انگیز عادل، گل‌های دراماتیک تاریخ فوتبال.",
+    "avatar": "avatars/ferdosipourarchive.jpg",
+    "tags": [
+      "عادل",
+      "گزارش‌فوتبال",
+      "نوستالژی"
+    ],
+    "accent_color": "#16a34a",
+    "verified": true,
+    "id": 44,
+    "rank": 44
+  },
+  {
+    "id": 45,
     "name": "سپهر خلسه",
     "handle": "Khalse",
     "channel_url": "https://www.youtube.com/@khalse",
@@ -697,10 +897,10 @@
     ],
     "accent_color": "#9333ea",
     "verified": true,
-    "rank": 35
+    "rank": 45
   },
   {
-    "id": 36,
+    "id": 46,
     "name": "نوید شایان",
     "handle": "NavidShayan",
     "channel_url": "https://www.youtube.com/@NavidShayan",
@@ -717,7 +917,7 @@
     ],
     "accent_color": "#8b5cf6",
     "verified": true,
-    "rank": 36
+    "rank": 46
   },
   {
     "name": "گروه انیمیشن دیرین دیرین",
@@ -736,11 +936,31 @@
     ],
     "accent_color": "#f59e0b",
     "verified": true,
-    "id": 37,
-    "rank": 37
+    "id": 47,
+    "rank": 47
   },
   {
-    "id": 38,
+    "name": "جواد خواجوی",
+    "handle": "JavadKhaajavi",
+    "channel_url": "https://www.youtube.com/@javadkhaajavi",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 290000,
+    "subscribers_display": "۲۹۰K",
+    "bio": "صداگذاری مشهدی روی کلیپ حیوانات، تئاتر و برنامه‌های کمدی.",
+    "avatar": "avatars/javadkhaajavi.jpg",
+    "tags": [
+      "صداگذاری",
+      "مشهدی",
+      "طنز"
+    ],
+    "accent_color": "#059669",
+    "verified": true,
+    "id": 48,
+    "rank": 48
+  },
+  {
+    "id": 49,
     "name": "جواد جوادی",
     "handle": "ChefJavadJavadi",
     "channel_url": "https://www.youtube.com/@ChefJavadJavadi",
@@ -757,7 +977,7 @@
     ],
     "accent_color": "#b45309",
     "verified": true,
-    "rank": 38
+    "rank": 49
   },
   {
     "name": "مبین ام‌دی",
@@ -776,11 +996,31 @@
     ],
     "accent_color": "#8b5cf6",
     "verified": true,
-    "id": 39,
-    "rank": 39
+    "id": 50,
+    "rank": 50
   },
   {
-    "id": 40,
+    "name": "آرزو صادقی",
+    "handle": "ArezooSadeghi",
+    "channel_url": "https://www.youtube.com/@arezoosadeghi",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 270000,
+    "subscribers_display": "۲۷۰K",
+    "bio": "ولاگ‌های دوستی، چالش‌های دخترانه، آنباکس خرید و استایل.",
+    "avatar": "avatars/arezoosadeghi.jpg",
+    "tags": [
+      "دخترانه",
+      "آنباکس",
+      "استایل"
+    ],
+    "accent_color": "#f472b6",
+    "verified": true,
+    "id": 51,
+    "rank": 51
+  },
+  {
+    "id": 52,
     "name": "ایمان دست‌پاک",
     "handle": "ImanDastpak",
     "channel_url": "https://www.youtube.com/@ImanDastpak",
@@ -797,10 +1037,10 @@
     ],
     "accent_color": "#0284c7",
     "verified": true,
-    "rank": 40
+    "rank": 52
   },
   {
-    "id": 41,
+    "id": 53,
     "name": "اهورا نیازی",
     "handle": "AhooraNiazi",
     "channel_url": "https://www.youtube.com/@ahooraniazi",
@@ -817,10 +1057,10 @@
     ],
     "accent_color": "#f59e0b",
     "verified": true,
-    "rank": 41
+    "rank": 53
   },
   {
-    "id": 42,
+    "id": 54,
     "name": "عمو بیگ",
     "handle": "AmooBig",
     "channel_url": "https://www.youtube.com/@AmooBig",
@@ -837,7 +1077,7 @@
     ],
     "accent_color": "#e11d48",
     "verified": true,
-    "rank": 42
+    "rank": 54
   },
   {
     "name": "ارسلان کاشی",
@@ -856,11 +1096,11 @@
     ],
     "accent_color": "#ec4899",
     "verified": true,
-    "id": 43,
-    "rank": 43
+    "id": 55,
+    "rank": 55
   },
   {
-    "id": 44,
+    "id": 56,
     "name": "احسان میرزاد",
     "handle": "EhsanMirzad",
     "channel_url": "https://www.youtube.com/@EhsanMirzad",
@@ -877,10 +1117,10 @@
     ],
     "accent_color": "#06b6d4",
     "verified": true,
-    "rank": 44
+    "rank": 56
   },
   {
-    "id": 45,
+    "id": 57,
     "name": "معراج فود",
     "handle": "MerajFood",
     "channel_url": "https://www.youtube.com/@MerajFood",
@@ -897,10 +1137,30 @@
     ],
     "accent_color": "#d97706",
     "verified": true,
-    "rank": 45
+    "rank": 57
   },
   {
-    "id": 46,
+    "name": "میلاد خواه",
+    "handle": "MiladKhah",
+    "channel_url": "https://www.youtube.com/@Miladkhahhh",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 240000,
+    "subscribers_display": "۲۴۰K",
+    "bio": "ویدیوهای دابسمش، شوخی با ترندهای مجازی و چالش‌های فان.",
+    "avatar": "avatars/miladkhah.jpg",
+    "tags": [
+      "دابسمش",
+      "شوخی",
+      "فان"
+    ],
+    "accent_color": "#06b6d4",
+    "verified": true,
+    "id": 58,
+    "rank": 58
+  },
+  {
+    "id": 59,
     "name": "حسام ال‌دی",
     "handle": "HesamLD",
     "channel_url": "https://www.youtube.com/@HesamLD",
@@ -917,7 +1177,7 @@
     ],
     "accent_color": "#16a34a",
     "verified": true,
-    "rank": 46
+    "rank": 59
   },
   {
     "name": "متین دوستی",
@@ -936,11 +1196,11 @@
     ],
     "accent_color": "#06b6d4",
     "verified": true,
-    "id": 47,
-    "rank": 47
+    "id": 60,
+    "rank": 60
   },
   {
-    "id": 48,
+    "id": 61,
     "name": "فرشاد کلوت",
     "handle": "FarshadKllot",
     "channel_url": "https://www.youtube.com/@FarshadSilent",
@@ -957,10 +1217,10 @@
     ],
     "accent_color": "#059669",
     "verified": true,
-    "rank": 48
+    "rank": 61
   },
   {
-    "id": 49,
+    "id": 62,
     "name": "تندر",
     "handle": "TondarGaming",
     "channel_url": "https://www.youtube.com/@Thunderrrz",
@@ -977,10 +1237,10 @@
     ],
     "accent_color": "#ea580c",
     "verified": true,
-    "rank": 49
+    "rank": 62
   },
   {
-    "id": 50,
+    "id": 63,
     "name": "فکت فایندر",
     "handle": "FactFinderFa",
     "channel_url": "https://www.youtube.com/@FactFinderFa",
@@ -997,7 +1257,7 @@
     ],
     "accent_color": "#2563eb",
     "verified": true,
-    "rank": 50
+    "rank": 63
   },
   {
     "name": "مستر تیستر (حمید سپیدنام)",
@@ -1008,7 +1268,7 @@
     "subscribers": 220000,
     "subscribers_display": "۲۲۰K",
     "bio": "تیست غذاهای لوکس و بومی در رستوران‌های سراسر خاورمیانه و اروپا.",
-    "avatar": "avatars/mrtasterofficial.svg",
+    "avatar": "avatars/mrtasterofficial.jpg",
     "tags": [
       "مسترتیستر",
       "غذا",
@@ -1016,11 +1276,11 @@
     ],
     "accent_color": "#ea580c",
     "verified": true,
-    "id": 51,
-    "rank": 51
+    "id": 64,
+    "rank": 64
   },
   {
-    "id": 52,
+    "id": 65,
     "name": "محمد شکوری",
     "handle": "ShakouriM",
     "channel_url": "https://www.youtube.com/@MohammadShakouri",
@@ -1037,10 +1297,10 @@
     ],
     "accent_color": "#6366f1",
     "verified": true,
-    "rank": 52
+    "rank": 65
   },
   {
-    "id": 53,
+    "id": 66,
     "name": "رادیو راه (مجتبی شکوری)",
     "handle": "RadioRahOfficial",
     "channel_url": "https://www.youtube.com/@MojtabaShakoori",
@@ -1057,10 +1317,10 @@
     ],
     "accent_color": "#0284c7",
     "verified": true,
-    "rank": 53
+    "rank": 66
   },
   {
-    "id": 54,
+    "id": 67,
     "name": "هومن مقراضی",
     "handle": "HoomanMoghrazi",
     "channel_url": "https://www.youtube.com/@mehrnoushtafakor7874",
@@ -1077,7 +1337,7 @@
     ],
     "accent_color": "#0284c7",
     "verified": true,
-    "rank": 54
+    "rank": 67
   },
   {
     "name": "ویجیاتو",
@@ -1096,11 +1356,31 @@
     ],
     "accent_color": "#ef4444",
     "verified": true,
-    "id": 55,
-    "rank": 55
+    "id": 68,
+    "rank": 68
   },
   {
-    "id": 56,
+    "name": "حمید صفت",
+    "handle": "HamidSefatOfficial",
+    "channel_url": "https://www.youtube.com/@HamidSefatOfficial",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 210000,
+    "subscribers_display": "۲۱۰K",
+    "bio": "موزیک ویدیوهای اعتراضی، پشت صحنه ضبط و گفتگوهای هنری.",
+    "avatar": "avatars/hamidsefatofficial.jpg",
+    "tags": [
+      "رپ‌فارسی",
+      "موزیک",
+      "هنر"
+    ],
+    "accent_color": "#475569",
+    "verified": true,
+    "id": 69,
+    "rank": 69
+  },
+  {
+    "id": 70,
     "name": "آرتا",
     "handle": "ArtaOfficial",
     "channel_url": "https://www.youtube.com/@Artaa",
@@ -1117,10 +1397,10 @@
     ],
     "accent_color": "#7c3aed",
     "verified": true,
-    "rank": 56
+    "rank": 70
   },
   {
-    "id": 57,
+    "id": 71,
     "name": "میلاد وان‌پیس",
     "handle": "Milad1Piece",
     "channel_url": "https://www.youtube.com/@Milad1st1",
@@ -1137,10 +1417,10 @@
     ],
     "accent_color": "#9333ea",
     "verified": true,
-    "rank": 57
+    "rank": 71
   },
   {
-    "id": 58,
+    "id": 72,
     "name": "کیومرث",
     "handle": "QumarsOfficial",
     "channel_url": "https://www.youtube.com/@NiakanPodcast",
@@ -1157,7 +1437,7 @@
     ],
     "accent_color": "#7c3aed",
     "verified": true,
-    "rank": 58
+    "rank": 72
   },
   {
     "name": "زومجی",
@@ -1176,11 +1456,31 @@
     ],
     "accent_color": "#f59e0b",
     "verified": true,
-    "id": 59,
-    "rank": 59
+    "id": 73,
+    "rank": 73
   },
   {
-    "id": 60,
+    "name": "بهادر وحشی",
+    "handle": "BahadorVahshi",
+    "channel_url": "https://www.youtube.com/@BahadorVahshi",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 195000,
+    "subscribers_display": "۱۹۵K",
+    "bio": "چالش ترکیبی‌خوری، لایف‌استایل نامتعارف و چالش‌های خطرناک غذایی.",
+    "avatar": "avatars/bahadorvahshi.jpg",
+    "tags": [
+      "ترکیبی",
+      "چالش‌غذا",
+      "طنز"
+    ],
+    "accent_color": "#d97706",
+    "verified": true,
+    "id": 74,
+    "rank": 74
+  },
+  {
+    "id": 75,
     "name": "مجله طبقه ۱۶ (سهیل علوی)",
     "handle": "Tabaghe16",
     "channel_url": "https://www.youtube.com/@Tabaghe16",
@@ -1197,10 +1497,10 @@
     ],
     "accent_color": "#64748b",
     "verified": true,
-    "rank": 60
+    "rank": 75
   },
   {
-    "id": 61,
+    "id": 76,
     "name": "صبا و مانی",
     "handle": "SabaAndMani",
     "channel_url": "https://www.youtube.com/@sabamani.official",
@@ -1217,7 +1517,7 @@
     ],
     "accent_color": "#f43f5e",
     "verified": true,
-    "rank": 61
+    "rank": 76
   },
   {
     "name": "میلاد حاتمی شو",
@@ -1236,11 +1536,11 @@
     ],
     "accent_color": "#6366f1",
     "verified": true,
-    "id": 62,
-    "rank": 62
+    "id": 77,
+    "rank": 77
   },
   {
-    "id": 63,
+    "id": 78,
     "name": "جادی میرمیرانی",
     "handle": "JadiMirmirani",
     "channel_url": "https://www.youtube.com/@JadiMirmirani",
@@ -1257,10 +1557,10 @@
     ],
     "accent_color": "#10b981",
     "verified": true,
-    "rank": 63
+    "rank": 78
   },
   {
-    "id": 64,
+    "id": 79,
     "name": "محمد هلاکویی",
     "handle": "MohammadHalakoei",
     "channel_url": "https://www.youtube.com/@MohammadHalakoei",
@@ -1277,10 +1577,10 @@
     ],
     "accent_color": "#f59e0b",
     "verified": true,
-    "rank": 64
+    "rank": 79
   },
   {
-    "id": 65,
+    "id": 80,
     "name": "فیلمزی",
     "handle": "FilmziOfficial",
     "channel_url": "https://www.youtube.com/@TheFilmZi",
@@ -1297,7 +1597,7 @@
     ],
     "accent_color": "#8b5cf6",
     "verified": true,
-    "rank": 65
+    "rank": 80
   },
   {
     "name": "پرهام گیم‌پلی",
@@ -1316,8 +1616,8 @@
     ],
     "accent_color": "#10b981",
     "verified": true,
-    "id": 66,
-    "rank": 66
+    "id": 81,
+    "rank": 81
   },
   {
     "name": "هدی رستمی",
@@ -1336,11 +1636,31 @@
     ],
     "accent_color": "#f59e0b",
     "verified": true,
-    "id": 67,
-    "rank": 67
+    "id": 82,
+    "rank": 82
   },
   {
-    "id": 68,
+    "name": "امیرحسین قیاسی",
+    "handle": "AmirHosseinGhiasi",
+    "channel_url": "https://www.youtube.com/@amirhosseinghiasi",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 185000,
+    "subscribers_display": "۱۸۵K",
+    "bio": "برنامه استندآپ کمدی، مصاحبه‌های خنده‌دار و طنز نیمه‌شب.",
+    "avatar": "avatars/amirhosseinghiasi.jpg",
+    "tags": [
+      "استندآپ",
+      "کمدی",
+      "تاک‌شو"
+    ],
+    "accent_color": "#6366f1",
+    "verified": true,
+    "id": 83,
+    "rank": 83
+  },
+  {
+    "id": 84,
     "name": "امیر رادون",
     "handle": "AmirRadon",
     "channel_url": "https://www.youtube.com/@AmirRadon",
@@ -1357,7 +1677,7 @@
     ],
     "accent_color": "#2563eb",
     "verified": true,
-    "rank": 68
+    "rank": 84
   },
   {
     "name": "امیر تی‌ستر",
@@ -1376,8 +1696,8 @@
     ],
     "accent_color": "#b45309",
     "verified": true,
-    "id": 69,
-    "rank": 69
+    "id": 85,
+    "rank": 85
   },
   {
     "name": "دوبلاژ انیمیشن (گلوری)",
@@ -1396,11 +1716,11 @@
     ],
     "accent_color": "#0ea5e9",
     "verified": true,
-    "id": 70,
-    "rank": 70
+    "id": 86,
+    "rank": 86
   },
   {
-    "id": 71,
+    "id": 87,
     "name": "پادکست رخ",
     "handle": "RokhPodcast",
     "channel_url": "https://www.youtube.com/@RokhPodcast",
@@ -1417,10 +1737,10 @@
     ],
     "accent_color": "#b91c1c",
     "verified": true,
-    "rank": 71
+    "rank": 87
   },
   {
-    "id": 72,
+    "id": 88,
     "name": "علیرضا کاتوزیان",
     "handle": "AlirezaKatouzian",
     "channel_url": "https://www.youtube.com/@AlirezaKatouzian",
@@ -1437,7 +1757,7 @@
     ],
     "accent_color": "#0ea5e9",
     "verified": true,
-    "rank": 72
+    "rank": 88
   },
   {
     "name": "شایان جی‌پی",
@@ -1456,11 +1776,11 @@
     ],
     "accent_color": "#d97706",
     "verified": true,
-    "id": 73,
-    "rank": 73
+    "id": 89,
+    "rank": 89
   },
   {
-    "id": 74,
+    "id": 90,
     "name": "دانیال پایدار",
     "handle": "DanialPaydar",
     "channel_url": "https://www.youtube.com/@ipaydar",
@@ -1477,10 +1797,10 @@
     ],
     "accent_color": "#0d9488",
     "verified": true,
-    "rank": 74
+    "rank": 90
   },
   {
-    "id": 75,
+    "id": 91,
     "name": "پارادوکس (هومن)",
     "handle": "ParadoxShow",
     "channel_url": "https://www.youtube.com/@ParadoxHuman",
@@ -1497,7 +1817,7 @@
     ],
     "accent_color": "#0891b2",
     "verified": true,
-    "rank": 75
+    "rank": 91
   },
   {
     "name": "دکتر گیمر",
@@ -1516,8 +1836,8 @@
     ],
     "accent_color": "#8b5cf6",
     "verified": true,
-    "id": 76,
-    "rank": 76
+    "id": 92,
+    "rank": 92
   },
   {
     "name": "آرش استیلاف",
@@ -1536,11 +1856,31 @@
     ],
     "accent_color": "#e11d48",
     "verified": true,
-    "id": 77,
-    "rank": 77
+    "id": 93,
+    "rank": 93
   },
   {
-    "id": 78,
+    "name": "ورزش سه",
+    "handle": "Varzesh3Official",
+    "channel_url": "https://www.youtube.com/@Varzesh3.",
+    "category": "sports",
+    "category_title": "ورزش، فیتنس و فوتبال",
+    "subscribers": 165000,
+    "subscribers_display": "۱۶۵K",
+    "bio": "خلاصه بازی‌های لیگ برتر ایران، حواشی استقلال و پرسپولیس و نشست‌های خبری.",
+    "avatar": "avatars/varzesh3official.jpg",
+    "tags": [
+      "لیگ‌برتر",
+      "پرسپولیس",
+      "استقلال"
+    ],
+    "accent_color": "#ef4444",
+    "verified": true,
+    "id": 94,
+    "rank": 94
+  },
+  {
+    "id": 95,
     "name": "زومیت",
     "handle": "ZoomitOfficial",
     "channel_url": "https://www.youtube.com/@ZoomitTV",
@@ -1557,7 +1897,7 @@
     ],
     "accent_color": "#ef4444",
     "verified": true,
-    "rank": 78
+    "rank": 95
   },
   {
     "name": "پارسا رپیک",
@@ -1576,8 +1916,28 @@
     ],
     "accent_color": "#0284c7",
     "verified": true,
-    "id": 79,
-    "rank": 79
+    "id": 96,
+    "rank": 96
+  },
+  {
+    "name": "ابوطالب حسینی",
+    "handle": "AboutalebHosseini",
+    "channel_url": "https://www.youtube.com/@televikacom",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 160000,
+    "subscribers_display": "۱۶۰K",
+    "bio": "شوخی با اخبار ورزشی، فوتبال و روایت‌های طنز اجتماعی.",
+    "avatar": "avatars/aboutalebhosseini.jpg",
+    "tags": [
+      "فوتبال‌طنز",
+      "کمدی",
+      "روایت"
+    ],
+    "accent_color": "#10b981",
+    "verified": true,
+    "id": 97,
+    "rank": 97
   },
   {
     "name": "سام صابری",
@@ -1596,8 +1956,8 @@
     ],
     "accent_color": "#0284c7",
     "verified": true,
-    "id": 80,
-    "rank": 80
+    "id": 98,
+    "rank": 98
   },
   {
     "name": "ارز دیجیتال (مستندات ارز)",
@@ -1616,11 +1976,31 @@
     ],
     "accent_color": "#f59e0b",
     "verified": true,
-    "id": 81,
-    "rank": 81
+    "id": 99,
+    "rank": 99
   },
   {
-    "id": 82,
+    "name": "امیر ای‌ان‌تی",
+    "handle": "AmirANT",
+    "channel_url": "https://www.youtube.com/@Amirant",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 155000,
+    "subscribers_display": "۱۵۵K",
+    "bio": "استریم بازی‌های مسابقه‌ای، فورزا هورایزن و شبیه‌ساز رانندگی حرفه‌ای.",
+    "avatar": "avatars/amirant.jpg",
+    "tags": [
+      "فورزا",
+      "ماشین",
+      "شبیه‌ساز"
+    ],
+    "accent_color": "#ea580c",
+    "verified": true,
+    "id": 100,
+    "rank": 100
+  },
+  {
+    "id": 101,
     "name": "گیمین",
     "handle": "GaminOfficial",
     "channel_url": "https://www.youtube.com/@GaminOfficial",
@@ -1637,10 +2017,30 @@
     ],
     "accent_color": "#d97706",
     "verified": true,
-    "rank": 82
+    "rank": 101
   },
   {
-    "id": 83,
+    "name": "سیدمحمد حسینی (ری‌استارت)",
+    "handle": "ShowmanHossein",
+    "channel_url": "https://www.youtube.com/@hosseinitv",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 150000,
+    "subscribers_display": "۱۵۰K",
+    "bio": "شومن سابق تلویزیون، برنامه‌های گفتگومحور و طنز انتقادی.",
+    "avatar": "avatars/showmanhossein.jpg",
+    "tags": [
+      "شومن",
+      "گفتگو",
+      "طنز"
+    ],
+    "accent_color": "#b91c1c",
+    "verified": true,
+    "id": 102,
+    "rank": 102
+  },
+  {
+    "id": 103,
     "name": "دیجیاتو",
     "handle": "Digiato",
     "channel_url": "https://www.youtube.com/@Digiato",
@@ -1657,10 +2057,10 @@
     ],
     "accent_color": "#3b82f6",
     "verified": true,
-    "rank": 83
+    "rank": 103
   },
   {
-    "id": 84,
+    "id": 104,
     "name": "آرش کهربایی",
     "handle": "ArashKahrobaei",
     "channel_url": "https://www.youtube.com/@Arash.Qayumi",
@@ -1677,7 +2077,7 @@
     ],
     "accent_color": "#10b981",
     "verified": true,
-    "rank": 84
+    "rank": 104
   },
   {
     "name": "امیر ای‌زد",
@@ -1696,8 +2096,8 @@
     ],
     "accent_color": "#7c3aed",
     "verified": true,
-    "id": 85,
-    "rank": 85
+    "id": 105,
+    "rank": 105
   },
   {
     "name": "امیر هیتمن",
@@ -1716,8 +2116,8 @@
     ],
     "accent_color": "#475569",
     "verified": true,
-    "id": 86,
-    "rank": 86
+    "id": 106,
+    "rank": 106
   },
   {
     "name": "بنیامین مارکو",
@@ -1736,11 +2136,51 @@
     ],
     "accent_color": "#10b981",
     "verified": true,
-    "id": 87,
-    "rank": 87
+    "id": 107,
+    "rank": 107
   },
   {
-    "id": 88,
+    "name": "امید سیکس",
+    "handle": "OmidSixGaming",
+    "channel_url": "https://www.youtube.com/@OMiDSiXGAMiNG",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 145000,
+    "subscribers_display": "۱۴۵K",
+    "bio": "استریم مسابقات فیفا (FC 26)، پک اوپنینگ‌های نجومی و درفت آلتیمیت تیم.",
+    "avatar": "avatars/omidsixgaming.jpg",
+    "tags": [
+      "FC26",
+      "فیفا",
+      "آلتیمیت"
+    ],
+    "accent_color": "#10b981",
+    "verified": true,
+    "id": 108,
+    "rank": 108
+  },
+  {
+    "name": "فیتنس پلاس",
+    "handle": "FitnessPlusFa",
+    "channel_url": "https://www.youtube.com/@KeyvanMosavi-bd2gc",
+    "category": "sports",
+    "category_title": "ورزش، فیتنس و فوتبال",
+    "subscribers": 145000,
+    "subscribers_display": "۱۴۵K",
+    "bio": "برنامه‌های تمرینی در خانه، کاهش چربی شکم و اصلاح وضعیت بدنی.",
+    "avatar": "avatars/fitnessplusfa.jpg",
+    "tags": [
+      "فیتنس",
+      "کاهش‌وزن",
+      "ورزش‌درخانه"
+    ],
+    "accent_color": "#0ea5e9",
+    "verified": true,
+    "id": 109,
+    "rank": 109
+  },
+  {
+    "id": 110,
     "name": "پادکست راوی",
     "handle": "RaviPodcast",
     "channel_url": "https://www.youtube.com/@RaviPodcast",
@@ -1757,10 +2197,10 @@
     ],
     "accent_color": "#d97706",
     "verified": true,
-    "rank": 88
+    "rank": 110
   },
   {
-    "id": 89,
+    "id": 111,
     "name": "پرهام ساینس",
     "handle": "ParhamScience",
     "channel_url": "https://www.youtube.com/@parhamscience4636",
@@ -1777,10 +2217,10 @@
     ],
     "accent_color": "#16a34a",
     "verified": true,
-    "rank": 89
+    "rank": 111
   },
   {
-    "id": 90,
+    "id": 112,
     "name": "آرین ابراهیمی",
     "handle": "ArianEbrahimi",
     "channel_url": "https://www.youtube.com/@ArianEbrahimi",
@@ -1797,7 +2237,7 @@
     ],
     "accent_color": "#e11d48",
     "verified": true,
-    "rank": 90
+    "rank": 112
   },
   {
     "name": "آریا کیوپی",
@@ -1816,8 +2256,68 @@
     ],
     "accent_color": "#dc2626",
     "verified": true,
-    "id": 91,
-    "rank": 91
+    "id": 113,
+    "rank": 113
+  },
+  {
+    "name": "سینا فرحی",
+    "handle": "SinaFarahi",
+    "channel_url": "https://www.youtube.com/@SinaFarahi",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 140000,
+    "subscribers_display": "۱۴۰K",
+    "bio": "ولاگ‌های خودروهای سوپراسپرت در دبی و تست سرعت ماشین‌ها.",
+    "avatar": "avatars/sinafarahi.jpg",
+    "tags": [
+      "ماشین",
+      "دبی",
+      "سوپراسپرت"
+    ],
+    "accent_color": "#e11d48",
+    "verified": true,
+    "id": 114,
+    "rank": 114
+  },
+  {
+    "name": "جادی تی‌وی (برنامه‌نویسی)",
+    "handle": "JadiTV",
+    "channel_url": "https://www.youtube.com/@JadiTV",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 140000,
+    "subscribers_display": "۱۴۰K",
+    "bio": "دوره‌های یادگیری عمیق، مبانی شبکه، بیت‌کوین و زندگی دیجیتال.",
+    "avatar": "avatars/jaditv.jpg",
+    "tags": [
+      "شبکه",
+      "لینوکس",
+      "برنامه‌نویسی"
+    ],
+    "accent_color": "#10b981",
+    "verified": true,
+    "id": 115,
+    "rank": 115
+  },
+  {
+    "name": "مهرداد هیدن (گیم)",
+    "handle": "MehradHiddenGame",
+    "channel_url": "https://www.youtube.com/@SepehrSafari",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 140000,
+    "subscribers_display": "۱۴۰K",
+    "bio": "استریم‌های فان بازی‌های بتل‌رویال و چالش‌های همکاری با دوستان.",
+    "avatar": "avatars/mehradhiddengame.jpg",
+    "tags": [
+      "بتل‌رویال",
+      "استریم",
+      "فان"
+    ],
+    "accent_color": "#8b5cf6",
+    "verified": true,
+    "id": 116,
+    "rank": 116
   },
   {
     "name": "آرمین پی‌ام",
@@ -1836,8 +2336,8 @@
     ],
     "accent_color": "#059669",
     "verified": true,
-    "id": 92,
-    "rank": 92
+    "id": 117,
+    "rank": 117
   },
   {
     "name": "پادکست جافکری",
@@ -1856,8 +2356,8 @@
     ],
     "accent_color": "#0284c7",
     "verified": true,
-    "id": 93,
-    "rank": 93
+    "id": 118,
+    "rank": 118
   },
   {
     "name": "مهرداد رئیسی",
@@ -1876,11 +2376,51 @@
     ],
     "accent_color": "#dc2626",
     "verified": true,
-    "id": 94,
-    "rank": 94
+    "id": 119,
+    "rank": 119
   },
   {
-    "id": 95,
+    "name": "امیررضا عابدزاده (مکتب‌خونه)",
+    "handle": "Maktabkhooneh",
+    "channel_url": "https://www.youtube.com/@Sorkhabi",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 135000,
+    "subscribers_display": "۱۳۵K",
+    "bio": "بزرگ‌ترین پلتفرم ویدیوهای دانشگاهی ایران، علم داده و مهندسی.",
+    "avatar": "avatars/maktabkhooneh.jpg",
+    "tags": [
+      "مکتب‌خونه",
+      "علم‌داده",
+      "دانشگاه"
+    ],
+    "accent_color": "#0284c7",
+    "verified": true,
+    "id": 120,
+    "rank": 120
+  },
+  {
+    "name": "امیر اسکار",
+    "handle": "AmirOscar",
+    "channel_url": "https://www.youtube.com/@amiroscar",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 135000,
+    "subscribers_display": "۱۳۵K",
+    "bio": "گیم‌پلی بازی‌های نوستالژی، خاطره‌بازی با کنسول‌های قدیمی و پلی‌استیشن ۲.",
+    "avatar": "avatars/amiroscar.jpg",
+    "tags": [
+      "نوستالژی",
+      "رتروگیم",
+      "پلی‌استیشن"
+    ],
+    "accent_color": "#b45309",
+    "verified": true,
+    "id": 121,
+    "rank": 121
+  },
+  {
+    "id": 122,
     "name": "پادکست دایجست",
     "handle": "DigestPodcast",
     "channel_url": "https://www.youtube.com/@mindsetpodd",
@@ -1897,10 +2437,10 @@
     ],
     "accent_color": "#059669",
     "verified": true,
-    "rank": 95
+    "rank": 122
   },
   {
-    "id": 96,
+    "id": 123,
     "name": "مهرداد فکت",
     "handle": "MehrdadFact",
     "channel_url": "https://www.youtube.com/@MehrDaddy",
@@ -1917,10 +2457,10 @@
     ],
     "accent_color": "#059669",
     "verified": true,
-    "rank": 96
+    "rank": 123
   },
   {
-    "id": 97,
+    "id": 124,
     "name": "امید فدوی",
     "handle": "OmidFadavi",
     "channel_url": "https://www.youtube.com/@OmidFadavi",
@@ -1937,7 +2477,7 @@
     ],
     "accent_color": "#8b5cf6",
     "verified": true,
-    "rank": 97
+    "rank": 124
   },
   {
     "name": "سروش گیمر",
@@ -1956,8 +2496,8 @@
     ],
     "accent_color": "#ea580c",
     "verified": true,
-    "id": 98,
-    "rank": 98
+    "id": 125,
+    "rank": 125
   },
   {
     "name": "شف رنجبر",
@@ -1976,11 +2516,11 @@
     ],
     "accent_color": "#b45309",
     "verified": true,
-    "id": 99,
-    "rank": 99
+    "id": 126,
+    "rank": 126
   },
   {
-    "id": 100,
+    "id": 127,
     "name": "مغز بادام",
     "handle": "MaghzeBadam",
     "channel_url": "https://www.youtube.com/@motivationaldoc",
@@ -1997,7 +2537,7 @@
     ],
     "accent_color": "#d97706",
     "verified": true,
-    "rank": 100
+    "rank": 127
   },
   {
     "name": "فرشاد دارک‌سول",
@@ -2016,8 +2556,8 @@
     ],
     "accent_color": "#475569",
     "verified": true,
-    "id": 101,
-    "rank": 101
+    "id": 128,
+    "rank": 128
   },
   {
     "name": "فرادرس",
@@ -2036,8 +2576,8 @@
     ],
     "accent_color": "#059669",
     "verified": true,
-    "id": 102,
-    "rank": 102
+    "id": 129,
+    "rank": 129
   },
   {
     "name": "دکتر سیامک قاسمی",
@@ -2056,11 +2596,51 @@
     ],
     "accent_color": "#0284c7",
     "verified": true,
-    "id": 103,
-    "rank": 103
+    "id": 130,
+    "rank": 130
   },
   {
-    "id": 104,
+    "name": "آریا اس‌اس",
+    "handle": "AriaSS",
+    "channel_url": "https://www.youtube.com/@AriaSS",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 125000,
+    "subscribers_display": "۱۲۵K",
+    "bio": "استریم بازی Rainbow Six Siege، مسابقات تاکتیکال و کلچ‌های دیدنی.",
+    "avatar": "avatars/ariass.jpg",
+    "tags": [
+      "رینبو",
+      "شوتر",
+      "تاکتیکال"
+    ],
+    "accent_color": "#0284c7",
+    "verified": true,
+    "id": 131,
+    "rank": 131
+  },
+  {
+    "name": "کریپتو فارسی",
+    "handle": "CryptoFarsiOfficial",
+    "channel_url": "https://www.youtube.com/@cryptofarsi",
+    "category": "finance",
+    "category_title": "اقتصاد، کریپتو و مالی",
+    "subscribers": 125000,
+    "subscribers_display": "۱۲۵K",
+    "bio": "تحلیل تکنیکال اتریوم، بیت‌کوین و پروژه‌های لایه ۲ بلاکچین.",
+    "avatar": "avatars/cryptofarsiofficial.jpg",
+    "tags": [
+      "اتریوم",
+      "کریپتو",
+      "بلاکچین"
+    ],
+    "accent_color": "#f59e0b",
+    "verified": true,
+    "id": 132,
+    "rank": 132
+  },
+  {
+    "id": 133,
     "name": "سینما تیکت (کافه مدیا)",
     "handle": "CafeMediaCinema",
     "channel_url": "https://www.youtube.com/@Cinematicket-org",
@@ -2077,7 +2657,7 @@
     ],
     "accent_color": "#d97706",
     "verified": true,
-    "rank": 104
+    "rank": 133
   },
   {
     "name": "ایمان اس‌تی",
@@ -2096,11 +2676,51 @@
     ],
     "accent_color": "#16a34a",
     "verified": true,
-    "id": 105,
-    "rank": 105
+    "id": 134,
+    "rank": 134
   },
   {
-    "id": 106,
+    "name": "امیرعباس رجبیان (کچلیک)",
+    "handle": "KachelakOfficial",
+    "channel_url": "https://www.youtube.com/@AidinZavareei",
+    "category": "entertainment",
+    "category_title": "سرگرمی، کمدی و چلنج",
+    "subscribers": 120000,
+    "subscribers_display": "۱۲۰K",
+    "bio": "ولاگ‌های شمال، خاطرات کودکی و طنز بومی مازندرانی.",
+    "avatar": "avatars/kachelakofficial.jpg",
+    "tags": [
+      "کچلیک",
+      "مازندران",
+      "ولاگ"
+    ],
+    "accent_color": "#16a34a",
+    "verified": true,
+    "id": 135,
+    "rank": 135
+  },
+  {
+    "name": "علی تی‌وی (آنالیز فوتبال)",
+    "handle": "AliTVFootball",
+    "channel_url": "https://www.youtube.com/@MadridTvShow",
+    "category": "sports",
+    "category_title": "ورزش، فیتنس و فوتبال",
+    "subscribers": 120000,
+    "subscribers_display": "۱۲۰K",
+    "bio": "آنالیز تاکتیکی پپ گواردیولا، ال‌کلاسیکو و بررسی سیستم‌های روز لیگ قهرمانان.",
+    "avatar": "avatars/alitvfootball.jpg",
+    "tags": [
+      "آنالیزتاکتیکی",
+      "گواردیولا",
+      "لیگ‌قهرمانان"
+    ],
+    "accent_color": "#2563eb",
+    "verified": true,
+    "id": 136,
+    "rank": 136
+  },
+  {
+    "id": 137,
     "name": "پادکست ناوکست",
     "handle": "NavcastOfficial",
     "channel_url": "https://www.youtube.com/@Navpodcast",
@@ -2117,7 +2737,7 @@
     ],
     "accent_color": "#7c3aed",
     "verified": true,
-    "rank": 106
+    "rank": 137
   },
   {
     "name": "پادکست هلی‌تاک",
@@ -2136,8 +2756,8 @@
     ],
     "accent_color": "#ec4899",
     "verified": true,
-    "id": 107,
-    "rank": 107
+    "id": 138,
+    "rank": 138
   },
   {
     "name": "تکامل انسان (فرگشت)",
@@ -2156,8 +2776,8 @@
     ],
     "accent_color": "#10b981",
     "verified": true,
-    "id": 108,
-    "rank": 108
+    "id": 139,
+    "rank": 139
   },
   {
     "name": "سحر شف",
@@ -2176,11 +2796,51 @@
     ],
     "accent_color": "#ec4899",
     "verified": true,
-    "id": 109,
-    "rank": 109
+    "id": 140,
+    "rank": 140
   },
   {
-    "id": 110,
+    "name": "سینا گیمر",
+    "handle": "SinaGamerIR",
+    "channel_url": "https://www.youtube.com/@GameYaar",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 115000,
+    "subscribers_display": "۱۱۵K",
+    "bio": "بازی‌های ترسناک ماینکرفت، مدهای وحشت و کشف موجودات افسانه‌ای.",
+    "avatar": "avatars/sinagamerir.jpg",
+    "tags": [
+      "وحشت",
+      "ماینکرفت",
+      "اسرار"
+    ],
+    "accent_color": "#7c3aed",
+    "verified": true,
+    "id": 141,
+    "rank": 141
+  },
+  {
+    "name": "آکادمی گنج (مهدی فکور)",
+    "handle": "GanjAcademy",
+    "channel_url": "https://www.youtube.com/@GanjAcademy",
+    "category": "finance",
+    "category_title": "اقتصاد، کریپتو و مالی",
+    "subscribers": 115000,
+    "subscribers_display": "۱۱۵K",
+    "bio": "مدیریت کسب‌وکار، اصول حسابداری مالیاتی و قوانین بیمه کارآفرینان.",
+    "avatar": "avatars/ganjacademy.jpg",
+    "tags": [
+      "کسب‌وکار",
+      "مالیات",
+      "کارآفرینی"
+    ],
+    "accent_color": "#059669",
+    "verified": true,
+    "id": 142,
+    "rank": 142
+  },
+  {
+    "id": 143,
     "name": "خط سفید",
     "handle": "KhateSefid",
     "channel_url": "https://www.youtube.com/@samiotech",
@@ -2197,10 +2857,10 @@
     ],
     "accent_color": "#4b5563",
     "verified": true,
-    "rank": 110
+    "rank": 143
   },
   {
-    "id": 111,
+    "id": 144,
     "name": "پویا کلاهدوزان",
     "handle": "PouyaKolahdouzan",
     "channel_url": "https://www.youtube.com/@PooyaTech",
@@ -2217,7 +2877,7 @@
     ],
     "accent_color": "#0d9488",
     "verified": true,
-    "rank": 111
+    "rank": 144
   },
   {
     "name": "ایمان مدائنی (تاپ‌لرن)",
@@ -2236,8 +2896,8 @@
     ],
     "accent_color": "#2563eb",
     "verified": true,
-    "id": 112,
-    "rank": 112
+    "id": 145,
+    "rank": 145
   },
   {
     "name": "شایان شبستری",
@@ -2256,8 +2916,8 @@
     ],
     "accent_color": "#7c3aed",
     "verified": true,
-    "id": 113,
-    "rank": 113
+    "id": 146,
+    "rank": 146
   },
   {
     "name": "امین فودنایت",
@@ -2276,8 +2936,68 @@
     ],
     "accent_color": "#16a34a",
     "verified": true,
-    "id": 114,
-    "rank": 114
+    "id": 147,
+    "rank": 147
+  },
+  {
+    "name": "دانیال گیمز",
+    "handle": "DanialGamesFa",
+    "channel_url": "https://www.youtube.com/@MahtabAsgari-z4t",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 110000,
+    "subscribers_display": "۱۱۰K",
+    "bio": "بازی‌های موبایلی، پابجی موبایل و ترفندهای بالا بردن رنک در کلش آف کلنز.",
+    "avatar": "avatars/danialgamesfa.jpg",
+    "tags": [
+      "پابجی",
+      "کلش‌اف‌کلنز",
+      "موبایل‌گیم"
+    ],
+    "accent_color": "#f59e0b",
+    "verified": true,
+    "id": 148,
+    "rank": 148
+  },
+  {
+    "name": "رادیو مرز (مرضیه رسولی)",
+    "handle": "RadioMarz",
+    "channel_url": "https://www.youtube.com/@radiomarz",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 110000,
+    "subscribers_display": "۱۱۰K",
+    "bio": "روایت روایت‌های انسانی از مرزهایی که میان آدم‌ها فاصله می‌اندازند.",
+    "avatar": "avatars/radiomarz.jpg",
+    "tags": [
+      "روایت",
+      "جامعه",
+      "مرز"
+    ],
+    "accent_color": "#64748b",
+    "verified": true,
+    "id": 149,
+    "rank": 149
+  },
+  {
+    "name": "جهان ناشناخته",
+    "handle": "UnknownWorldFa",
+    "channel_url": "https://www.youtube.com/@UnknownWorldFA",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 110000,
+    "subscribers_display": "۱۱۰K",
+    "bio": "عجایب هفتگانه باستان، تمدن‌های گم‌شده در زیر آب و کتیبه‌های مرموز.",
+    "avatar": "avatars/unknownworldfa.jpg",
+    "tags": [
+      "عجایب",
+      "باستان‌شناسی",
+      "اسرار"
+    ],
+    "accent_color": "#8b5cf6",
+    "verified": true,
+    "id": 150,
+    "rank": 150
   },
   {
     "name": "پادکست ساگا",
@@ -2296,8 +3016,8 @@
     ],
     "accent_color": "#b91c1c",
     "verified": true,
-    "id": 115,
-    "rank": 115
+    "id": 151,
+    "rank": 151
   },
   {
     "name": "سرزمین تاریخ",
@@ -2316,11 +3036,51 @@
     ],
     "accent_color": "#b45309",
     "verified": true,
-    "id": 116,
-    "rank": 116
+    "id": 152,
+    "rank": 152
   },
   {
-    "id": 117,
+    "name": "آروین شوتر",
+    "handle": "ArvinShooter",
+    "channel_url": "https://www.youtube.com/@turkeiran",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 105000,
+    "subscribers_display": "۱۰۵K",
+    "bio": "والورانت، اسکین‌های برتر، آموزش ایمینگ و مسابقات رنک ایمورتال.",
+    "avatar": "avatars/arvinshooter.jpg",
+    "tags": [
+      "والورانت",
+      "ایمینگ",
+      "رنکد"
+    ],
+    "accent_color": "#dc2626",
+    "verified": true,
+    "id": 153,
+    "rank": 153
+  },
+  {
+    "name": "داستان‌های تاریخ معاصر",
+    "handle": "MoaserHistory",
+    "channel_url": "https://www.youtube.com/@BplusPodcast",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 102000,
+    "subscribers_display": "۱۰۲K",
+    "bio": "پشت صحنه روابط بین‌الملل، جنگ سرد و معاهدات نفتی خاورمیانه.",
+    "avatar": "avatars/moaserhistory.jpg",
+    "tags": [
+      "جنگ‌سرد",
+      "نفت",
+      "خاورمیانه"
+    ],
+    "accent_color": "#dc2626",
+    "verified": true,
+    "id": 154,
+    "rank": 154
+  },
+  {
+    "id": 155,
     "name": "استرینگ‌کست",
     "handle": "StringCast",
     "channel_url": "https://www.youtube.com/@stringcast",
@@ -2337,10 +3097,10 @@
     ],
     "accent_color": "#9333ea",
     "verified": true,
-    "rank": 117
+    "rank": 155
   },
   {
-    "id": 118,
+    "id": 156,
     "name": "مهدی دادفر",
     "handle": "MehdiDadfar",
     "channel_url": "https://www.youtube.com/@MehdiDadfar",
@@ -2357,7 +3117,7 @@
     ],
     "accent_color": "#b91c1c",
     "verified": true,
-    "rank": 118
+    "rank": 156
   },
   {
     "name": "جهان فیزیک",
@@ -2376,11 +3136,31 @@
     ],
     "accent_color": "#3b82f6",
     "verified": true,
-    "id": 119,
-    "rank": 119
+    "id": 157,
+    "rank": 157
   },
   {
-    "id": 120,
+    "name": "گیم‌استودیو ایران",
+    "handle": "GameStudioIR",
+    "channel_url": "https://www.youtube.com/@Fartash",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 98000,
+    "subscribers_display": "۹۸K",
+    "bio": "پشت صحنه ساخت بازی‌های مستقل ایرانی و اخبار انتشار در استیم.",
+    "avatar": "avatars/gamestudioir.jpg",
+    "tags": [
+      "بازی‌ایرانی",
+      "استیم",
+      "توسعه"
+    ],
+    "accent_color": "#16a34a",
+    "verified": true,
+    "id": 158,
+    "rank": 158
+  },
+  {
+    "id": 159,
     "name": "میلاد نوری",
     "handle": "MiladNouri",
     "channel_url": "https://www.youtube.com/@miladnouri",
@@ -2397,10 +3177,10 @@
     ],
     "accent_color": "#8b5cf6",
     "verified": true,
-    "rank": 120
+    "rank": 159
   },
   {
-    "id": 121,
+    "id": 160,
     "name": "کنجکاو",
     "handle": "KonjkavShow",
     "channel_url": "https://www.youtube.com/@konjkavvi",
@@ -2417,7 +3197,7 @@
     ],
     "accent_color": "#ea580c",
     "verified": true,
-    "rank": 121
+    "rank": 160
   },
   {
     "name": "پادکست رادیو دیو",
@@ -2436,8 +3216,8 @@
     ],
     "accent_color": "#d97706",
     "verified": true,
-    "id": 122,
-    "rank": 122
+    "id": 161,
+    "rank": 161
   },
   {
     "name": "مهدی رجبی",
@@ -2456,8 +3236,8 @@
     ],
     "accent_color": "#8b5cf6",
     "verified": true,
-    "id": 123,
-    "rank": 123
+    "id": 162,
+    "rank": 162
   },
   {
     "name": "آرتیکت (تحلیل سینما)",
@@ -2476,11 +3256,71 @@
     ],
     "accent_color": "#8b5cf6",
     "verified": true,
-    "id": 124,
-    "rank": 124
+    "id": 163,
+    "rank": 163
   },
   {
-    "id": 125,
+    "name": "رضا پی‌سی",
+    "handle": "RezaPCGamer",
+    "channel_url": "https://www.youtube.com/@RezaPcGamer",
+    "category": "gaming",
+    "category_title": "گیمینگ و استریم",
+    "subscribers": 95000,
+    "subscribers_display": "۹۵K",
+    "bio": "بنچمارک کارت گرافیک در بازی‌های ۲۰۲۶، بهینه‌سازی FPS و تنظیمات گرافیکی.",
+    "avatar": "avatars/rezapcgamer.jpg",
+    "tags": [
+      "بنچمارک",
+      "FPS",
+      "کارت‌گرافیک"
+    ],
+    "accent_color": "#059669",
+    "verified": true,
+    "id": 164,
+    "rank": 164
+  },
+  {
+    "name": "مهدی موسوی فیتنس",
+    "handle": "MousaviFitness",
+    "channel_url": "https://www.youtube.com/@mehdimousavi4837",
+    "category": "sports",
+    "category_title": "ورزش، فیتنس و فوتبال",
+    "subscribers": 95000,
+    "subscribers_display": "۹۵K",
+    "bio": "علم عضله‌سازی، مکمل‌های بدنسازی مجاز و آناتومی حرکات ورزشی.",
+    "avatar": "avatars/mousavifitness.jpg",
+    "tags": [
+      "عضله‌سازی",
+      "مکمل",
+      "آناتومی"
+    ],
+    "accent_color": "#059669",
+    "verified": true,
+    "id": 165,
+    "rank": 165
+  },
+  {
+    "name": "تاریخانه",
+    "handle": "TarikhanEH",
+    "channel_url": "https://www.youtube.com/@Tarikhaneh",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 94000,
+    "subscribers_display": "۹۴K",
+    "bio": "انیمیشن‌های تاریخی رویدادهای سرنوشت‌ساز ایران، قاجار و مشروطه.",
+    "avatar": "avatars/tarikhaneh.jpg",
+    "tags": [
+      "مشروطه",
+      "قاجار",
+      "تاریخ‌تصویری"
+    ],
+    "accent_color": "#b45309",
+    "verified": true,
+    "id": 166,
+    "rank": 166
+  },
+  {
+    "id": 167,
     "name": "پادکست پاراگراف",
     "handle": "ParagraphPodcast",
     "channel_url": "https://www.youtube.com/@ParagraphPodcast",
@@ -2497,7 +3337,7 @@
     ],
     "accent_color": "#c2410c",
     "verified": true,
-    "rank": 125
+    "rank": 167
   },
   {
     "name": "لقمان آوند (سون‌لرن)",
@@ -2516,8 +3356,68 @@
     ],
     "accent_color": "#2563eb",
     "verified": true,
-    "id": 126,
-    "rank": 126
+    "id": 168,
+    "rank": 168
+  },
+  {
+    "name": "پادکست هیستوری باکس",
+    "handle": "HistoryBoxFa",
+    "channel_url": "https://www.youtube.com/@ThePodcastHistoryChannel",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 92000,
+    "subscribers_display": "۹۲K",
+    "bio": "بسته‌های صوتی تاریخی، راز قتل کندی، ترورهای سیاسی و کودتاهای معاصر.",
+    "avatar": "avatars/historyboxfa.jpg",
+    "tags": [
+      "تاریخ‌جهان",
+      "کودتا",
+      "اسناد"
+    ],
+    "accent_color": "#991b1b",
+    "verified": true,
+    "id": 169,
+    "rank": 169
+  },
+  {
+    "name": "امیرحسین نام‌آور",
+    "handle": "NamavarFinance",
+    "channel_url": "https://www.youtube.com/@AmirhosseinNamavar",
+    "category": "finance",
+    "category_title": "اقتصاد، کریپتو و مالی",
+    "subscribers": 92000,
+    "subscribers_display": "۹۲K",
+    "bio": "تحلیل بازار سهام، مسکن و استراتژی‌های ضدتورمی در اقتصاد ایران.",
+    "avatar": "avatars/namavarfinance.jpg",
+    "tags": [
+      "بورس",
+      "مسکن",
+      "ضدتورم"
+    ],
+    "accent_color": "#d97706",
+    "verified": true,
+    "id": 170,
+    "rank": 170
+  },
+  {
+    "name": "گیتار پاپ",
+    "handle": "GuitarPopFa",
+    "channel_url": "https://www.youtube.com/@arashardforoushan",
+    "category": "art",
+    "category_title": "هنر، طراحی و موسیقی",
+    "subscribers": 92000,
+    "subscribers_display": "۹۲K",
+    "bio": "آموزش ریتم‌های گیتار، آرپژ، تبلچر و آکورد ترانه‌های معروف فارسی.",
+    "avatar": "avatars/guitarpopfa.jpg",
+    "tags": [
+      "گیتار",
+      "آکورد",
+      "پاپ"
+    ],
+    "accent_color": "#ea580c",
+    "verified": true,
+    "id": 171,
+    "rank": 171
   },
   {
     "name": "اسرار زمین",
@@ -2536,8 +3436,8 @@
     ],
     "accent_color": "#d97706",
     "verified": true,
-    "id": 127,
-    "rank": 127
+    "id": 172,
+    "rank": 172
   },
   {
     "name": "نیما آگاه",
@@ -2556,11 +3456,31 @@
     ],
     "accent_color": "#10b981",
     "verified": true,
-    "id": 128,
-    "rank": 128
+    "id": 173,
+    "rank": 173
   },
   {
-    "id": 129,
+    "name": "پادکست ایستگاه فضایی",
+    "handle": "SpaceStationFa",
+    "channel_url": "https://www.youtube.com/@Newsha.Podcast",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 89000,
+    "subscribers_display": "۸۹K",
+    "bio": "نجوم آماتوری، رصد ستارگان، تلسکوپ جیمز وب و پروژه‌های آرتمیس ناسا.",
+    "avatar": "avatars/spacestationfa.jpg",
+    "tags": [
+      "نجوم",
+      "فضا",
+      "جیمزوب"
+    ],
+    "accent_color": "#3b82f6",
+    "verified": true,
+    "id": 174,
+    "rank": 174
+  },
+  {
+    "id": 175,
     "name": "مهدی زارع‌زاده",
     "handle": "ZareTech",
     "channel_url": "https://www.youtube.com/@ZareTech",
@@ -2577,10 +3497,10 @@
     ],
     "accent_color": "#d97706",
     "verified": true,
-    "rank": 129
+    "rank": 175
   },
   {
-    "id": 130,
+    "id": 176,
     "name": "پادکست تاریکخانه تاریخ",
     "handle": "TarikkhanehTarikh",
     "channel_url": "https://www.youtube.com/@30morgh_Restart",
@@ -2597,7 +3517,7 @@
     ],
     "accent_color": "#475569",
     "verified": true,
-    "rank": 130
+    "rank": 176
   },
   {
     "name": "پادکست مترونوم",
@@ -2616,11 +3536,91 @@
     ],
     "accent_color": "#e11d48",
     "verified": true,
-    "id": 131,
-    "rank": 131
+    "id": 177,
+    "rank": 177
   },
   {
-    "id": 132,
+    "name": "شبیه‌ساز کیهان",
+    "handle": "CosmosSimFa",
+    "channel_url": "https://www.youtube.com/@eyeofgalaxy",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 88000,
+    "subscribers_display": "۸۸K",
+    "bio": "شبیه‌سازی برخورد کهکشان‌ها، تولد ستاره‌ها و سرنوشت نهایی جهان در فضا.",
+    "avatar": "avatars/cosmossimfa.jpg",
+    "tags": [
+      "کیهان‌شناسی",
+      "کهکشان",
+      "اخترشناسی"
+    ],
+    "accent_color": "#4f46e5",
+    "verified": true,
+    "id": 178,
+    "rank": 178
+  },
+  {
+    "name": "دکتر پیمان مولوی",
+    "handle": "PeymanMolavi",
+    "channel_url": "https://www.youtube.com/@Moshafehe",
+    "category": "finance",
+    "category_title": "اقتصاد، کریپتو و مالی",
+    "subscribers": 88000,
+    "subscribers_display": "۸۸K",
+    "bio": "اقتصاددان و کارشناس بازارهای مالی، پیش‌بینی نرخ بهره و چرخه‌های تجاری.",
+    "avatar": "avatars/peymanmolavi.jpg",
+    "tags": [
+      "نرخ‌بهره",
+      "اقتصادجهانی",
+      "پیش‌بینی"
+    ],
+    "accent_color": "#7c3aed",
+    "verified": true,
+    "id": 179,
+    "rank": 179
+  },
+  {
+    "name": "آرت با نیما",
+    "handle": "ArtWithNima",
+    "channel_url": "https://www.youtube.com/@nimatekido",
+    "category": "art",
+    "category_title": "هنر، طراحی و موسیقی",
+    "subscribers": 88000,
+    "subscribers_display": "۸۸K",
+    "bio": "آموزش نقاشی دیجیتال، فوتوشاپ، تصویرسازی کاراکتر و طراحی کانسپت.",
+    "avatar": "avatars/artwithnima.jpg",
+    "tags": [
+      "نقاشی‌دیجیتال",
+      "تصویرسازی",
+      "کانسپت"
+    ],
+    "accent_color": "#ec4899",
+    "verified": true,
+    "id": 180,
+    "rank": 180
+  },
+  {
+    "name": "دکتر علی سعدوندی",
+    "handle": "AliSaadvandi",
+    "channel_url": "https://www.youtube.com/@econclinic",
+    "category": "finance",
+    "category_title": "اقتصاد، کریپتو و مالی",
+    "subscribers": 86000,
+    "subscribers_display": "۸۶K",
+    "bio": "اقتصاددان، آسیب‌شناسی سیاست‌های پولی، نقدینگی و تحلیل تورم ایران.",
+    "avatar": "avatars/alisaadvandi.jpg",
+    "tags": [
+      "سیاست‌پولی",
+      "تورم",
+      "اقتصادایران"
+    ],
+    "accent_color": "#0284c7",
+    "verified": true,
+    "id": 181,
+    "rank": 181
+  },
+  {
+    "id": 182,
     "name": "امیر عظیمی",
     "handle": "AmirAzimiCode",
     "channel_url": "https://www.youtube.com/@AmirAzimiMusic",
@@ -2637,7 +3637,7 @@
     ],
     "accent_color": "#ec4899",
     "verified": true,
-    "rank": 132
+    "rank": 182
   },
   {
     "name": "سبزلرن",
@@ -2656,8 +3656,68 @@
     ],
     "accent_color": "#16a34a",
     "verified": true,
-    "id": 133,
-    "rank": 133
+    "id": 183,
+    "rank": 183
+  },
+  {
+    "name": "پادکست ساعت صفر",
+    "handle": "SaateSefr",
+    "channel_url": "https://www.youtube.com/@saatesefr",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 85000,
+    "subscribers_display": "۸۵K",
+    "bio": "بررسی رازهای خواب، رویاهای صادقه، اختلالات خواب و روانکاوی شبانه.",
+    "avatar": "avatars/saatesefr.jpg",
+    "tags": [
+      "خواب",
+      "روانکاوی",
+      "رویا"
+    ],
+    "accent_color": "#1e1b4b",
+    "verified": true,
+    "id": 184,
+    "rank": 184
+  },
+  {
+    "name": "یوگا با شادی",
+    "handle": "YogaWithShadi",
+    "channel_url": "https://www.youtube.com/@YogawithShadi",
+    "category": "sports",
+    "category_title": "ورزش، فیتنس و فوتبال",
+    "subscribers": 85000,
+    "subscribers_display": "۸۵K",
+    "bio": "تمرینات آرامش‌بخش یوگا، تنفس پرانایاما و مدیتیشن برای کاهش اضطراب.",
+    "avatar": "avatars/yogawithshadi.jpg",
+    "tags": [
+      "یوگا",
+      "مدیتیشن",
+      "آرامش"
+    ],
+    "accent_color": "#8b5cf6",
+    "verified": true,
+    "id": 185,
+    "rank": 185
+  },
+  {
+    "name": "دکتر ساینس",
+    "handle": "DoctorScienceFa",
+    "channel_url": "https://www.youtube.com/@DrDataScience",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 84000,
+    "subscribers_display": "۸۴K",
+    "bio": "شگفتی‌های زیست‌شناسی سلولی، سیستم ایمنی بدن و مبارزه با ویروس‌ها.",
+    "avatar": "avatars/doctorsciencefa.jpg",
+    "tags": [
+      "زیست‌شناسی",
+      "پزشکی",
+      "سیستم‌ایمنی"
+    ],
+    "accent_color": "#10b981",
+    "verified": true,
+    "id": 186,
+    "rank": 186
   },
   {
     "name": "پادکست کرن",
@@ -2676,8 +3736,8 @@
     ],
     "accent_color": "#b45309",
     "verified": true,
-    "id": 134,
-    "rank": 134
+    "id": 187,
+    "rank": 187
   },
   {
     "name": "مستند حیات‌وحش ایران",
@@ -2696,8 +3756,88 @@
     ],
     "accent_color": "#16a34a",
     "verified": true,
-    "id": 135,
-    "rank": 135
+    "id": 188,
+    "rank": 188
+  },
+  {
+    "name": "میهن‌وردپرس",
+    "handle": "MihanWP",
+    "channel_url": "https://www.youtube.com/@mihanwp",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 82000,
+    "subscribers_display": "۸۲K",
+    "bio": "آموزش وردپرس، سئو تکنیکال، رفع ارورهای هاست و افزایش سرعت سایت.",
+    "avatar": "avatars/mihanwp.jpg",
+    "tags": [
+      "میهن‌وردپرس",
+      "وردپرس",
+      "هاستینگ"
+    ],
+    "accent_color": "#d97706",
+    "verified": true,
+    "id": 189,
+    "rank": 189
+  },
+  {
+    "name": "پادکست معجون",
+    "handle": "MajoonPodcast",
+    "channel_url": "https://www.youtube.com/@majoonpodcast",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 81000,
+    "subscribers_display": "۸۱K",
+    "bio": "روایت‌های جذاب از تاریخ اشیا، غذاها و اختراعاتی که جهان را تغییر دادند.",
+    "avatar": "avatars/majoonpodcast.jpg",
+    "tags": [
+      "تاریخ‌اشیا",
+      "اختراعات",
+      "داستان"
+    ],
+    "accent_color": "#d97706",
+    "verified": true,
+    "id": 190,
+    "rank": 190
+  },
+  {
+    "name": "طراحی کاراکتر و انیمه",
+    "handle": "AnimeArtFa",
+    "channel_url": "https://www.youtube.com/@paintergeek",
+    "category": "art",
+    "category_title": "هنر، طراحی و موسیقی",
+    "subscribers": 81000,
+    "subscribers_display": "۸۱K",
+    "bio": "رسم فیگور انیمه‌ای، پرسپکتیو و تکنیک‌های رنگ‌آمیزی با مارکر.",
+    "avatar": "avatars/animeartfa.jpg",
+    "tags": [
+      "انیمه",
+      "طراحی",
+      "مانگا"
+    ],
+    "accent_color": "#9333ea",
+    "verified": true,
+    "id": 191,
+    "rank": 191
+  },
+  {
+    "name": "سیاره آبی",
+    "handle": "BluePlanetFa",
+    "channel_url": "https://www.youtube.com/@OnTenTV",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 79000,
+    "subscribers_display": "۷۹K",
+    "bio": "اعماق اقیانوس‌ها، نهنگ‌های غول‌پیکر و اکوسیستم‌های ناشناخته زیر آب.",
+    "avatar": "avatars/blueplanetfa.jpg",
+    "tags": [
+      "اقیانوس",
+      "نهنگ",
+      "محیط‌زیست"
+    ],
+    "accent_color": "#0284c7",
+    "verified": true,
+    "id": 192,
+    "rank": 192
   },
   {
     "name": "امیرحسین عظیمی",
@@ -2716,8 +3856,8 @@
     ],
     "accent_color": "#ec4899",
     "verified": true,
-    "id": 136,
-    "rank": 136
+    "id": 193,
+    "rank": 193
   },
   {
     "name": "سعید خاکستر",
@@ -2736,8 +3876,48 @@
     ],
     "accent_color": "#059669",
     "verified": true,
-    "id": 137,
-    "rank": 137
+    "id": 194,
+    "rank": 194
+  },
+  {
+    "name": "حامد وفایی",
+    "handle": "HamedVafaei",
+    "channel_url": "https://www.youtube.com/@hamedvafaei",
+    "category": "finance",
+    "category_title": "اقتصاد، کریپتو و مالی",
+    "subscribers": 78000,
+    "subscribers_display": "۷۸K",
+    "bio": "ترید در بازار فیوچرز، استراتژی‌های مدیریت ریسک و روانشناسی ترید.",
+    "avatar": "avatars/hamedvafaei.jpg",
+    "tags": [
+      "فیوچرز",
+      "مدیریت‌ریسک",
+      "ترید"
+    ],
+    "accent_color": "#10b981",
+    "verified": true,
+    "id": 195,
+    "rank": 195
+  },
+  {
+    "name": "پادکست سینما گپ",
+    "handle": "CinemaGap",
+    "channel_url": "https://www.youtube.com/@cinemagap",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 77000,
+    "subscribers_display": "۷۷K",
+    "bio": "گفتگوهای آزاد بعد از تماشای فیلم با حضور منتقدان مستقل سینما.",
+    "avatar": "avatars/cinemagap.jpg",
+    "tags": [
+      "سینما",
+      "فیلم",
+      "منتقد"
+    ],
+    "accent_color": "#e11d48",
+    "verified": true,
+    "id": 196,
+    "rank": 196
   },
   {
     "name": "مغز زیبا",
@@ -2756,8 +3936,8 @@
     ],
     "accent_color": "#8b5cf6",
     "verified": true,
-    "id": 138,
-    "rank": 138
+    "id": 197,
+    "rank": 197
   },
   {
     "name": "کافه تکنولوژی",
@@ -2776,8 +3956,28 @@
     ],
     "accent_color": "#06b6d4",
     "verified": true,
-    "id": 139,
-    "rank": 139
+    "id": 198,
+    "rank": 198
+  },
+  {
+    "name": "کیوان ساکت",
+    "handle": "KeivanSaket",
+    "channel_url": "https://www.youtube.com/@KeivanSaketChannel",
+    "category": "art",
+    "category_title": "هنر، طراحی و موسیقی",
+    "subscribers": 75000,
+    "subscribers_display": "۷۵K",
+    "bio": "استاد برجسته تار و سه‌تار، ردیف‌نوازی موسیقی ایرانی و آموزش گوشه‌ها.",
+    "avatar": "avatars/keivansaket.jpg",
+    "tags": [
+      "تار",
+      "سه‌تار",
+      "موسیقی‌اصیل"
+    ],
+    "accent_color": "#b45309",
+    "verified": true,
+    "id": 199,
+    "rank": 199
   },
   {
     "name": "پادکست اکوتوپیا",
@@ -2796,11 +3996,11 @@
     ],
     "accent_color": "#16a34a",
     "verified": true,
-    "id": 140,
-    "rank": 140
+    "id": 200,
+    "rank": 200
   },
   {
-    "id": 141,
+    "id": 201,
     "name": "سبحان کلهر",
     "handle": "SobhanKalhor",
     "channel_url": "https://www.youtube.com/@sobhankalhor",
@@ -2817,7 +4017,67 @@
     ],
     "accent_color": "#14b8a6",
     "verified": true,
-    "rank": 141
+    "rank": 201
+  },
+  {
+    "name": "پادکست بکت",
+    "handle": "BeckettPodcast",
+    "channel_url": "https://www.youtube.com/@bfe_talk",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 72000,
+    "subscribers_display": "۷۲K",
+    "bio": "تحلیل و بررسی نمایشنامه‌ها، تئاتر ابزورد، ساموئل بکت و ادبیات نمایشی.",
+    "avatar": "avatars/beckettpodcast.jpg",
+    "tags": [
+      "تئاتر",
+      "ادبیات",
+      "نمایشنامه"
+    ],
+    "accent_color": "#475569",
+    "verified": true,
+    "id": 202,
+    "rank": 202
+  },
+  {
+    "name": "فیزیک برای همه",
+    "handle": "PhysicsForAllFa",
+    "channel_url": "https://www.youtube.com/@vashahri_physics",
+    "category": "science",
+    "category_title": "دانش، تاریخ و مستند",
+    "subscribers": 72000,
+    "subscribers_display": "۷۲K",
+    "bio": "قوانین نیوتون، ترمودینامیک و الکتریسیته به زبان ملموس و آزمایشگاهی.",
+    "avatar": "avatars/physicsforallfa.jpg",
+    "tags": [
+      "فیزیک",
+      "ترمودینامیک",
+      "آزمایش"
+    ],
+    "accent_color": "#d97706",
+    "verified": true,
+    "id": 203,
+    "rank": 203
+  },
+  {
+    "name": "کوهنوردی و طبیعت‌گردی ایران",
+    "handle": "IranMountaineering",
+    "channel_url": "https://www.youtube.com/@khanevade_sabz",
+    "category": "sports",
+    "category_title": "ورزش، فیتنس و فوتبال",
+    "subscribers": 72000,
+    "subscribers_display": "۷۲K",
+    "bio": "صعود به قله دماوند، علم بقا در کوهستان و معرفی تجهیزات آلپینیسم.",
+    "avatar": "avatars/iranmountaineering.jpg",
+    "tags": [
+      "دماوند",
+      "کوهنوردی",
+      "بقا"
+    ],
+    "accent_color": "#64748b",
+    "verified": true,
+    "id": 204,
+    "rank": 204
   },
   {
     "name": "پادکست بادسوار",
@@ -2836,8 +4096,48 @@
     ],
     "accent_color": "#9333ea",
     "verified": true,
-    "id": 142,
-    "rank": 142
+    "id": 205,
+    "rank": 205
+  },
+  {
+    "name": "کانون سرمایه‌گذاران",
+    "handle": "InvestorsHubFa",
+    "channel_url": "https://www.youtube.com/@feghtesad",
+    "category": "finance",
+    "category_title": "اقتصاد، کریپتو و مالی",
+    "subscribers": 69000,
+    "subscribers_display": "۶۹K",
+    "bio": "معرفی صندوق‌های سرمایه‌گذاری طلا، سهام دلاری و درآمد ثابت.",
+    "avatar": "avatars/investorshubfa.jpg",
+    "tags": [
+      "صندوق‌طلا",
+      "سرمایه‌گذاری",
+      "سهام"
+    ],
+    "accent_color": "#b45309",
+    "verified": true,
+    "id": 206,
+    "rank": 206
+  },
+  {
+    "name": "آموزش پیانو با پویان",
+    "handle": "PouyanPiano",
+    "channel_url": "https://www.youtube.com/@pouyanpiano",
+    "category": "art",
+    "category_title": "هنر، طراحی و موسیقی",
+    "subscribers": 69000,
+    "subscribers_display": "۶۹K",
+    "bio": "آموزش آکوردهای پیانو، قطعات ماندگار کلاسیک و پاپ ایرانی.",
+    "avatar": "avatars/pouyanpiano.jpg",
+    "tags": [
+      "پیانو",
+      "کلاسیک",
+      "آکورد"
+    ],
+    "accent_color": "#3b82f6",
+    "verified": true,
+    "id": 207,
+    "rank": 207
   },
   {
     "name": "مسعود صدری",
@@ -2856,8 +4156,8 @@
     ],
     "accent_color": "#0ea5e9",
     "verified": true,
-    "id": 143,
-    "rank": 143
+    "id": 208,
+    "rank": 208
   },
   {
     "name": "کلاب اقتصاد",
@@ -2876,8 +4176,28 @@
     ],
     "accent_color": "#dc2626",
     "verified": true,
-    "id": 144,
-    "rank": 144
+    "id": 209,
+    "rank": 209
+  },
+  {
+    "name": "پادکست کاتب",
+    "handle": "KatebPodcast",
+    "channel_url": "https://www.youtube.com/@KatebPodcast",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 68000,
+    "subscribers_display": "۶۸K",
+    "bio": "معرفی رمان‌های برجسته جهان، تکنیک‌های پیرنگ و نقد ادبی داستان‌ها.",
+    "avatar": "avatars/katebpodcast.jpg",
+    "tags": [
+      "رمان",
+      "نقدادبی",
+      "نویسندگی"
+    ],
+    "accent_color": "#b45309",
+    "verified": true,
+    "id": 210,
+    "rank": 210
   },
   {
     "name": "شیمی در زندگی",
@@ -2896,11 +4216,11 @@
     ],
     "accent_color": "#06b6d4",
     "verified": true,
-    "id": 145,
-    "rank": 145
+    "id": 211,
+    "rank": 211
   },
   {
-    "id": 146,
+    "id": 212,
     "name": "معین علیپور (کدرز)",
     "handle": "CodersHub",
     "channel_url": "https://www.youtube.com/@MazdakAlipour",
@@ -2917,10 +4237,50 @@
     ],
     "accent_color": "#2563eb",
     "verified": true,
-    "rank": 146
+    "rank": 212
   },
   {
-    "id": 147,
+    "name": "تک‌ترند",
+    "handle": "TechTrendFa",
+    "channel_url": "https://www.youtube.com/@Youtubekadeh",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 62000,
+    "subscribers_display": "۶۲K",
+    "bio": "مقایسه پرچمداران سامسونگ و آیفون، تست دوربین و باتری گجت‌ها.",
+    "avatar": "avatars/techtrendfa.jpg",
+    "tags": [
+      "سامسونگ",
+      "آیفون",
+      "مقایسه"
+    ],
+    "accent_color": "#ef4444",
+    "verified": true,
+    "id": 213,
+    "rank": 213
+  },
+  {
+    "name": "پادکست هلیله",
+    "handle": "HalilehPodcast",
+    "channel_url": "https://www.youtube.com/@hellitalk",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 61000,
+    "subscribers_display": "۶۱K",
+    "bio": "سفری به اعماق فرهنگ جنوب ایران، بوشهر، آیین‌های زار و موسیقی خلیج فارس.",
+    "avatar": "avatars/halilehpodcast.jpg",
+    "tags": [
+      "بوشهر",
+      "جنوب",
+      "موسیقی‌نواحی"
+    ],
+    "accent_color": "#0284c7",
+    "verified": true,
+    "id": 214,
+    "rank": 214
+  },
+  {
+    "id": 215,
     "name": "سالار کبیری",
     "handle": "SalarKabiri",
     "channel_url": "https://www.youtube.com/@sarakabirii",
@@ -2937,7 +4297,7 @@
     ],
     "accent_color": "#059669",
     "verified": true,
-    "rank": 147
+    "rank": 215
   },
   {
     "name": "پادکست بوم‌فهمی",
@@ -2956,8 +4316,48 @@
     ],
     "accent_color": "#475569",
     "verified": true,
-    "id": 148,
-    "rank": 148
+    "id": 216,
+    "rank": 216
+  },
+  {
+    "name": "آرش حسینی (گیکولوژی)",
+    "handle": "GeekologyFa",
+    "channel_url": "https://www.youtube.com/@arashbird",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 58000,
+    "subscribers_display": "۵۸K",
+    "bio": "بررسی عمیق پردازنده‌های اپل، معماری ARM و تاریخچه چیپست‌ها.",
+    "avatar": "avatars/geekologyfa.jpg",
+    "tags": [
+      "اپل",
+      "سخت‌افزار",
+      "چیپست"
+    ],
+    "accent_color": "#7c3aed",
+    "verified": true,
+    "id": 217,
+    "rank": 217
+  },
+  {
+    "name": "خطاطی و کالیگرافی",
+    "handle": "CalligraphyFa",
+    "channel_url": "https://www.youtube.com/@articdesignn",
+    "category": "art",
+    "category_title": "هنر، طراحی و موسیقی",
+    "subscribers": 58000,
+    "subscribers_display": "۵۸K",
+    "bio": "آموزش خط نستعلیق، خط تحریری با خودکار و ترکیب‌بندی سیاه‌مشق.",
+    "avatar": "avatars/calligraphyfa.jpg",
+    "tags": [
+      "نستعلیق",
+      "کالیگرافی",
+      "خوشنویسی"
+    ],
+    "accent_color": "#0f172a",
+    "verified": true,
+    "id": 218,
+    "rank": 218
   },
   {
     "name": "پوریا مبارکی",
@@ -2976,8 +4376,48 @@
     ],
     "accent_color": "#dc2626",
     "verified": true,
-    "id": 149,
-    "rank": 149
+    "id": 219,
+    "rank": 219
+  },
+  {
+    "name": "همیار آی‌تی",
+    "handle": "HamyarIT",
+    "channel_url": "https://www.youtube.com/@HamyarIT",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 54000,
+    "subscribers_display": "۵۴K",
+    "bio": "راهنمای کاربری ویندوز، نرم‌افزارهای کاربردی و امنیت رایانه‌های اداری.",
+    "avatar": "avatars/hamyarit.jpg",
+    "tags": [
+      "ویندوز",
+      "نرم‌افزار",
+      "کامپیوتر"
+    ],
+    "accent_color": "#0284c7",
+    "verified": true,
+    "id": 220,
+    "rank": 220
+  },
+  {
+    "name": "پادکست دات‌تایم",
+    "handle": "DotTimePodcast",
+    "channel_url": "https://www.youtube.com/@BplusPodcast",
+    "category": "podcast",
+    "category_title": "پادکست، گفتگو و رسانه",
+    "subscribers": 53000,
+    "subscribers_display": "۵۳K",
+    "bio": "گفتگو درباره آینده فناوری، فریلنسری بین‌المللی و کار از راه دور.",
+    "avatar": "avatars/dottimepodcast.jpg",
+    "tags": [
+      "ریموت",
+      "فریلنسری",
+      "تکنولوژی"
+    ],
+    "accent_color": "#059669",
+    "verified": true,
+    "id": 221,
+    "rank": 221
   },
   {
     "name": "مهدی رضوی",
@@ -2996,11 +4436,31 @@
     ],
     "accent_color": "#0284c7",
     "verified": true,
-    "id": 150,
-    "rank": 150
+    "id": 222,
+    "rank": 222
   },
   {
-    "id": 151,
+    "name": "علیرضا حسینی (وردپرس)",
+    "handle": "HosseiniWP",
+    "channel_url": "https://www.youtube.com/@mihanwpcom",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 52000,
+    "subscribers_display": "۵۲K",
+    "bio": "طراحی سایت بدون کدنویسی، توسعه قالب وردپرس و ووکامرس پیشرفته.",
+    "avatar": "avatars/hosseiniwp.jpg",
+    "tags": [
+      "وردپرس",
+      "ووکامرس",
+      "طراحی‌سایت"
+    ],
+    "accent_color": "#0284c7",
+    "verified": true,
+    "id": 223,
+    "rank": 223
+  },
+  {
+    "id": 224,
     "name": "سجاد باقرزاده",
     "handle": "SajjadBaqerzadeh",
     "channel_url": "https://www.youtube.com/@%D8%B3%DB%8C%D8%AF%D8%B3%D8%AC%D8%A7%D8%AF%D8%A8%D8%A7%D9%82%D8%B1%D8%B2%D8%A7%D8%AF%D9%87",
@@ -3017,10 +4477,10 @@
     ],
     "accent_color": "#db2777",
     "verified": true,
-    "rank": 151
+    "rank": 224
   },
   {
-    "id": 152,
+    "id": 225,
     "name": "علیرضا اخوان‌پور",
     "handle": "AlirezaAkhavanPour",
     "channel_url": "https://www.youtube.com/@maktabkhooneh1423",
@@ -3037,7 +4497,27 @@
     ],
     "accent_color": "#4f46e5",
     "verified": true,
-    "rank": 152
+    "rank": 225
+  },
+  {
+    "name": "امید خاکسار (نت‌بینش)",
+    "handle": "NetBinesh",
+    "channel_url": "https://www.youtube.com/@gghamarimpp",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 49000,
+    "subscribers_display": "۴۹K",
+    "bio": "آموزش شبکه سیسکو، میکروتیک، لینوکس و امنیت زیرساخت سرور.",
+    "avatar": "avatars/netbinesh.jpg",
+    "tags": [
+      "شبکه",
+      "سیسکو",
+      "میکروتیک"
+    ],
+    "accent_color": "#059669",
+    "verified": true,
+    "id": 226,
+    "rank": 226
   },
   {
     "name": "علی ابوالحسنی",
@@ -3056,8 +4536,28 @@
     ],
     "accent_color": "#059669",
     "verified": true,
-    "id": 153,
-    "rank": 153
+    "id": 227,
+    "rank": 227
+  },
+  {
+    "name": "آکادمی آمانج",
+    "handle": "AmanjAcademy",
+    "channel_url": "https://www.youtube.com/@amanjacademy",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 48000,
+    "subscribers_display": "۴۸K",
+    "bio": "بوت‌کمپ‌های علم داده، هوش مصنوعی، یادگیری ماشین و تحلیل داده پایتون.",
+    "avatar": "avatars/amanjacademy.jpg",
+    "tags": [
+      "علم‌داده",
+      "یادگیری‌ماشین",
+      "پایتون"
+    ],
+    "accent_color": "#10b981",
+    "verified": true,
+    "id": 228,
+    "rank": 228
   },
   {
     "name": "محمدرضا حقیری",
@@ -3076,11 +4576,51 @@
     ],
     "accent_color": "#10b981",
     "verified": true,
-    "id": 154,
-    "rank": 154
+    "id": 229,
+    "rank": 229
   },
   {
-    "id": 155,
+    "name": "دانیال عظیمی (سئو)",
+    "handle": "DanialAzimiSEO",
+    "channel_url": "https://www.youtube.com/@Danial.Nezami",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 45000,
+    "subscribers_display": "۴۵K",
+    "bio": "آموزش تخصصی سئو فنی، گوگل سرچ کنسول و الگوریتم‌های رتبه‌بندی.",
+    "avatar": "avatars/danialazimiseo.jpg",
+    "tags": [
+      "سئو",
+      "دیجیتال‌مارکتینگ",
+      "گوگل"
+    ],
+    "accent_color": "#f59e0b",
+    "verified": true,
+    "id": 230,
+    "rank": 230
+  },
+  {
+    "name": "کد کست (حسین طاهری)",
+    "handle": "CodeCastFa",
+    "channel_url": "https://www.youtube.com/@hosseintaheri128",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 44000,
+    "subscribers_display": "۴۴K",
+    "bio": "اخبار روز برنامه‌نویسان، گفتگو با مهندسان خارج از کشور و چالش‌های کد.",
+    "avatar": "avatars/codecastfa.jpg",
+    "tags": [
+      "پادکست‌تک",
+      "گفتگو",
+      "کد"
+    ],
+    "accent_color": "#64748b",
+    "verified": true,
+    "id": 231,
+    "rank": 231
+  },
+  {
+    "id": 232,
     "name": "دانیال بهزادی",
     "handle": "DanialBehzadi",
     "channel_url": "https://www.youtube.com/@danialbehzadi",
@@ -3097,7 +4637,27 @@
     ],
     "accent_color": "#7c3aed",
     "verified": true,
-    "rank": 155
+    "rank": 232
+  },
+  {
+    "name": "امین دارابی",
+    "handle": "AminDarabiDev",
+    "channel_url": "https://www.youtube.com/@amindarabi4151",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 42000,
+    "subscribers_display": "۴۲K",
+    "bio": "توسعه گولنگ (Go)، سیستم‌های توزیع‌شده و همزمانی در سرور.",
+    "avatar": "avatars/amindarabidev.jpg",
+    "tags": [
+      "Golang",
+      "بک‌اند",
+      "سیستم"
+    ],
+    "accent_color": "#06b6d4",
+    "verified": true,
+    "id": 233,
+    "rank": 233
   },
   {
     "name": "کیوان غنی‌زاده",
@@ -3116,8 +4676,8 @@
     ],
     "accent_color": "#10b981",
     "verified": true,
-    "id": 156,
-    "rank": 156
+    "id": 234,
+    "rank": 234
   },
   {
     "name": "حسین شیرازی",
@@ -3136,8 +4696,28 @@
     ],
     "accent_color": "#f59e0b",
     "verified": true,
-    "id": 157,
-    "rank": 157
+    "id": 235,
+    "rank": 235
+  },
+  {
+    "name": "فرزاد افشار",
+    "handle": "FarzadAfsharJS",
+    "channel_url": "https://www.youtube.com/@afshartik",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 38000,
+    "subscribers_display": "۳۸K",
+    "bio": "تایپ‌اسکریپت عمیق، پترن‌های فرانت‌اند و فریم‌ورک‌های مدرن وب.",
+    "avatar": "avatars/farzadafsharjs.jpg",
+    "tags": [
+      "تایپ‌اسکریپت",
+      "جاوااسکریپت",
+      "وب"
+    ],
+    "accent_color": "#2563eb",
+    "verified": true,
+    "id": 236,
+    "rank": 236
   },
   {
     "name": "آروین معظمی",
@@ -3156,8 +4736,28 @@
     ],
     "accent_color": "#8b5cf6",
     "verified": true,
-    "id": 158,
-    "rank": 158
+    "id": 237,
+    "rank": 237
+  },
+  {
+    "name": "نوید معمار",
+    "handle": "NavidMemarDev",
+    "channel_url": "https://www.youtube.com/@designcenter_mhr",
+    "category": "tech",
+    "category_title": "تکنولوژی و برنامه‌نویسی",
+    "subscribers": 35000,
+    "subscribers_display": "۳۵K",
+    "bio": "توسعه بازی با یونیتی، آنریل انجین و اصول فیزیک در ویدیوگیم.",
+    "avatar": "avatars/navidmemardev.jpg",
+    "tags": [
+      "بازی‌سازی",
+      "یونیتی",
+      "آنریل"
+    ],
+    "accent_color": "#9333ea",
+    "verified": true,
+    "id": 238,
+    "rank": 238
   },
   {
     "name": "علیرضا ریاضی",
@@ -3176,7 +4776,7 @@
     ],
     "accent_color": "#7c3aed",
     "verified": true,
-    "id": 159,
-    "rank": 159
+    "id": 239,
+    "rank": 239
   }
 ]
