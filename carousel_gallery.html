@@ -7,7 +7,34 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;600;700;800;900&display=swap" rel="stylesheet">
   <script src="https://cdn.tailwindcss.com"></script>
-  <style>body { font-family: 'Vazirmatn', sans-serif; letter-spacing: 0; background-color: #0b0d14; color: #f1f5f9; }</style>
+  <style>
+    @font-face {
+      font-family: 'VazirmatnFD';
+      src: url('fonts/Vazirmatn-FD-Regular.woff2') format('woff2');
+      font-weight: 400;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'VazirmatnFD';
+      src: url('fonts/Vazirmatn-FD-Bold.woff2') format('woff2');
+      font-weight: 700;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'VazirmatnFD';
+      src: url('fonts/Vazirmatn-FD-Black.woff2') format('woff2');
+      font-weight: 900;
+      font-style: normal;
+    }
+    * {
+      font-family: 'VazirmatnFD', 'Vazirmatn', Tahoma, sans-serif !important;
+      letter-spacing: 0 !important;
+    }
+    body {
+      background-color: #0b0d14;
+      color: #f1f5f9;
+    }
+  </style>
 </head>
 <body class="p-4 sm:p-8 max-w-7xl mx-auto min-h-screen flex flex-col">
   <header class="mb-8 flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-slate-800 pb-6">
