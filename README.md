@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://devsponsors.github.io">
+    <img src="https://devsponsors.github.io/assets/badges/sponsor.svg" alt="DevSponsors Badge">
+  </a>
+</p>
+
 # Iranian YouTubers Hub | دایرکتوری و جامعه یوتیوبرهای ایرانی
 
 پایگاه داده آزاد و پرتال دایرکتوری تولیدکنندگان محتوا و یوتیوبرهای ایرانی به صورت دسته‌بندی شده و متن‌باز.
