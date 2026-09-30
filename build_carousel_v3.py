@@ -135,44 +135,60 @@ def base_slide(slide_num, total, tag, title, body_html):
 </html>"""
 
 def generate_slides():
-    slides = []
-
-    # Slide 1: Cover
+    DATA_FILE = BASE_DIR / "data" / "youtubers.json"
     keoxer_av = get_avatar_b64("AriaKeoxer")
     putak_av = get_avatar_b64("BravePutak")
     silent_av = get_avatar_b64("FarshadSilent")
     mia_av = get_avatar_b64("MiaPlays")
+
+    slides = []
+
+    # Slide 1: Cover with mosaic of creators
+    with open(DATA_FILE, "r", encoding="utf-8") as f:
+        all_creators_list = json.load(f)
+    
+    # Pick top 48 creators for mosaic grid
+    top_creators_mosaic = all_creators_list[:48]
+    mosaic_imgs_html = "".join([
+        f'<img src="{get_avatar_b64(c["handle"])}" title="{c["name"]}" class="w-14 h-14 rounded-2xl object-cover border border-slate-700/80 shadow-md">'
+        for c in top_creators_mosaic
+    ])
+
     s1 = f"""
-    <div class="space-y-8">
-      <div class="p-10 rounded-3xl glass-panel glow-red border-red-500/40">
-        <h1 class="text-6xl font-black text-white leading-tight mb-5">
+    <div class="space-y-6">
+      <div class="p-8 rounded-3xl glass-panel glow-red border-red-500/40">
+        <h1 class="text-6xl font-black text-white leading-tight mb-4">
           آناتومی پنهان <span class="text-red-500">یوتیوب فارسی</span>
         </h1>
-        <p class="text-2xl text-slate-200 leading-relaxed font-medium">
+        <p class="text-xl text-slate-200 leading-relaxed font-medium">
           تحلیل ۲۳۹ کانال رسمی و ۲۵۰ میلیون بازدید؛ داده‌هایی که تولیدکنندگان محتوا و اسپانسرها درباره الگوریتم، درآمد و رکوردها به شما نمی‌گویند.
         </p>
       </div>
 
-      <div class="grid grid-cols-3 gap-5">
-        <div class="p-6 rounded-3xl glass-panel text-center border-slate-700">
-          <div class="text-5xl font-black text-white">{to_p(239)}</div>
-          <div class="text-base text-slate-400 mt-2 font-bold">کانال آنالیز شده</div>
+      <div class="grid grid-cols-3 gap-4">
+        <div class="p-5 rounded-2xl glass-panel text-center border-slate-700">
+          <div class="text-4xl font-black text-white">{to_p(239)}</div>
+          <div class="text-sm text-slate-400 mt-1 font-bold">کانال آنالیز شده</div>
         </div>
-        <div class="p-6 rounded-3xl glass-panel text-center border-slate-700">
-          <div class="text-5xl font-black text-red-400">+{to_p('250M')}</div>
-          <div class="text-base text-slate-400 mt-2 font-bold">بازدید بررسی شده</div>
+        <div class="p-5 rounded-2xl glass-panel text-center border-slate-700">
+          <div class="text-4xl font-black text-red-400">+{to_p('250M')}</div>
+          <div class="text-sm text-slate-400 mt-1 font-bold">بازدید بررسی شده</div>
         </div>
-        <div class="p-6 rounded-3xl glass-panel text-center border-slate-700">
-          <div class="text-5xl font-black text-amber-400">{to_p(10)}</div>
-          <div class="text-base text-slate-400 mt-2 font-bold">دسته‌بندی تخصصی</div>
+        <div class="p-5 rounded-2xl glass-panel text-center border-slate-700">
+          <div class="text-4xl font-black text-amber-400">{to_p(10)}</div>
+          <div class="text-sm text-slate-400 mt-1 font-bold">دسته‌بندی تخصصی</div>
         </div>
       </div>
 
-      <div class="flex items-center justify-center gap-4 pt-2">
-        <img src="{keoxer_av}" class="w-16 h-16 rounded-2xl object-cover border-2 border-red-500">
-        <img src="{putak_av}" class="w-16 h-16 rounded-2xl object-cover border-2 border-amber-500">
-        <img src="{silent_av}" class="w-16 h-16 rounded-2xl object-cover border-2 border-cyan-500">
-        <img src="{mia_av}" class="w-16 h-16 rounded-2xl object-cover border-2 border-pink-500">
+      <!-- Avatar Mosaic Grid -->
+      <div class="p-5 rounded-3xl glass-panel border-slate-800 space-y-3">
+        <div class="flex items-center justify-between text-xs font-bold text-slate-400 px-1">
+          <span>جامعه تولیدکنندگان محتوای یوتیوب فارسی</span>
+          <span class="text-red-400 font-mono">۲۳۹ CHANNELS</span>
+        </div>
+        <div class="grid grid-cols-8 gap-2.5 justify-items-center">
+          {mosaic_imgs_html}
+        </div>
       </div>
     </div>"""
     slides.append((1, "کالبدشکافی داده‌محور ۲۰۲۶", "گزارش جامع استراتژیک", s1))
@@ -861,9 +877,7 @@ def generate_slides():
     </div>"""
     slides.append((18, "تحول گیمینگ: داستان‌سرایی جایگزین شوترهای تکراری", "روندهای بازی", s18))
 
-    # Slide 19: Strategic Matrix with Avatars
-    qumars_av = get_avatar_b64("QumarsOfficial")
-    siamak_av = get_avatar_b64("SiamakGhassemi")
+    # Slide 19: Strategic Matrix (General advice, no specific avatars)
     s19 = f"""
     <div class="p-8 rounded-3xl glass-panel space-y-6">
       <div class="text-3xl font-black text-white">
@@ -871,20 +885,14 @@ def generate_slides():
       </div>
 
       <div class="space-y-4 text-slate-200">
-        <div class="p-5 rounded-2xl bg-emerald-950/50 border border-emerald-500/40 flex items-start gap-4">
-          <img src="{qumars_av}" class="w-14 h-14 rounded-2xl object-cover border border-emerald-500 shrink-0">
-          <div>
-            <div class="text-xl font-black text-emerald-400">توصیه طلایی به تولیدکنندگان محتوا:</div>
-            <div class="text-base text-slate-300 mt-1 leading-relaxed">وارد بازارهای اشباع‌شده نشوید. نیچ‌های خالی مانند اقتصاد فردی، آموزش‌های عملی، مستندهای تحقیقی و سینمای عمیق تشنه محتوای درجه یک هستند.</div>
-          </div>
+        <div class="p-6 rounded-3xl bg-emerald-950/50 border border-emerald-500/40">
+          <div class="text-2xl font-black text-emerald-400 mb-2">توصیه طلایی به تولیدکنندگان محتوا:</div>
+          <div class="text-lg text-slate-200 leading-relaxed">وارد بازارهای اشباع‌شده نشوید. نیچ‌های خالی مانند اقتصاد فردی، آموزش‌های عملی، مستندهای تحقیقی، نجوم و سینمای عمیق تشنه محتوای درجه یک هستند.</div>
         </div>
 
-        <div class="p-5 rounded-2xl bg-cyan-950/50 border border-cyan-500/40 flex items-start gap-4">
-          <img src="{siamak_av}" class="w-14 h-14 rounded-2xl object-cover border border-cyan-500 shrink-0">
-          <div>
-            <div class="text-xl font-black text-cyan-400">توصیه استراتژیک به اسپانسرها و برندها:</div>
-            <div class="text-base text-slate-300 mt-1 leading-relaxed">هرگز بر اساس تعداد سابسکرایبر قرارداد نبندید؛ معیار واقعی اثربخشی، میانگین بازدید ۳۰ روز گذشته و لحن تعاملی کامنت‌هاست.</div>
-          </div>
+        <div class="p-6 rounded-3xl bg-cyan-950/50 border border-cyan-500/40">
+          <div class="text-2xl font-black text-cyan-400 mb-2">توصیه استراتژیک به اسپانسرها و برندها:</div>
+          <div class="text-lg text-slate-200 leading-relaxed">هرگز بر اساس تعداد سابسکرایبر قرارداد نبندید؛ معیار واقعی اثربخشی، میانگین بازدید ۳۰ روز گذشته و لحن تعاملی کامنت‌هاست.</div>
         </div>
       </div>
     </div>"""
